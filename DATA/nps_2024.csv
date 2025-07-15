@@ -1,0 +1,2001 @@
+ID,Imie_Nazwisko,Ocena_NPS,Data,Komentarz,Skill,Tag,Stream
+1,Bartosz Jabłoński,6,2024-12-23,Zaskakująco dobra obsługa.,Skill_A,TAG_2,Stream1
+2,Natalia Sobczak,0,2024-01-24,Zgłoszenie zostało zignorowane.,Skill_A,TAG_1,Stream1
+3,Piotr Nowak,3,2024-03-26,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_B,TAG_6,Stream1
+4,Tomasz Wójcik,2,2024-02-05,Nie udało się rozwiązać mojego problemu.,Skill_A,TAG_1,Stream1
+5,Ewelina Wieczorek,1,2024-11-25,Nie jestem w pełni usatysfakcjonowany.,Skill_B,TAG_5,Stream1
+6,Natalia Sobczak,3,2024-03-29,Zgłoszenie zostało zignorowane.,Skill_A,TAG_4,Stream1
+7,Ewelina Wieczorek,8,2024-06-10,"Dużo słów, mało rozwiązań.",Skill_B,TAG_5,Stream1
+8,Natalia Sobczak,2,2024-04-05,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_A,TAG_3,Stream1
+9,Anna Kowalska,5,2024-07-16,Brak empatii i zrozumienia.,Skill_B,TAG_8,Stream1
+10,Maria Wiśniewska,3,2024-01-31,Nie polecam – strata czasu.,Skill_A,TAG_2,Stream1
+11,Natalia Sobczak,9,2024-06-27,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_A,TAG_4,Stream1
+12,Ewelina Wieczorek,0,2024-05-29,Zaskakująco dobra obsługa.,Skill_B,TAG_8,Stream1
+13,Ewelina Wieczorek,4,2024-05-06,"Nie było problemu, ale też bez zaangażowania.",Skill_A,TAG_4,Stream1
+14,Ewelina Wieczorek,0,2024-08-24,Obsługa była nieuprzejma.,Skill_A,TAG_3,Stream1
+15,Maria Wiśniewska,4,2024-02-14,Nie polecam – strata czasu.,Skill_A,TAG_1,Stream1
+16,Maria Wiśniewska,4,2024-10-02,Nie udało się rozwiązać mojego problemu.,Skill_A,TAG_4,Stream1
+17,Maria Wiśniewska,0,2024-08-23,Zwyczajna rozmowa – nic szczególnego.,Skill_B,TAG_8,Stream1
+18,Natalia Sobczak,4,2024-05-20,Świetne podejście – aż miło było rozmawiać!,Skill_A,TAG_1,Stream1
+19,Tomasz Wójcik,1,2024-03-21,Świetne podejście – aż miło było rozmawiać!,Skill_A,TAG_2,Stream1
+20,Ewelina Wieczorek,0,2024-11-18,Nie polecam – strata czasu.,Skill_A,TAG_2,Stream1
+21,Maria Wiśniewska,5,2024-09-14,"Świetna obsługa, bardzo dziękuję!",Skill_A,TAG_4,Stream1
+22,Natalia Sobczak,0,2024-09-16,Odpowiedź wymagała doprecyzowania.,Skill_B,TAG_5,Stream1
+23,Maria Wiśniewska,10,2024-08-14,"Dużo słów, mało rozwiązań.",Skill_A,TAG_4,Stream1
+24,Ewelina Wieczorek,7,2024-09-09,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_A,TAG_2,Stream1
+25,Piotr Nowak,7,2024-06-21,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_A,TAG_3,Stream1
+26,Anna Kowalska,7,2024-02-16,"Miło, rzeczowo, konkretnie – super!",Skill_A,TAG_4,Stream1
+27,Ewelina Wieczorek,7,2024-06-01,Obsługa na najwyższym poziomie.,Skill_A,TAG_3,Stream1
+28,Bartosz Jabłoński,4,2024-02-06,Dostałem odpowiedź na wszystkie pytania.,Skill_A,TAG_3,Stream1
+29,Damian Król,1,2024-06-09,Otrzymałem sprzeczne informacje.,Skill_B,TAG_6,Stream1
+30,Ewelina Wieczorek,1,2024-06-11,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_B,TAG_7,Stream1
+31,Tomasz Wójcik,3,2024-12-17,Dostałem odpowiedź na wszystkie pytania.,Skill_A,TAG_3,Stream1
+32,Piotr Nowak,5,2024-02-17,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_B,TAG_7,Stream1
+33,Piotr Nowak,8,2024-07-10,Rozmowa nieprzyjemna i nerwowa.,Skill_B,TAG_5,Stream1
+34,Maria Wiśniewska,1,2024-06-14,Odpowiedź wymagała doprecyzowania.,Skill_A,TAG_2,Stream1
+35,Tomasz Wójcik,0,2024-06-22,Nie polecam – strata czasu.,Skill_B,TAG_7,Stream1
+36,Ewelina Wieczorek,8,2024-01-31,Zdecydowanie polecam – profesjonalne podejście.,Skill_A,TAG_2,Stream1
+37,Maria Wiśniewska,5,2024-04-21,"Bardzo dobra rozmowa, dziękuję.",Skill_B,TAG_8,Stream1
+38,Tomasz Wójcik,0,2024-11-04,Kontakt pierwsza klasa!,Skill_B,TAG_5,Stream1
+39,Bartosz Jabłoński,5,2024-02-11,Zbyt ogólne informacje – nie pomogło.,Skill_B,TAG_5,Stream1
+40,Natalia Sobczak,7,2024-08-15,Nie wrócę więcej – bardzo słabo.,Skill_B,TAG_5,Stream1
+41,Ewelina Wieczorek,3,2024-07-15,Brak empatii i zrozumienia.,Skill_A,TAG_4,Stream1
+42,Maria Wiśniewska,5,2024-09-15,Nie wszystkie kwestie zostały wyjaśnione.,Skill_A,TAG_4,Stream1
+43,Damian Król,10,2024-08-02,Konsultant był pomocny i miły.,Skill_A,TAG_2,Stream1
+44,Maria Wiśniewska,9,2024-01-30,Rozmowa nieprzyjemna i nerwowa.,Skill_B,TAG_5,Stream1
+45,Ewelina Wieczorek,8,2024-09-07,"Bardzo dobra rozmowa, dziękuję.",Skill_A,TAG_4,Stream1
+46,Natalia Sobczak,4,2024-02-16,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_B,TAG_8,Stream1
+47,Piotr Nowak,10,2024-10-26,Nie jestem w pełni usatysfakcjonowany.,Skill_B,TAG_8,Stream1
+48,Bartosz Jabłoński,5,2024-09-23,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_A,TAG_1,Stream1
+49,Maria Wiśniewska,7,2024-09-11,Bardzo rzeczowo i konkretnie.,Skill_A,TAG_4,Stream1
+50,Anna Kowalska,5,2024-09-18,Nie udało się rozwiązać mojego problemu.,Skill_B,TAG_6,Stream1
+51,Piotr Nowak,5,2024-07-04,Kontakt pierwsza klasa!,Skill_A,TAG_1,Stream1
+52,Tomasz Wójcik,2,2024-11-10,"Miło, rzeczowo, konkretnie – super!",Skill_A,TAG_2,Stream1
+53,Tomasz Wójcik,7,2024-01-24,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_A,TAG_3,Stream1
+54,Anna Kowalska,4,2024-04-07,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_B,TAG_7,Stream1
+55,Maria Wiśniewska,0,2024-09-12,"Nie było problemu, ale też bez zaangażowania.",Skill_A,TAG_1,Stream1
+56,Natalia Sobczak,0,2024-07-02,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_A,TAG_1,Stream1
+57,Damian Król,10,2024-05-21,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_B,TAG_7,Stream1
+58,Maria Wiśniewska,1,2024-08-01,Otrzymałem sprzeczne informacje.,Skill_A,TAG_1,Stream1
+59,Anna Kowalska,0,2024-12-13,Nie udało się rozwiązać mojego problemu.,Skill_A,TAG_2,Stream1
+60,Tomasz Wójcik,9,2024-05-17,Obsługa była nieuprzejma.,Skill_B,TAG_8,Stream1
+61,Ewelina Wieczorek,0,2024-04-25,"Nie było problemu, ale też bez zaangażowania.",Skill_B,TAG_6,Stream1
+62,Anna Kowalska,8,2024-01-10,Jestem bardzo zadowolony z rozmowy.,Skill_A,TAG_2,Stream1
+63,Tomasz Wójcik,5,2024-12-31,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_B,TAG_5,Stream1
+64,Natalia Sobczak,8,2024-11-22,"Bardzo dobra rozmowa, dziękuję.",Skill_A,TAG_2,Stream1
+65,Damian Król,1,2024-12-04,Jestem bardzo zadowolony z rozmowy.,Skill_B,TAG_8,Stream1
+66,Natalia Sobczak,6,2024-03-27,"Dużo słów, mało rozwiązań.",Skill_B,TAG_5,Stream1
+67,Maria Wiśniewska,6,2024-06-21,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_A,TAG_4,Stream1
+68,Natalia Sobczak,0,2024-11-12,Kontakt szybki i konkretny.,Skill_A,TAG_2,Stream1
+69,Maria Wiśniewska,6,2024-02-11,Rozmowa nieprzyjemna i nerwowa.,Skill_B,TAG_7,Stream1
+70,Bartosz Jabłoński,2,2024-01-10,Świetne podejście – aż miło było rozmawiać!,Skill_B,TAG_5,Stream1
+71,Anna Kowalska,1,2024-10-05,"Dużo słów, mało rozwiązań.",Skill_B,TAG_8,Stream1
+72,Bartosz Jabłoński,2,2024-10-08,Odpowiedź wymagała doprecyzowania.,Skill_A,TAG_1,Stream1
+73,Damian Król,5,2024-07-01,Niezadowolony z poziomu obsługi.,Skill_A,TAG_4,Stream1
+74,Bartosz Jabłoński,8,2024-07-09,Zwyczajna rozmowa – nic szczególnego.,Skill_A,TAG_4,Stream1
+75,Maria Wiśniewska,4,2024-03-24,"Mogło być lepiej, ale doceniam starania.",Skill_A,TAG_2,Stream1
+76,Anna Kowalska,8,2024-11-21,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_B,TAG_6,Stream1
+77,Maria Wiśniewska,10,2024-08-09,Zgłoszenie zostało zignorowane.,Skill_B,TAG_5,Stream1
+78,Ewelina Wieczorek,7,2024-02-14,Konsultant był pomocny i miły.,Skill_A,TAG_3,Stream1
+79,Piotr Nowak,1,2024-07-16,Zbyt ogólne informacje – nie pomogło.,Skill_B,TAG_8,Stream1
+80,Maria Wiśniewska,3,2024-02-11,Zwyczajna rozmowa – nic szczególnego.,Skill_B,TAG_8,Stream1
+81,Maria Wiśniewska,5,2024-04-26,Nie jestem w pełni usatysfakcjonowany.,Skill_A,TAG_1,Stream1
+82,Bartosz Jabłoński,9,2024-09-23,Czułem się zbywany.,Skill_A,TAG_1,Stream1
+83,Anna Kowalska,0,2024-11-10,Świetne podejście – aż miło było rozmawiać!,Skill_A,TAG_3,Stream1
+84,Damian Król,4,2024-12-08,Nie wszystkie kwestie zostały wyjaśnione.,Skill_B,TAG_5,Stream1
+85,Maria Wiśniewska,10,2024-08-30,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_A,TAG_1,Stream1
+86,Natalia Sobczak,6,2024-02-03,Niezadowolony z poziomu obsługi.,Skill_A,TAG_4,Stream1
+87,Piotr Nowak,2,2024-04-10,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_B,TAG_8,Stream1
+88,Damian Król,10,2024-10-27,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_A,TAG_3,Stream1
+89,Anna Kowalska,2,2024-05-27,"Bardzo dobra rozmowa, dziękuję.",Skill_A,TAG_4,Stream1
+90,Bartosz Jabłoński,8,2024-07-24,Konsultant był nieprzygotowany.,Skill_B,TAG_7,Stream1
+91,Ewelina Wieczorek,0,2024-07-11,Nie wszystkie kwestie zostały wyjaśnione.,Skill_B,TAG_5,Stream1
+92,Ewelina Wieczorek,8,2024-03-01,Rozmowa nieprzyjemna i nerwowa.,Skill_B,TAG_6,Stream1
+93,Damian Król,8,2024-05-09,Brak konkretnej odpowiedzi.,Skill_A,TAG_3,Stream1
+94,Tomasz Wójcik,1,2024-08-13,Rozmowa nieprzyjemna i nerwowa.,Skill_B,TAG_7,Stream1
+95,Damian Król,2,2024-06-21,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_B,TAG_6,Stream1
+96,Tomasz Wójcik,4,2024-07-10,Jestem bardzo zadowolony z rozmowy.,Skill_B,TAG_8,Stream1
+97,Maria Wiśniewska,1,2024-12-04,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_B,TAG_5,Stream1
+98,Anna Kowalska,6,2024-04-29,Zignorowano moje pytania.,Skill_B,TAG_7,Stream1
+99,Tomasz Wójcik,10,2024-11-18,Rozmowa nieprzyjemna i nerwowa.,Skill_A,TAG_1,Stream1
+100,Piotr Nowak,6,2024-12-04,Zgłoszenie zostało zignorowane.,Skill_A,TAG_2,Stream1
+101,Damian Król,3,2024-03-23,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_A,TAG_2,Stream1
+102,Anna Kowalska,5,2024-05-27,Nie wrócę więcej – bardzo słabo.,Skill_A,TAG_1,Stream1
+103,Anna Kowalska,3,2024-12-02,Zaskakująco dobra obsługa.,Skill_A,TAG_4,Stream1
+104,Bartosz Jabłoński,4,2024-03-15,Doceniam szybkie działanie.,Skill_A,TAG_2,Stream1
+105,Tomasz Wójcik,9,2024-05-15,Konsultant z wiedzą i empatią.,Skill_A,TAG_1,Stream1
+106,Maria Wiśniewska,8,2024-06-12,Zdecydowanie polecam – profesjonalne podejście.,Skill_B,TAG_7,Stream1
+107,Maria Wiśniewska,3,2024-01-21,"Było w porządku, choć bez fajerwerków.",Skill_A,TAG_4,Stream1
+108,Tomasz Wójcik,8,2024-07-16,Świetne podejście – aż miło było rozmawiać!,Skill_A,TAG_3,Stream1
+109,Natalia Sobczak,9,2024-02-03,Nie polecam – strata czasu.,Skill_A,TAG_2,Stream1
+110,Piotr Nowak,8,2024-11-11,Długo czekałem na połączenie.,Skill_A,TAG_1,Stream1
+111,Anna Kowalska,6,2024-10-20,"Dużo słów, mało rozwiązań.",Skill_B,TAG_6,Stream1
+112,Maria Wiśniewska,8,2024-03-04,Konsultant z wiedzą i empatią.,Skill_A,TAG_3,Stream1
+113,Maria Wiśniewska,1,2024-03-16,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_A,TAG_4,Stream1
+114,Piotr Nowak,7,2024-12-25,Otrzymałem sprzeczne informacje.,Skill_A,TAG_2,Stream1
+115,Tomasz Wójcik,4,2024-10-04,Konsultant z wiedzą i empatią.,Skill_B,TAG_7,Stream1
+116,Damian Król,9,2024-06-14,Długo czekałem na połączenie.,Skill_B,TAG_7,Stream1
+117,Bartosz Jabłoński,4,2024-07-17,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_A,TAG_3,Stream1
+118,Anna Kowalska,1,2024-08-26,"Było w porządku, choć bez fajerwerków.",Skill_A,TAG_1,Stream1
+119,Ewelina Wieczorek,8,2024-12-26,Dostałem odpowiedź na wszystkie pytania.,Skill_B,TAG_5,Stream1
+120,Tomasz Wójcik,0,2024-03-13,"Dużo słów, mało rozwiązań.",Skill_B,TAG_8,Stream1
+121,Natalia Sobczak,2,2024-11-28,Trochę chaotyczna obsługa.,Skill_A,TAG_2,Stream1
+122,Damian Król,10,2024-09-21,Obsługa była nieuprzejma.,Skill_B,TAG_8,Stream1
+123,Anna Kowalska,4,2024-02-01,Rozwiązano mój problem od razu.,Skill_A,TAG_2,Stream1
+124,Piotr Nowak,4,2024-05-08,Otrzymałem sprzeczne informacje.,Skill_A,TAG_3,Stream1
+125,Natalia Sobczak,1,2024-09-11,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_B,TAG_5,Stream1
+126,Bartosz Jabłoński,9,2024-03-25,Rozwiązano mój problem od razu.,Skill_B,TAG_8,Stream1
+127,Anna Kowalska,9,2024-03-21,Bardzo rzeczowo i konkretnie.,Skill_B,TAG_8,Stream1
+128,Piotr Nowak,1,2024-08-14,Nie wszystkie kwestie zostały wyjaśnione.,Skill_A,TAG_3,Stream1
+129,Tomasz Wójcik,5,2024-02-16,"Było w porządku, choć bez fajerwerków.",Skill_A,TAG_4,Stream1
+130,Tomasz Wójcik,1,2024-01-29,Brak konkretnej odpowiedzi.,Skill_B,TAG_7,Stream1
+131,Bartosz Jabłoński,10,2024-04-14,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_A,TAG_4,Stream1
+132,Ewelina Wieczorek,0,2024-05-13,"Obsługa poprawna, ale bez zachwytu.",Skill_B,TAG_5,Stream1
+133,Piotr Nowak,6,2024-12-29,Zbyt ogólne informacje – nie pomogło.,Skill_A,TAG_4,Stream1
+134,Anna Kowalska,10,2024-12-29,Odpowiedź wymagała doprecyzowania.,Skill_A,TAG_3,Stream1
+135,Piotr Nowak,2,2024-07-14,Długo czekałem na połączenie.,Skill_A,TAG_2,Stream1
+136,Tomasz Wójcik,3,2024-02-10,Brak empatii i zrozumienia.,Skill_B,TAG_6,Stream1
+137,Ewelina Wieczorek,3,2024-06-20,Konsultant był nieprzygotowany.,Skill_A,TAG_1,Stream1
+138,Anna Kowalska,9,2024-09-23,"Miło, rzeczowo, konkretnie – super!",Skill_B,TAG_6,Stream1
+139,Maria Wiśniewska,6,2024-12-11,Doceniam szybkie działanie.,Skill_A,TAG_1,Stream1
+140,Maria Wiśniewska,7,2024-09-23,Niezadowolony z poziomu obsługi.,Skill_A,TAG_4,Stream1
+141,Bartosz Jabłoński,6,2024-12-15,Obsługa była nieuprzejma.,Skill_A,TAG_1,Stream1
+142,Anna Kowalska,1,2024-03-18,Zdecydowanie polecam – profesjonalne podejście.,Skill_B,TAG_7,Stream1
+143,Bartosz Jabłoński,8,2024-11-22,Brak empatii i zrozumienia.,Skill_A,TAG_1,Stream1
+144,Ewelina Wieczorek,0,2024-07-08,Doceniam szybkie działanie.,Skill_B,TAG_6,Stream1
+145,Tomasz Wójcik,6,2024-08-21,"Długi czas oczekiwania, ale reszta ok.",Skill_B,TAG_8,Stream1
+146,Natalia Sobczak,9,2024-12-20,"Bardzo dobra rozmowa, dziękuję.",Skill_A,TAG_1,Stream1
+147,Maria Wiśniewska,6,2024-01-10,Niezadowolony z poziomu obsługi.,Skill_B,TAG_5,Stream1
+148,Bartosz Jabłoński,3,2024-04-29,"Było w porządku, choć bez fajerwerków.",Skill_A,TAG_2,Stream1
+149,Tomasz Wójcik,9,2024-11-21,Brak empatii i zrozumienia.,Skill_A,TAG_3,Stream1
+150,Tomasz Wójcik,8,2024-08-06,Konsultant był pomocny i miły.,Skill_A,TAG_4,Stream1
+151,Ewelina Wieczorek,3,2024-10-09,Otrzymałem sprzeczne informacje.,Skill_A,TAG_4,Stream1
+152,Piotr Nowak,4,2024-12-12,Nie wszystkie kwestie zostały wyjaśnione.,Skill_B,TAG_8,Stream1
+153,Damian Król,7,2024-12-20,W końcu ktoś mi pomógł!,Skill_A,TAG_4,Stream1
+154,Tomasz Wójcik,3,2024-03-23,"Było w porządku, choć bez fajerwerków.",Skill_A,TAG_2,Stream1
+155,Anna Kowalska,6,2024-03-09,"Było w porządku, choć bez fajerwerków.",Skill_A,TAG_1,Stream1
+156,Bartosz Jabłoński,0,2024-09-11,"Bardzo dobra rozmowa, dziękuję.",Skill_B,TAG_6,Stream1
+157,Tomasz Wójcik,7,2024-10-08,Nie polecam – strata czasu.,Skill_B,TAG_8,Stream1
+158,Natalia Sobczak,6,2024-10-31,Konsultant z wiedzą i empatią.,Skill_A,TAG_1,Stream1
+159,Maria Wiśniewska,9,2024-02-16,Jestem bardzo zadowolony z rozmowy.,Skill_B,TAG_7,Stream1
+160,Ewelina Wieczorek,5,2024-08-13,"Mogło być lepiej, ale doceniam starania.",Skill_B,TAG_7,Stream1
+161,Anna Kowalska,6,2024-08-28,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_B,TAG_7,Stream1
+162,Maria Wiśniewska,3,2024-04-09,"Mogło być lepiej, ale doceniam starania.",Skill_A,TAG_4,Stream1
+163,Tomasz Wójcik,2,2024-04-17,"Długi czas oczekiwania, ale reszta ok.",Skill_A,TAG_2,Stream1
+164,Bartosz Jabłoński,7,2024-02-05,Trochę chaotyczna obsługa.,Skill_B,TAG_6,Stream1
+165,Maria Wiśniewska,2,2024-05-08,Nie polecam – strata czasu.,Skill_B,TAG_5,Stream1
+166,Anna Kowalska,10,2024-05-22,Jestem bardzo zadowolony z rozmowy.,Skill_B,TAG_7,Stream1
+167,Piotr Nowak,5,2024-01-18,Nie wszystkie kwestie zostały wyjaśnione.,Skill_A,TAG_4,Stream1
+168,Anna Kowalska,3,2024-08-27,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_B,TAG_5,Stream1
+169,Maria Wiśniewska,4,2024-10-31,Kontakt pierwsza klasa!,Skill_B,TAG_5,Stream1
+170,Tomasz Wójcik,5,2024-06-08,"Długi czas oczekiwania, ale reszta ok.",Skill_B,TAG_8,Stream1
+171,Anna Kowalska,8,2024-12-18,Doceniam szybkie działanie.,Skill_A,TAG_4,Stream1
+172,Damian Król,0,2024-12-13,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_A,TAG_4,Stream1
+173,Tomasz Wójcik,10,2024-07-17,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_A,TAG_1,Stream1
+174,Tomasz Wójcik,3,2024-05-11,"Świetna obsługa, bardzo dziękuję!",Skill_A,TAG_1,Stream1
+175,Maria Wiśniewska,5,2024-05-21,Nie polecam – strata czasu.,Skill_B,TAG_8,Stream1
+176,Maria Wiśniewska,4,2024-10-22,Zgłoszenie zostało zignorowane.,Skill_A,TAG_4,Stream1
+177,Damian Król,6,2024-11-06,Brak konkretnej odpowiedzi.,Skill_B,TAG_7,Stream1
+178,Piotr Nowak,4,2024-09-28,"Dużo słów, mało rozwiązań.",Skill_B,TAG_5,Stream1
+179,Anna Kowalska,10,2024-03-09,Niezadowolony z poziomu obsługi.,Skill_A,TAG_3,Stream1
+180,Tomasz Wójcik,3,2024-06-20,Obsługa na najwyższym poziomie.,Skill_B,TAG_8,Stream1
+181,Damian Król,0,2024-01-16,Zdecydowanie polecam – profesjonalne podejście.,Skill_A,TAG_1,Stream1
+182,Anna Kowalska,7,2024-02-29,Długo czekałem na połączenie.,Skill_B,TAG_6,Stream1
+183,Natalia Sobczak,8,2024-11-11,Trochę chaotyczna obsługa.,Skill_B,TAG_8,Stream1
+184,Ewelina Wieczorek,10,2024-04-25,Kontakt pierwsza klasa!,Skill_A,TAG_1,Stream1
+185,Tomasz Wójcik,0,2024-01-20,Długo czekałem na połączenie.,Skill_A,TAG_4,Stream1
+186,Tomasz Wójcik,7,2024-01-01,Trochę chaotyczna obsługa.,Skill_A,TAG_3,Stream1
+187,Natalia Sobczak,7,2024-12-21,"Obsługa poprawna, ale bez zachwytu.",Skill_B,TAG_6,Stream1
+188,Tomasz Wójcik,7,2024-02-25,Niezadowolony z poziomu obsługi.,Skill_B,TAG_7,Stream1
+189,Piotr Nowak,9,2024-01-07,"Dużo słów, mało rozwiązań.",Skill_A,TAG_3,Stream1
+190,Maria Wiśniewska,7,2024-11-29,W końcu ktoś mi pomógł!,Skill_B,TAG_7,Stream1
+191,Tomasz Wójcik,1,2024-09-21,Odpowiedź wymagała doprecyzowania.,Skill_A,TAG_2,Stream1
+192,Natalia Sobczak,2,2024-03-24,Rozwiązano mój problem od razu.,Skill_A,TAG_4,Stream1
+193,Ewelina Wieczorek,9,2024-09-21,Nie jestem w pełni usatysfakcjonowany.,Skill_B,TAG_7,Stream1
+194,Tomasz Wójcik,8,2024-01-31,Trochę chaotyczna obsługa.,Skill_B,TAG_5,Stream1
+195,Ewelina Wieczorek,8,2024-07-14,Doceniam szybkie działanie.,Skill_A,TAG_2,Stream1
+196,Damian Król,8,2024-09-27,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_B,TAG_7,Stream1
+197,Natalia Sobczak,3,2024-02-29,Zaskakująco dobra obsługa.,Skill_B,TAG_8,Stream1
+198,Anna Kowalska,3,2024-03-23,Otrzymałem sprzeczne informacje.,Skill_B,TAG_8,Stream1
+199,Piotr Nowak,0,2024-03-18,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_A,TAG_3,Stream1
+200,Tomasz Wójcik,1,2024-02-27,"Świetna obsługa, bardzo dziękuję!",Skill_A,TAG_3,Stream1
+201,Piotr Nowak,9,2024-08-03,W końcu ktoś mi pomógł!,Skill_A,TAG_4,Stream1
+202,Anna Kowalska,9,2024-06-14,Kontakt szybki i konkretny.,Skill_B,TAG_5,Stream1
+203,Maria Wiśniewska,6,2024-06-29,"Było w porządku, choć bez fajerwerków.",Skill_B,TAG_6,Stream1
+204,Bartosz Jabłoński,2,2024-04-13,Brak empatii i zrozumienia.,Skill_A,TAG_2,Stream1
+205,Anna Kowalska,10,2024-05-10,Zaskakująco dobra obsługa.,Skill_A,TAG_3,Stream1
+206,Piotr Nowak,0,2024-06-29,Zignorowano moje pytania.,Skill_B,TAG_7,Stream1
+207,Maria Wiśniewska,0,2024-01-29,Dostałem odpowiedź na wszystkie pytania.,Skill_A,TAG_3,Stream1
+208,Natalia Sobczak,1,2024-09-15,Konsultant był nieprzygotowany.,Skill_B,TAG_7,Stream1
+209,Natalia Sobczak,10,2024-05-01,Odpowiedź wymagała doprecyzowania.,Skill_B,TAG_5,Stream1
+210,Maria Wiśniewska,2,2024-07-18,Nie udało się rozwiązać mojego problemu.,Skill_A,TAG_4,Stream1
+211,Maria Wiśniewska,9,2024-10-17,Doceniam szybkie działanie.,Skill_A,TAG_2,Stream1
+212,Tomasz Wójcik,4,2024-05-03,Konsultant był nieprzygotowany.,Skill_A,TAG_2,Stream1
+213,Tomasz Wójcik,1,2024-01-31,Zdecydowanie polecam – profesjonalne podejście.,Skill_A,TAG_3,Stream1
+214,Natalia Sobczak,4,2024-03-15,Brak empatii i zrozumienia.,Skill_B,TAG_5,Stream1
+215,Anna Kowalska,0,2024-04-24,"Nie było problemu, ale też bez zaangażowania.",Skill_A,TAG_3,Stream1
+216,Tomasz Wójcik,3,2024-08-28,Doceniam szybkie działanie.,Skill_A,TAG_4,Stream1
+217,Anna Kowalska,6,2024-01-23,"Nie było problemu, ale też bez zaangażowania.",Skill_B,TAG_8,Stream1
+218,Anna Kowalska,3,2024-04-08,"Miło, rzeczowo, konkretnie – super!",Skill_A,TAG_4,Stream1
+219,Ewelina Wieczorek,9,2024-02-02,Zwyczajna rozmowa – nic szczególnego.,Skill_A,TAG_1,Stream1
+220,Damian Król,10,2024-11-08,"Miło, rzeczowo, konkretnie – super!",Skill_B,TAG_5,Stream1
+221,Bartosz Jabłoński,3,2024-01-14,Zbyt ogólne informacje – nie pomogło.,Skill_A,TAG_4,Stream1
+222,Bartosz Jabłoński,4,2024-11-15,"Obsługa poprawna, ale bez zachwytu.",Skill_B,TAG_8,Stream1
+223,Damian Król,4,2024-12-03,Świetne podejście – aż miło było rozmawiać!,Skill_B,TAG_7,Stream1
+224,Piotr Nowak,8,2024-05-11,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_B,TAG_8,Stream1
+225,Damian Król,2,2024-08-03,Trochę chaotyczna obsługa.,Skill_B,TAG_5,Stream1
+226,Tomasz Wójcik,8,2024-07-24,"Obsługa poprawna, ale bez zachwytu.",Skill_B,TAG_8,Stream1
+227,Anna Kowalska,3,2024-02-21,Otrzymałem sprzeczne informacje.,Skill_B,TAG_7,Stream1
+228,Piotr Nowak,10,2024-05-29,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_B,TAG_6,Stream1
+229,Anna Kowalska,8,2024-01-23,Zgłoszenie zostało zignorowane.,Skill_A,TAG_4,Stream1
+230,Piotr Nowak,1,2024-01-16,"Było w porządku, choć bez fajerwerków.",Skill_B,TAG_5,Stream1
+231,Ewelina Wieczorek,2,2024-06-20,Obsługa była nieuprzejma.,Skill_A,TAG_2,Stream1
+232,Anna Kowalska,0,2024-11-21,Długo czekałem na połączenie.,Skill_A,TAG_4,Stream1
+233,Piotr Nowak,5,2024-11-11,Rozwiązano mój problem od razu.,Skill_B,TAG_6,Stream1
+234,Ewelina Wieczorek,0,2024-03-23,Nie polecam – strata czasu.,Skill_B,TAG_5,Stream1
+235,Ewelina Wieczorek,10,2024-12-08,Czułem się zbywany.,Skill_A,TAG_2,Stream1
+236,Natalia Sobczak,4,2024-04-26,Nie wszystkie kwestie zostały wyjaśnione.,Skill_B,TAG_6,Stream1
+237,Anna Kowalska,9,2024-03-25,Kontakt pierwsza klasa!,Skill_A,TAG_3,Stream1
+238,Anna Kowalska,2,2024-03-23,Doceniam szybkie działanie.,Skill_A,TAG_2,Stream1
+239,Natalia Sobczak,7,2024-03-03,Kontakt pierwsza klasa!,Skill_B,TAG_6,Stream1
+240,Bartosz Jabłoński,1,2024-02-11,Brak empatii i zrozumienia.,Skill_A,TAG_4,Stream1
+241,Bartosz Jabłoński,4,2024-09-30,Zbyt ogólne informacje – nie pomogło.,Skill_B,TAG_5,Stream1
+242,Bartosz Jabłoński,8,2024-07-30,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_A,TAG_1,Stream1
+243,Natalia Sobczak,8,2024-04-22,"Obsługa poprawna, ale bez zachwytu.",Skill_A,TAG_3,Stream1
+244,Maria Wiśniewska,7,2024-03-01,Konsultant był pomocny i miły.,Skill_B,TAG_5,Stream1
+245,Tomasz Wójcik,3,2024-12-28,Nie polecam – strata czasu.,Skill_A,TAG_1,Stream1
+246,Bartosz Jabłoński,7,2024-05-17,Bardzo rzeczowo i konkretnie.,Skill_B,TAG_7,Stream1
+247,Natalia Sobczak,5,2024-01-31,"Miło, rzeczowo, konkretnie – super!",Skill_B,TAG_8,Stream1
+248,Bartosz Jabłoński,8,2024-02-11,Konsultant był pomocny i miły.,Skill_A,TAG_1,Stream1
+249,Piotr Nowak,1,2024-11-03,Rozmowa nieprzyjemna i nerwowa.,Skill_A,TAG_4,Stream1
+250,Damian Król,7,2024-03-30,Zdecydowanie polecam – profesjonalne podejście.,Skill_A,TAG_3,Stream1
+251,Piotr Nowak,7,2024-10-29,"Mogło być lepiej, ale doceniam starania.",Skill_B,TAG_6,Stream1
+252,Natalia Sobczak,10,2024-04-21,Zwyczajna rozmowa – nic szczególnego.,Skill_B,TAG_5,Stream1
+253,Bartosz Jabłoński,8,2024-01-21,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_A,TAG_2,Stream1
+254,Maria Wiśniewska,6,2024-11-29,Konsultant był nieprzygotowany.,Skill_A,TAG_1,Stream1
+255,Ewelina Wieczorek,4,2024-09-22,"Bardzo dobra rozmowa, dziękuję.",Skill_A,TAG_1,Stream1
+256,Piotr Nowak,5,2024-01-12,Otrzymałem sprzeczne informacje.,Skill_B,TAG_8,Stream1
+257,Damian Król,9,2024-04-17,Rozwiązano mój problem od razu.,Skill_B,TAG_6,Stream1
+258,Damian Król,5,2024-10-03,Długo czekałem na połączenie.,Skill_A,TAG_1,Stream1
+259,Ewelina Wieczorek,5,2024-05-17,Nie udało się rozwiązać mojego problemu.,Skill_A,TAG_2,Stream1
+260,Maria Wiśniewska,3,2024-04-04,Rozmowa nieprzyjemna i nerwowa.,Skill_A,TAG_1,Stream1
+261,Natalia Sobczak,4,2024-03-07,"Było w porządku, choć bez fajerwerków.",Skill_A,TAG_4,Stream1
+262,Anna Kowalska,1,2024-04-07,Zdecydowanie polecam – profesjonalne podejście.,Skill_A,TAG_3,Stream1
+263,Piotr Nowak,0,2024-10-06,Kontakt szybki i konkretny.,Skill_B,TAG_6,Stream1
+264,Ewelina Wieczorek,2,2024-01-31,Konsultant był nieprzygotowany.,Skill_B,TAG_8,Stream1
+265,Maria Wiśniewska,2,2024-07-11,Jestem bardzo zadowolony z rozmowy.,Skill_B,TAG_7,Stream1
+266,Piotr Nowak,8,2024-07-10,Konsultant był pomocny i miły.,Skill_A,TAG_3,Stream1
+267,Anna Kowalska,3,2024-04-29,"Neutralna rozmowa, nie mam uwag.",Skill_A,TAG_3,Stream1
+268,Maria Wiśniewska,6,2024-08-01,"Nie było problemu, ale też bez zaangażowania.",Skill_A,TAG_4,Stream1
+269,Anna Kowalska,6,2024-04-14,Nie wrócę więcej – bardzo słabo.,Skill_A,TAG_1,Stream1
+270,Anna Kowalska,0,2024-12-08,Brak konkretnej odpowiedzi.,Skill_A,TAG_2,Stream1
+271,Bartosz Jabłoński,8,2024-06-19,"Długi czas oczekiwania, ale reszta ok.",Skill_A,TAG_2,Stream1
+272,Maria Wiśniewska,7,2024-09-09,"Neutralna rozmowa, nie mam uwag.",Skill_A,TAG_2,Stream1
+273,Maria Wiśniewska,7,2024-09-12,Świetne podejście – aż miło było rozmawiać!,Skill_B,TAG_7,Stream1
+274,Damian Król,0,2024-11-02,"Długi czas oczekiwania, ale reszta ok.",Skill_B,TAG_5,Stream1
+275,Natalia Sobczak,3,2024-06-09,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_A,TAG_1,Stream1
+276,Anna Kowalska,8,2024-12-02,Zignorowano moje pytania.,Skill_A,TAG_3,Stream1
+277,Maria Wiśniewska,6,2024-09-27,Zaskakująco dobra obsługa.,Skill_A,TAG_3,Stream1
+278,Anna Kowalska,4,2024-01-07,Rozwiązano mój problem od razu.,Skill_A,TAG_2,Stream1
+279,Anna Kowalska,6,2024-02-28,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_B,TAG_8,Stream1
+280,Tomasz Wójcik,9,2024-08-17,Nie udało się rozwiązać mojego problemu.,Skill_B,TAG_7,Stream1
+281,Maria Wiśniewska,3,2024-04-15,Dostałem odpowiedź na wszystkie pytania.,Skill_B,TAG_5,Stream1
+282,Tomasz Wójcik,4,2024-08-12,"Miło, rzeczowo, konkretnie – super!",Skill_A,TAG_4,Stream1
+283,Natalia Sobczak,4,2024-02-10,Odpowiedź wymagała doprecyzowania.,Skill_A,TAG_1,Stream1
+284,Ewelina Wieczorek,4,2024-03-29,Zignorowano moje pytania.,Skill_A,TAG_2,Stream1
+285,Natalia Sobczak,4,2024-04-19,Niezadowolony z poziomu obsługi.,Skill_A,TAG_4,Stream1
+286,Tomasz Wójcik,6,2024-05-14,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_B,TAG_6,Stream1
+287,Maria Wiśniewska,0,2024-02-02,Trochę chaotyczna obsługa.,Skill_B,TAG_8,Stream1
+288,Anna Kowalska,10,2024-01-12,"Obsługa poprawna, ale bez zachwytu.",Skill_B,TAG_5,Stream1
+289,Anna Kowalska,4,2024-04-17,Brak empatii i zrozumienia.,Skill_B,TAG_8,Stream1
+290,Bartosz Jabłoński,9,2024-01-03,Zaskakująco dobra obsługa.,Skill_A,TAG_1,Stream1
+291,Damian Król,7,2024-09-19,Brak empatii i zrozumienia.,Skill_B,TAG_8,Stream1
+292,Tomasz Wójcik,6,2024-12-23,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_A,TAG_4,Stream1
+293,Ewelina Wieczorek,3,2024-01-14,Długo czekałem na połączenie.,Skill_A,TAG_4,Stream1
+294,Bartosz Jabłoński,2,2024-07-08,Konsultant był pomocny i miły.,Skill_B,TAG_5,Stream1
+295,Ewelina Wieczorek,6,2024-03-04,"Długi czas oczekiwania, ale reszta ok.",Skill_A,TAG_1,Stream1
+296,Damian Król,3,2024-02-14,Jestem bardzo zadowolony z rozmowy.,Skill_A,TAG_3,Stream1
+297,Damian Król,10,2024-10-20,Doceniam szybkie działanie.,Skill_A,TAG_1,Stream1
+298,Tomasz Wójcik,0,2024-04-11,Obsługa na najwyższym poziomie.,Skill_B,TAG_5,Stream1
+299,Natalia Sobczak,4,2024-10-20,Trochę chaotyczna obsługa.,Skill_A,TAG_1,Stream1
+300,Bartosz Jabłoński,3,2024-11-02,Nie polecam – strata czasu.,Skill_A,TAG_1,Stream1
+301,Piotr Nowak,7,2024-04-09,Trochę chaotyczna obsługa.,Skill_B,TAG_6,Stream1
+302,Ewelina Wieczorek,6,2024-04-26,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_A,TAG_1,Stream1
+303,Tomasz Wójcik,7,2024-05-09,Otrzymałem sprzeczne informacje.,Skill_B,TAG_7,Stream1
+304,Piotr Nowak,5,2024-04-21,"Bardzo dobra rozmowa, dziękuję.",Skill_B,TAG_6,Stream1
+305,Maria Wiśniewska,7,2024-11-23,"Dużo słów, mało rozwiązań.",Skill_A,TAG_2,Stream1
+306,Maria Wiśniewska,10,2024-09-02,Odpowiedź wymagała doprecyzowania.,Skill_B,TAG_6,Stream1
+307,Bartosz Jabłoński,2,2024-09-02,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_B,TAG_5,Stream1
+308,Damian Król,2,2024-03-10,Obsługa na najwyższym poziomie.,Skill_B,TAG_5,Stream1
+309,Ewelina Wieczorek,7,2024-01-30,Kontakt szybki i konkretny.,Skill_B,TAG_8,Stream1
+310,Natalia Sobczak,3,2024-12-15,Zaskakująco dobra obsługa.,Skill_B,TAG_6,Stream1
+311,Piotr Nowak,8,2024-02-19,Dostałem odpowiedź na wszystkie pytania.,Skill_A,TAG_2,Stream1
+312,Damian Król,7,2024-12-03,Rozmowa nieprzyjemna i nerwowa.,Skill_A,TAG_2,Stream1
+313,Maria Wiśniewska,3,2024-02-13,Niezadowolony z poziomu obsługi.,Skill_A,TAG_2,Stream1
+314,Bartosz Jabłoński,3,2024-11-17,Zgłoszenie zostało zignorowane.,Skill_A,TAG_3,Stream1
+315,Damian Król,1,2024-11-02,"Nie było problemu, ale też bez zaangażowania.",Skill_A,TAG_1,Stream1
+316,Anna Kowalska,5,2024-06-10,Obsługa na najwyższym poziomie.,Skill_A,TAG_2,Stream1
+317,Maria Wiśniewska,2,2024-05-17,Trochę chaotyczna obsługa.,Skill_B,TAG_5,Stream1
+318,Bartosz Jabłoński,9,2024-11-26,Obsługa była nieuprzejma.,Skill_B,TAG_5,Stream1
+319,Damian Król,2,2024-07-18,"Obsługa poprawna, ale bez zachwytu.",Skill_B,TAG_6,Stream1
+320,Ewelina Wieczorek,4,2024-11-11,Trochę chaotyczna obsługa.,Skill_A,TAG_1,Stream1
+321,Anna Kowalska,4,2024-09-16,Zaskakująco dobra obsługa.,Skill_A,TAG_2,Stream1
+322,Ewelina Wieczorek,4,2024-10-30,"Mogło być lepiej, ale doceniam starania.",Skill_A,TAG_2,Stream1
+323,Bartosz Jabłoński,3,2024-11-05,Rozwiązano mój problem od razu.,Skill_A,TAG_1,Stream1
+324,Ewelina Wieczorek,9,2024-11-20,"Obsługa poprawna, ale bez zachwytu.",Skill_B,TAG_6,Stream1
+325,Natalia Sobczak,5,2024-11-26,"Miło, rzeczowo, konkretnie – super!",Skill_A,TAG_2,Stream1
+326,Tomasz Wójcik,1,2024-05-06,Nie wszystkie kwestie zostały wyjaśnione.,Skill_B,TAG_6,Stream1
+327,Ewelina Wieczorek,7,2024-01-26,"Neutralna rozmowa, nie mam uwag.",Skill_B,TAG_8,Stream1
+328,Bartosz Jabłoński,10,2024-02-15,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_B,TAG_6,Stream1
+329,Bartosz Jabłoński,9,2024-01-09,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_B,TAG_6,Stream1
+330,Tomasz Wójcik,5,2024-08-06,"Nie było problemu, ale też bez zaangażowania.",Skill_A,TAG_1,Stream1
+331,Piotr Nowak,1,2024-11-03,Niezadowolony z poziomu obsługi.,Skill_A,TAG_3,Stream1
+332,Bartosz Jabłoński,0,2024-09-05,W końcu ktoś mi pomógł!,Skill_A,TAG_1,Stream1
+333,Natalia Sobczak,8,2024-05-06,"Neutralna rozmowa, nie mam uwag.",Skill_A,TAG_3,Stream1
+334,Ewelina Wieczorek,2,2024-02-17,Brak empatii i zrozumienia.,Skill_B,TAG_6,Stream1
+335,Anna Kowalska,5,2024-04-03,Dostałem odpowiedź na wszystkie pytania.,Skill_A,TAG_1,Stream1
+336,Piotr Nowak,8,2024-12-16,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_B,TAG_6,Stream1
+337,Piotr Nowak,10,2024-03-29,"Bardzo dobra rozmowa, dziękuję.",Skill_A,TAG_3,Stream1
+338,Tomasz Wójcik,6,2024-01-09,Konsultant był pomocny i miły.,Skill_B,TAG_5,Stream1
+339,Natalia Sobczak,8,2024-11-10,"Miło, rzeczowo, konkretnie – super!",Skill_B,TAG_8,Stream1
+340,Bartosz Jabłoński,4,2024-02-23,Nie jestem w pełni usatysfakcjonowany.,Skill_B,TAG_6,Stream1
+341,Piotr Nowak,0,2024-07-19,"Dużo słów, mało rozwiązań.",Skill_B,TAG_6,Stream1
+342,Tomasz Wójcik,0,2024-08-29,Doceniam szybkie działanie.,Skill_A,TAG_1,Stream1
+343,Maria Wiśniewska,5,2024-06-28,Zbyt ogólne informacje – nie pomogło.,Skill_B,TAG_7,Stream1
+344,Maria Wiśniewska,5,2024-03-06,"Neutralna rozmowa, nie mam uwag.",Skill_B,TAG_7,Stream1
+345,Tomasz Wójcik,2,2024-08-29,Nie udało się rozwiązać mojego problemu.,Skill_A,TAG_1,Stream1
+346,Tomasz Wójcik,10,2024-12-25,Bardzo rzeczowo i konkretnie.,Skill_B,TAG_7,Stream1
+347,Natalia Sobczak,9,2024-11-19,Konsultant był nieprzygotowany.,Skill_A,TAG_3,Stream1
+348,Piotr Nowak,6,2024-10-25,Konsultant był pomocny i miły.,Skill_B,TAG_5,Stream1
+349,Ewelina Wieczorek,0,2024-02-05,Jestem bardzo zadowolony z rozmowy.,Skill_A,TAG_2,Stream1
+350,Maria Wiśniewska,5,2024-02-22,Konsultant był nieprzygotowany.,Skill_A,TAG_3,Stream1
+351,Damian Król,4,2024-07-29,Kontakt pierwsza klasa!,Skill_A,TAG_1,Stream1
+352,Ewelina Wieczorek,8,2024-11-16,Nie wszystkie kwestie zostały wyjaśnione.,Skill_A,TAG_4,Stream1
+353,Tomasz Wójcik,2,2024-02-20,"Było w porządku, choć bez fajerwerków.",Skill_B,TAG_5,Stream1
+354,Bartosz Jabłoński,10,2024-09-23,"Miło, rzeczowo, konkretnie – super!",Skill_B,TAG_7,Stream1
+355,Damian Król,5,2024-09-08,Konsultant był pomocny i miły.,Skill_A,TAG_3,Stream1
+356,Piotr Nowak,0,2024-09-25,Trochę chaotyczna obsługa.,Skill_A,TAG_3,Stream1
+357,Ewelina Wieczorek,6,2024-06-10,Doceniam szybkie działanie.,Skill_A,TAG_4,Stream1
+358,Tomasz Wójcik,4,2024-06-12,Nie jestem w pełni usatysfakcjonowany.,Skill_B,TAG_6,Stream1
+359,Maria Wiśniewska,6,2024-06-10,"Bardzo dobra rozmowa, dziękuję.",Skill_A,TAG_3,Stream1
+360,Maria Wiśniewska,1,2024-06-19,"Świetna obsługa, bardzo dziękuję!",Skill_A,TAG_2,Stream1
+361,Natalia Sobczak,9,2024-02-08,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_A,TAG_3,Stream1
+362,Natalia Sobczak,4,2024-07-12,Konsultant był pomocny i miły.,Skill_A,TAG_2,Stream1
+363,Maria Wiśniewska,0,2024-02-03,"Dużo słów, mało rozwiązań.",Skill_A,TAG_2,Stream1
+364,Anna Kowalska,5,2024-07-16,Konsultant był nieprzygotowany.,Skill_B,TAG_6,Stream1
+365,Natalia Sobczak,0,2024-11-04,Zbyt ogólne informacje – nie pomogło.,Skill_B,TAG_8,Stream1
+366,Tomasz Wójcik,6,2024-05-10,Trochę chaotyczna obsługa.,Skill_B,TAG_8,Stream1
+367,Natalia Sobczak,10,2024-12-26,"Neutralna rozmowa, nie mam uwag.",Skill_B,TAG_7,Stream1
+368,Ewelina Wieczorek,6,2024-08-31,Bardzo rzeczowo i konkretnie.,Skill_A,TAG_2,Stream1
+369,Bartosz Jabłoński,9,2024-09-19,Brak konkretnej odpowiedzi.,Skill_A,TAG_2,Stream1
+370,Ewelina Wieczorek,4,2024-11-16,Kontakt szybki i konkretny.,Skill_B,TAG_7,Stream1
+371,Anna Kowalska,4,2024-02-26,Zignorowano moje pytania.,Skill_A,TAG_1,Stream1
+372,Damian Król,8,2024-01-02,Zbyt ogólne informacje – nie pomogło.,Skill_A,TAG_2,Stream1
+373,Maria Wiśniewska,10,2024-08-29,Rozwiązano mój problem od razu.,Skill_A,TAG_1,Stream1
+374,Piotr Nowak,7,2024-12-18,Konsultant z wiedzą i empatią.,Skill_A,TAG_4,Stream1
+375,Ewelina Wieczorek,2,2024-07-30,Nie polecam – strata czasu.,Skill_A,TAG_4,Stream1
+376,Bartosz Jabłoński,0,2024-03-01,"Dużo słów, mało rozwiązań.",Skill_B,TAG_5,Stream1
+377,Piotr Nowak,2,2024-04-30,Świetne podejście – aż miło było rozmawiać!,Skill_B,TAG_5,Stream1
+378,Ewelina Wieczorek,10,2024-09-29,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_A,TAG_2,Stream1
+379,Anna Kowalska,6,2024-04-26,"Długi czas oczekiwania, ale reszta ok.",Skill_A,TAG_1,Stream1
+380,Tomasz Wójcik,8,2024-07-15,"Bardzo dobra rozmowa, dziękuję.",Skill_A,TAG_4,Stream1
+381,Damian Król,0,2024-10-13,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_B,TAG_5,Stream1
+382,Bartosz Jabłoński,7,2024-09-22,Nie wrócę więcej – bardzo słabo.,Skill_B,TAG_6,Stream1
+383,Anna Kowalska,5,2024-07-02,Świetne podejście – aż miło było rozmawiać!,Skill_A,TAG_3,Stream1
+384,Anna Kowalska,0,2024-08-11,"Było w porządku, choć bez fajerwerków.",Skill_B,TAG_8,Stream1
+385,Anna Kowalska,9,2024-01-20,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_A,TAG_4,Stream1
+386,Ewelina Wieczorek,3,2024-01-11,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_A,TAG_2,Stream1
+387,Damian Król,0,2024-02-22,Obsługa na najwyższym poziomie.,Skill_A,TAG_1,Stream1
+388,Anna Kowalska,0,2024-07-15,Konsultant z wiedzą i empatią.,Skill_A,TAG_3,Stream1
+389,Natalia Sobczak,5,2024-03-24,Zignorowano moje pytania.,Skill_B,TAG_8,Stream1
+390,Natalia Sobczak,6,2024-01-13,Niezadowolony z poziomu obsługi.,Skill_A,TAG_3,Stream1
+391,Bartosz Jabłoński,4,2024-07-21,"Miło, rzeczowo, konkretnie – super!",Skill_A,TAG_2,Stream1
+392,Natalia Sobczak,6,2024-12-29,Zbyt ogólne informacje – nie pomogło.,Skill_A,TAG_3,Stream1
+393,Piotr Nowak,10,2024-05-23,Zbyt ogólne informacje – nie pomogło.,Skill_A,TAG_3,Stream1
+394,Piotr Nowak,0,2024-08-23,"Nie było problemu, ale też bez zaangażowania.",Skill_A,TAG_4,Stream1
+395,Ewelina Wieczorek,1,2024-04-20,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_B,TAG_8,Stream1
+396,Tomasz Wójcik,7,2024-10-20,"Nie było problemu, ale też bez zaangażowania.",Skill_B,TAG_6,Stream1
+397,Natalia Sobczak,3,2024-05-23,Odpowiedź wymagała doprecyzowania.,Skill_A,TAG_3,Stream1
+398,Maria Wiśniewska,10,2024-12-18,Obsługa była nieuprzejma.,Skill_B,TAG_7,Stream1
+399,Ewelina Wieczorek,10,2024-11-28,"Bardzo dobra rozmowa, dziękuję.",Skill_A,TAG_1,Stream1
+400,Tomasz Wójcik,6,2024-09-22,Nie udało się rozwiązać mojego problemu.,Skill_A,TAG_1,Stream1
+401,Natalia Sobczak,5,2024-08-26,"Bardzo dobra rozmowa, dziękuję.",Skill_B,TAG_5,Stream1
+402,Natalia Sobczak,7,2024-08-24,Kontakt szybki i konkretny.,Skill_B,TAG_6,Stream1
+403,Damian Król,4,2024-05-07,Brak empatii i zrozumienia.,Skill_B,TAG_5,Stream1
+404,Natalia Sobczak,1,2024-05-31,"Było w porządku, choć bez fajerwerków.",Skill_A,TAG_2,Stream1
+405,Ewelina Wieczorek,0,2024-08-23,Obsługa była nieuprzejma.,Skill_A,TAG_1,Stream1
+406,Piotr Nowak,7,2024-04-10,Niezadowolony z poziomu obsługi.,Skill_A,TAG_1,Stream1
+407,Anna Kowalska,0,2024-02-05,Brak empatii i zrozumienia.,Skill_A,TAG_2,Stream1
+408,Anna Kowalska,4,2024-05-03,Brak empatii i zrozumienia.,Skill_A,TAG_3,Stream1
+409,Bartosz Jabłoński,8,2024-09-18,Zaskakująco dobra obsługa.,Skill_A,TAG_1,Stream1
+410,Piotr Nowak,2,2024-11-30,Trochę chaotyczna obsługa.,Skill_B,TAG_6,Stream1
+411,Ewelina Wieczorek,3,2024-03-27,Doceniam szybkie działanie.,Skill_B,TAG_7,Stream1
+412,Damian Król,7,2024-07-16,Bardzo rzeczowo i konkretnie.,Skill_B,TAG_8,Stream1
+413,Damian Król,0,2024-12-01,Zbyt ogólne informacje – nie pomogło.,Skill_A,TAG_3,Stream1
+414,Piotr Nowak,6,2024-03-21,Obsługa była nieuprzejma.,Skill_A,TAG_1,Stream1
+415,Damian Król,7,2024-05-06,Otrzymałem sprzeczne informacje.,Skill_B,TAG_5,Stream1
+416,Bartosz Jabłoński,5,2024-04-17,Zignorowano moje pytania.,Skill_A,TAG_1,Stream1
+417,Bartosz Jabłoński,0,2024-11-11,Zwyczajna rozmowa – nic szczególnego.,Skill_B,TAG_7,Stream1
+418,Maria Wiśniewska,4,2024-12-06,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_B,TAG_8,Stream1
+419,Ewelina Wieczorek,5,2024-05-08,Nie jestem w pełni usatysfakcjonowany.,Skill_B,TAG_5,Stream1
+420,Maria Wiśniewska,7,2024-07-12,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_A,TAG_1,Stream1
+421,Katarzyna Kozłowska,10,2024-07-17,"Neutralna rozmowa, nie mam uwag.",Skill_D,TAG_14,Stream2
+422,Katarzyna Kozłowska,9,2024-01-08,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_D,TAG_13,Stream2
+423,Katarzyna Kozłowska,6,2024-03-06,"Bardzo dobra rozmowa, dziękuję.",Skill_C,TAG_9,Stream2
+424,Michał Jankowski,5,2024-06-19,Dostałem odpowiedź na wszystkie pytania.,Skill_C,TAG_10,Stream2
+425,Katarzyna Kozłowska,6,2024-07-18,Obsługa była nieuprzejma.,Skill_C,TAG_12,Stream2
+426,Jakub Krawczyk,0,2024-03-27,Nie wszystkie kwestie zostały wyjaśnione.,Skill_C,TAG_10,Stream2
+427,Katarzyna Kozłowska,6,2024-07-30,"Było w porządku, choć bez fajerwerków.",Skill_C,TAG_10,Stream2
+428,Michał Jankowski,7,2024-10-11,"Nie było problemu, ale też bez zaangażowania.",Skill_C,TAG_9,Stream2
+429,Katarzyna Kozłowska,9,2024-05-24,Rozmowa nieprzyjemna i nerwowa.,Skill_D,TAG_15,Stream2
+430,Katarzyna Kozłowska,2,2024-11-11,Brak konkretnej odpowiedzi.,Skill_D,TAG_13,Stream2
+431,Agnieszka Mazur,1,2024-02-07,Nie udało się rozwiązać mojego problemu.,Skill_C,TAG_10,Stream2
+432,Katarzyna Kozłowska,5,2024-02-07,"Świetna obsługa, bardzo dziękuję!",Skill_D,TAG_13,Stream2
+433,Katarzyna Kozłowska,2,2024-02-07,Obsługa była nieuprzejma.,Skill_D,TAG_15,Stream2
+434,Jakub Krawczyk,4,2024-01-02,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_D,TAG_14,Stream2
+435,Agnieszka Mazur,4,2024-04-14,Trochę chaotyczna obsługa.,Skill_D,TAG_13,Stream2
+436,Katarzyna Kozłowska,0,2024-06-12,Nie wrócę więcej – bardzo słabo.,Skill_C,TAG_9,Stream2
+437,Katarzyna Kozłowska,7,2024-08-12,Odpowiedź wymagała doprecyzowania.,Skill_D,TAG_16,Stream2
+438,Jakub Krawczyk,8,2024-12-12,Rozwiązano mój problem od razu.,Skill_C,TAG_10,Stream2
+439,Katarzyna Kozłowska,4,2024-03-03,Nie wrócę więcej – bardzo słabo.,Skill_C,TAG_9,Stream2
+440,Jakub Krawczyk,4,2024-10-02,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_D,TAG_14,Stream2
+441,Jakub Krawczyk,2,2024-08-01,"Miło, rzeczowo, konkretnie – super!",Skill_C,TAG_10,Stream2
+442,Katarzyna Kozłowska,7,2024-12-01,Kontakt pierwsza klasa!,Skill_C,TAG_10,Stream2
+443,Agnieszka Mazur,10,2024-01-13,Nie wszystkie kwestie zostały wyjaśnione.,Skill_D,TAG_13,Stream2
+444,Katarzyna Kozłowska,10,2024-07-04,Nie polecam – strata czasu.,Skill_C,TAG_11,Stream2
+445,Katarzyna Kozłowska,2,2024-02-25,Nie wszystkie kwestie zostały wyjaśnione.,Skill_C,TAG_11,Stream2
+446,Agnieszka Mazur,3,2024-10-06,"Mogło być lepiej, ale doceniam starania.",Skill_C,TAG_9,Stream2
+447,Agnieszka Mazur,7,2024-05-10,Niezadowolony z poziomu obsługi.,Skill_C,TAG_12,Stream2
+448,Jakub Krawczyk,9,2024-12-31,Zdecydowanie polecam – profesjonalne podejście.,Skill_D,TAG_13,Stream2
+449,Katarzyna Kozłowska,2,2024-09-02,Zbyt ogólne informacje – nie pomogło.,Skill_C,TAG_9,Stream2
+450,Jakub Krawczyk,1,2024-02-16,Brak empatii i zrozumienia.,Skill_C,TAG_10,Stream2
+451,Agnieszka Mazur,1,2024-09-26,Obsługa była nieuprzejma.,Skill_C,TAG_10,Stream2
+452,Michał Jankowski,3,2024-08-09,"Mogło być lepiej, ale doceniam starania.",Skill_C,TAG_12,Stream2
+453,Agnieszka Mazur,5,2024-10-28,Obsługa była nieuprzejma.,Skill_C,TAG_11,Stream2
+454,Jakub Krawczyk,10,2024-10-24,"Miło, rzeczowo, konkretnie – super!",Skill_D,TAG_16,Stream2
+455,Agnieszka Mazur,8,2024-06-03,Brak konkretnej odpowiedzi.,Skill_C,TAG_10,Stream2
+456,Jakub Krawczyk,10,2024-03-03,"Bardzo dobra rozmowa, dziękuję.",Skill_D,TAG_14,Stream2
+457,Michał Jankowski,0,2024-10-29,"Obsługa poprawna, ale bez zachwytu.",Skill_D,TAG_13,Stream2
+458,Katarzyna Kozłowska,9,2024-06-21,Rozmowa nieprzyjemna i nerwowa.,Skill_D,TAG_16,Stream2
+459,Michał Jankowski,0,2024-01-16,Bardzo rzeczowo i konkretnie.,Skill_C,TAG_12,Stream2
+460,Jakub Krawczyk,5,2024-02-12,Rozmowa nieprzyjemna i nerwowa.,Skill_D,TAG_14,Stream2
+461,Jakub Krawczyk,0,2024-12-31,Czułem się zbywany.,Skill_D,TAG_13,Stream2
+462,Katarzyna Kozłowska,3,2024-07-10,"Dużo słów, mało rozwiązań.",Skill_C,TAG_11,Stream2
+463,Michał Jankowski,1,2024-04-06,Nie udało się rozwiązać mojego problemu.,Skill_D,TAG_14,Stream2
+464,Michał Jankowski,6,2024-11-27,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_C,TAG_12,Stream2
+465,Jakub Krawczyk,10,2024-12-11,Długo czekałem na połączenie.,Skill_D,TAG_14,Stream2
+466,Michał Jankowski,7,2024-03-22,Konsultant był pomocny i miły.,Skill_C,TAG_12,Stream2
+467,Jakub Krawczyk,9,2024-06-24,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_D,TAG_14,Stream2
+468,Agnieszka Mazur,5,2024-05-16,"Długi czas oczekiwania, ale reszta ok.",Skill_D,TAG_16,Stream2
+469,Katarzyna Kozłowska,4,2024-02-13,Brak konkretnej odpowiedzi.,Skill_D,TAG_13,Stream2
+470,Agnieszka Mazur,1,2024-06-13,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_D,TAG_14,Stream2
+471,Agnieszka Mazur,6,2024-07-10,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_D,TAG_15,Stream2
+472,Katarzyna Kozłowska,10,2024-03-15,"Neutralna rozmowa, nie mam uwag.",Skill_D,TAG_13,Stream2
+473,Michał Jankowski,9,2024-08-03,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_D,TAG_13,Stream2
+474,Michał Jankowski,10,2024-05-16,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_D,TAG_13,Stream2
+475,Agnieszka Mazur,1,2024-04-03,Obsługa była nieuprzejma.,Skill_D,TAG_15,Stream2
+476,Jakub Krawczyk,0,2024-03-16,"Świetna obsługa, bardzo dziękuję!",Skill_C,TAG_9,Stream2
+477,Agnieszka Mazur,7,2024-04-23,"Dużo słów, mało rozwiązań.",Skill_C,TAG_11,Stream2
+478,Michał Jankowski,10,2024-02-15,"Mogło być lepiej, ale doceniam starania.",Skill_D,TAG_16,Stream2
+479,Agnieszka Mazur,2,2024-09-30,Kontakt szybki i konkretny.,Skill_D,TAG_14,Stream2
+480,Agnieszka Mazur,6,2024-10-20,Rozmowa nieprzyjemna i nerwowa.,Skill_C,TAG_11,Stream2
+481,Michał Jankowski,1,2024-09-01,Kontakt szybki i konkretny.,Skill_C,TAG_12,Stream2
+482,Katarzyna Kozłowska,8,2024-06-22,"Długi czas oczekiwania, ale reszta ok.",Skill_D,TAG_15,Stream2
+483,Agnieszka Mazur,3,2024-08-22,Brak konkretnej odpowiedzi.,Skill_D,TAG_13,Stream2
+484,Michał Jankowski,7,2024-04-22,Brak konkretnej odpowiedzi.,Skill_D,TAG_15,Stream2
+485,Michał Jankowski,9,2024-04-08,Otrzymałem sprzeczne informacje.,Skill_C,TAG_12,Stream2
+486,Agnieszka Mazur,10,2024-05-20,Zgłoszenie zostało zignorowane.,Skill_C,TAG_9,Stream2
+487,Katarzyna Kozłowska,4,2024-05-20,Nie jestem w pełni usatysfakcjonowany.,Skill_C,TAG_10,Stream2
+488,Agnieszka Mazur,10,2024-07-11,Świetne podejście – aż miło było rozmawiać!,Skill_D,TAG_16,Stream2
+489,Michał Jankowski,8,2024-04-23,Brak empatii i zrozumienia.,Skill_D,TAG_13,Stream2
+490,Jakub Krawczyk,7,2024-04-12,"Miło, rzeczowo, konkretnie – super!",Skill_D,TAG_13,Stream2
+491,Michał Jankowski,5,2024-11-11,Zignorowano moje pytania.,Skill_C,TAG_11,Stream2
+492,Agnieszka Mazur,3,2024-02-28,"Miło, rzeczowo, konkretnie – super!",Skill_C,TAG_12,Stream2
+493,Katarzyna Kozłowska,4,2024-08-03,Bardzo rzeczowo i konkretnie.,Skill_D,TAG_16,Stream2
+494,Michał Jankowski,3,2024-08-23,Długo czekałem na połączenie.,Skill_C,TAG_12,Stream2
+495,Agnieszka Mazur,3,2024-10-09,Zaskakująco dobra obsługa.,Skill_C,TAG_9,Stream2
+496,Michał Jankowski,2,2024-04-01,Zwyczajna rozmowa – nic szczególnego.,Skill_C,TAG_12,Stream2
+497,Agnieszka Mazur,4,2024-10-27,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_D,TAG_16,Stream2
+498,Jakub Krawczyk,0,2024-10-05,Zaskakująco dobra obsługa.,Skill_D,TAG_15,Stream2
+499,Michał Jankowski,4,2024-05-27,Nie wrócę więcej – bardzo słabo.,Skill_D,TAG_13,Stream2
+500,Katarzyna Kozłowska,1,2024-06-20,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_C,TAG_12,Stream2
+501,Agnieszka Mazur,3,2024-04-06,Konsultant był nieprzygotowany.,Skill_D,TAG_13,Stream2
+502,Jakub Krawczyk,5,2024-08-04,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_C,TAG_10,Stream2
+503,Agnieszka Mazur,7,2024-05-02,Jestem bardzo zadowolony z rozmowy.,Skill_C,TAG_9,Stream2
+504,Katarzyna Kozłowska,3,2024-04-13,Kontakt szybki i konkretny.,Skill_D,TAG_16,Stream2
+505,Jakub Krawczyk,5,2024-11-10,"Neutralna rozmowa, nie mam uwag.",Skill_D,TAG_13,Stream2
+506,Agnieszka Mazur,8,2024-06-04,Jestem bardzo zadowolony z rozmowy.,Skill_C,TAG_12,Stream2
+507,Michał Jankowski,4,2024-07-04,Czułem się zbywany.,Skill_C,TAG_10,Stream2
+508,Agnieszka Mazur,4,2024-03-07,"Nie było problemu, ale też bez zaangażowania.",Skill_D,TAG_15,Stream2
+509,Jakub Krawczyk,9,2024-06-10,Zaskakująco dobra obsługa.,Skill_C,TAG_9,Stream2
+510,Michał Jankowski,1,2024-10-19,Zgłoszenie zostało zignorowane.,Skill_C,TAG_9,Stream2
+511,Agnieszka Mazur,0,2024-09-24,Obsługa była nieuprzejma.,Skill_C,TAG_11,Stream2
+512,Agnieszka Mazur,4,2024-04-21,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_D,TAG_13,Stream2
+513,Michał Jankowski,4,2024-02-24,Zignorowano moje pytania.,Skill_D,TAG_15,Stream2
+514,Katarzyna Kozłowska,3,2024-11-04,Obsługa była nieuprzejma.,Skill_C,TAG_11,Stream2
+515,Katarzyna Kozłowska,3,2024-09-18,Brak empatii i zrozumienia.,Skill_C,TAG_12,Stream2
+516,Katarzyna Kozłowska,8,2024-12-24,"Świetna obsługa, bardzo dziękuję!",Skill_D,TAG_16,Stream2
+517,Jakub Krawczyk,9,2024-07-15,Zbyt ogólne informacje – nie pomogło.,Skill_D,TAG_15,Stream2
+518,Katarzyna Kozłowska,1,2024-04-23,Zgłoszenie zostało zignorowane.,Skill_C,TAG_10,Stream2
+519,Jakub Krawczyk,6,2024-01-11,Rozmowa nieprzyjemna i nerwowa.,Skill_D,TAG_16,Stream2
+520,Michał Jankowski,6,2024-04-29,W końcu ktoś mi pomógł!,Skill_C,TAG_12,Stream2
+521,Michał Jankowski,8,2024-07-19,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_D,TAG_15,Stream2
+522,Katarzyna Kozłowska,6,2024-02-10,Jestem bardzo zadowolony z rozmowy.,Skill_D,TAG_15,Stream2
+523,Michał Jankowski,2,2024-06-14,Niezadowolony z poziomu obsługi.,Skill_C,TAG_12,Stream2
+524,Agnieszka Mazur,4,2024-07-30,Zgłoszenie zostało zignorowane.,Skill_C,TAG_9,Stream2
+525,Katarzyna Kozłowska,10,2024-02-26,"Obsługa poprawna, ale bez zachwytu.",Skill_D,TAG_13,Stream2
+526,Michał Jankowski,4,2024-06-06,Nie jestem w pełni usatysfakcjonowany.,Skill_C,TAG_11,Stream2
+527,Katarzyna Kozłowska,3,2024-08-23,"Długi czas oczekiwania, ale reszta ok.",Skill_C,TAG_10,Stream2
+528,Jakub Krawczyk,10,2024-03-23,Świetne podejście – aż miło było rozmawiać!,Skill_D,TAG_15,Stream2
+529,Jakub Krawczyk,5,2024-10-19,Odpowiedź wymagała doprecyzowania.,Skill_D,TAG_13,Stream2
+530,Jakub Krawczyk,4,2024-08-15,Kontakt szybki i konkretny.,Skill_C,TAG_9,Stream2
+531,Katarzyna Kozłowska,9,2024-06-24,Odpowiedź wymagała doprecyzowania.,Skill_D,TAG_16,Stream2
+532,Agnieszka Mazur,0,2024-02-11,Dostałem odpowiedź na wszystkie pytania.,Skill_C,TAG_10,Stream2
+533,Michał Jankowski,10,2024-09-02,Konsultant z wiedzą i empatią.,Skill_D,TAG_16,Stream2
+534,Michał Jankowski,4,2024-10-02,Obsługa na najwyższym poziomie.,Skill_D,TAG_16,Stream2
+535,Michał Jankowski,10,2024-02-24,Zwyczajna rozmowa – nic szczególnego.,Skill_C,TAG_10,Stream2
+536,Katarzyna Kozłowska,10,2024-06-12,Otrzymałem sprzeczne informacje.,Skill_C,TAG_10,Stream2
+537,Michał Jankowski,4,2024-04-09,W końcu ktoś mi pomógł!,Skill_D,TAG_13,Stream2
+538,Jakub Krawczyk,8,2024-06-05,Konsultant był nieprzygotowany.,Skill_C,TAG_9,Stream2
+539,Michał Jankowski,5,2024-11-21,Konsultant był pomocny i miły.,Skill_D,TAG_13,Stream2
+540,Michał Jankowski,1,2024-05-04,Rozwiązano mój problem od razu.,Skill_C,TAG_11,Stream2
+541,Jakub Krawczyk,2,2024-07-10,"Nie było problemu, ale też bez zaangażowania.",Skill_D,TAG_16,Stream2
+542,Michał Jankowski,9,2024-06-13,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_C,TAG_9,Stream2
+543,Agnieszka Mazur,5,2024-05-04,W końcu ktoś mi pomógł!,Skill_D,TAG_16,Stream2
+544,Jakub Krawczyk,0,2024-04-10,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_D,TAG_13,Stream2
+545,Michał Jankowski,5,2024-06-17,Nie wszystkie kwestie zostały wyjaśnione.,Skill_C,TAG_10,Stream2
+546,Agnieszka Mazur,0,2024-02-02,"Było w porządku, choć bez fajerwerków.",Skill_C,TAG_10,Stream2
+547,Katarzyna Kozłowska,0,2024-10-06,Nie wszystkie kwestie zostały wyjaśnione.,Skill_C,TAG_12,Stream2
+548,Katarzyna Kozłowska,6,2024-04-15,Brak empatii i zrozumienia.,Skill_D,TAG_16,Stream2
+549,Jakub Krawczyk,10,2024-07-29,Niezadowolony z poziomu obsługi.,Skill_D,TAG_14,Stream2
+550,Katarzyna Kozłowska,6,2024-11-12,Zaskakująco dobra obsługa.,Skill_D,TAG_14,Stream2
+551,Jakub Krawczyk,4,2024-07-06,Świetne podejście – aż miło było rozmawiać!,Skill_D,TAG_13,Stream2
+552,Michał Jankowski,8,2024-03-24,Nie polecam – strata czasu.,Skill_D,TAG_15,Stream2
+553,Agnieszka Mazur,3,2024-03-03,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_D,TAG_13,Stream2
+554,Michał Jankowski,2,2024-07-04,Nie wszystkie kwestie zostały wyjaśnione.,Skill_C,TAG_12,Stream2
+555,Katarzyna Kozłowska,5,2024-04-09,Kontakt szybki i konkretny.,Skill_D,TAG_16,Stream2
+556,Katarzyna Kozłowska,4,2024-02-17,Obsługa była nieuprzejma.,Skill_D,TAG_15,Stream2
+557,Katarzyna Kozłowska,0,2024-07-22,"Mogło być lepiej, ale doceniam starania.",Skill_C,TAG_11,Stream2
+558,Agnieszka Mazur,10,2024-09-28,Obsługa była nieuprzejma.,Skill_C,TAG_12,Stream2
+559,Katarzyna Kozłowska,9,2024-06-05,Nie jestem w pełni usatysfakcjonowany.,Skill_D,TAG_15,Stream2
+560,Jakub Krawczyk,8,2024-10-15,Nie jestem w pełni usatysfakcjonowany.,Skill_C,TAG_11,Stream2
+561,Michał Jankowski,10,2024-02-03,"Mogło być lepiej, ale doceniam starania.",Skill_C,TAG_11,Stream2
+562,Michał Jankowski,0,2024-06-14,"Nie było problemu, ale też bez zaangażowania.",Skill_C,TAG_10,Stream2
+563,Katarzyna Kozłowska,7,2024-02-16,Zwyczajna rozmowa – nic szczególnego.,Skill_C,TAG_12,Stream2
+564,Agnieszka Mazur,3,2024-09-28,Otrzymałem sprzeczne informacje.,Skill_D,TAG_15,Stream2
+565,Katarzyna Kozłowska,8,2024-03-16,Kontakt szybki i konkretny.,Skill_C,TAG_10,Stream2
+566,Katarzyna Kozłowska,8,2024-09-23,Odpowiedź wymagała doprecyzowania.,Skill_D,TAG_15,Stream2
+567,Michał Jankowski,7,2024-12-07,Świetne podejście – aż miło było rozmawiać!,Skill_C,TAG_10,Stream2
+568,Agnieszka Mazur,9,2024-02-21,Nie wrócę więcej – bardzo słabo.,Skill_D,TAG_13,Stream2
+569,Katarzyna Kozłowska,10,2024-06-30,Obsługa była nieuprzejma.,Skill_C,TAG_12,Stream2
+570,Agnieszka Mazur,3,2024-04-17,Zaskakująco dobra obsługa.,Skill_D,TAG_13,Stream2
+571,Katarzyna Kozłowska,8,2024-11-09,Bardzo rzeczowo i konkretnie.,Skill_D,TAG_15,Stream2
+572,Michał Jankowski,0,2024-02-07,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_C,TAG_10,Stream2
+573,Agnieszka Mazur,7,2024-04-29,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_C,TAG_9,Stream2
+574,Katarzyna Kozłowska,2,2024-11-09,Jestem bardzo zadowolony z rozmowy.,Skill_C,TAG_12,Stream2
+575,Katarzyna Kozłowska,1,2024-05-29,Kontakt pierwsza klasa!,Skill_D,TAG_14,Stream2
+576,Katarzyna Kozłowska,10,2024-09-18,Kontakt pierwsza klasa!,Skill_C,TAG_11,Stream2
+577,Michał Jankowski,4,2024-07-18,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_D,TAG_14,Stream2
+578,Katarzyna Kozłowska,3,2024-05-24,Zbyt ogólne informacje – nie pomogło.,Skill_D,TAG_15,Stream2
+579,Katarzyna Kozłowska,1,2024-05-16,Nie wrócę więcej – bardzo słabo.,Skill_D,TAG_16,Stream2
+580,Michał Jankowski,1,2024-11-14,Nie wrócę więcej – bardzo słabo.,Skill_D,TAG_16,Stream2
+581,Agnieszka Mazur,0,2024-11-20,Konsultant był nieprzygotowany.,Skill_C,TAG_11,Stream2
+582,Agnieszka Mazur,2,2024-02-25,Konsultant z wiedzą i empatią.,Skill_D,TAG_16,Stream2
+583,Jakub Krawczyk,4,2024-12-27,Doceniam szybkie działanie.,Skill_D,TAG_16,Stream2
+584,Michał Jankowski,6,2024-08-31,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_C,TAG_10,Stream2
+585,Jakub Krawczyk,8,2024-01-16,Zgłoszenie zostało zignorowane.,Skill_C,TAG_12,Stream2
+586,Katarzyna Kozłowska,7,2024-07-30,Odpowiedź wymagała doprecyzowania.,Skill_D,TAG_15,Stream2
+587,Katarzyna Kozłowska,0,2024-11-30,"Mogło być lepiej, ale doceniam starania.",Skill_D,TAG_15,Stream2
+588,Katarzyna Kozłowska,10,2024-08-27,"Było w porządku, choć bez fajerwerków.",Skill_C,TAG_9,Stream2
+589,Katarzyna Kozłowska,1,2024-05-04,Obsługa na najwyższym poziomie.,Skill_C,TAG_12,Stream2
+590,Michał Jankowski,3,2024-07-30,"Bardzo dobra rozmowa, dziękuję.",Skill_C,TAG_12,Stream2
+591,Agnieszka Mazur,2,2024-08-12,Doceniam szybkie działanie.,Skill_C,TAG_11,Stream2
+592,Jakub Krawczyk,3,2024-09-28,Dostałem odpowiedź na wszystkie pytania.,Skill_D,TAG_15,Stream2
+593,Agnieszka Mazur,1,2024-06-04,Bardzo rzeczowo i konkretnie.,Skill_C,TAG_11,Stream2
+594,Jakub Krawczyk,9,2024-06-28,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_C,TAG_12,Stream2
+595,Michał Jankowski,6,2024-06-23,Zaskakująco dobra obsługa.,Skill_C,TAG_9,Stream2
+596,Katarzyna Kozłowska,7,2024-09-15,"Neutralna rozmowa, nie mam uwag.",Skill_C,TAG_9,Stream2
+597,Katarzyna Kozłowska,3,2024-07-30,Otrzymałem sprzeczne informacje.,Skill_C,TAG_10,Stream2
+598,Agnieszka Mazur,2,2024-02-16,Zignorowano moje pytania.,Skill_C,TAG_10,Stream2
+599,Jakub Krawczyk,7,2024-09-11,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_D,TAG_15,Stream2
+600,Agnieszka Mazur,5,2024-09-08,Konsultant z wiedzą i empatią.,Skill_D,TAG_14,Stream2
+601,Michał Jankowski,5,2024-04-06,Rozwiązano mój problem od razu.,Skill_D,TAG_16,Stream2
+602,Jakub Krawczyk,7,2024-01-02,"Dużo słów, mało rozwiązań.",Skill_C,TAG_10,Stream2
+603,Katarzyna Kozłowska,6,2024-04-24,Konsultant z wiedzą i empatią.,Skill_D,TAG_15,Stream2
+604,Agnieszka Mazur,10,2024-10-06,"Dużo słów, mało rozwiązań.",Skill_C,TAG_9,Stream2
+605,Jakub Krawczyk,8,2024-06-27,Bardzo rzeczowo i konkretnie.,Skill_C,TAG_11,Stream2
+606,Jakub Krawczyk,1,2024-05-31,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_D,TAG_13,Stream2
+607,Katarzyna Kozłowska,7,2024-03-20,Zignorowano moje pytania.,Skill_C,TAG_12,Stream2
+608,Katarzyna Kozłowska,10,2024-12-05,Czułem się zbywany.,Skill_D,TAG_14,Stream2
+609,Katarzyna Kozłowska,6,2024-05-25,Trochę chaotyczna obsługa.,Skill_D,TAG_16,Stream2
+610,Michał Jankowski,1,2024-11-07,Jestem bardzo zadowolony z rozmowy.,Skill_D,TAG_14,Stream2
+611,Jakub Krawczyk,7,2024-02-26,Odpowiedź wymagała doprecyzowania.,Skill_C,TAG_9,Stream2
+612,Katarzyna Kozłowska,1,2024-12-13,"Neutralna rozmowa, nie mam uwag.",Skill_D,TAG_14,Stream2
+613,Katarzyna Kozłowska,10,2024-01-01,"Bardzo dobra rozmowa, dziękuję.",Skill_C,TAG_10,Stream2
+614,Michał Jankowski,4,2024-06-07,"Obsługa poprawna, ale bez zachwytu.",Skill_C,TAG_12,Stream2
+615,Katarzyna Kozłowska,1,2024-07-01,Nie polecam – strata czasu.,Skill_D,TAG_13,Stream2
+616,Katarzyna Kozłowska,3,2024-02-13,Trochę chaotyczna obsługa.,Skill_C,TAG_9,Stream2
+617,Katarzyna Kozłowska,3,2024-06-03,Brak konkretnej odpowiedzi.,Skill_C,TAG_11,Stream2
+618,Michał Jankowski,0,2024-12-26,Kontakt pierwsza klasa!,Skill_D,TAG_14,Stream2
+619,Jakub Krawczyk,0,2024-10-29,Zbyt ogólne informacje – nie pomogło.,Skill_C,TAG_10,Stream2
+620,Jakub Krawczyk,9,2024-07-27,"Dużo słów, mało rozwiązań.",Skill_D,TAG_15,Stream2
+621,Jakub Krawczyk,6,2024-01-19,Konsultant był nieprzygotowany.,Skill_C,TAG_9,Stream2
+622,Jakub Krawczyk,7,2024-10-20,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_D,TAG_13,Stream2
+623,Jakub Krawczyk,7,2024-05-29,Rozmowa nieprzyjemna i nerwowa.,Skill_C,TAG_10,Stream2
+624,Katarzyna Kozłowska,0,2024-10-09,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_D,TAG_14,Stream2
+625,Michał Jankowski,5,2024-11-30,W końcu ktoś mi pomógł!,Skill_C,TAG_11,Stream2
+626,Agnieszka Mazur,7,2024-02-07,Długo czekałem na połączenie.,Skill_C,TAG_12,Stream2
+627,Michał Jankowski,10,2024-04-10,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_C,TAG_12,Stream2
+628,Michał Jankowski,8,2024-08-19,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_C,TAG_12,Stream2
+629,Michał Jankowski,5,2024-05-05,"Było w porządku, choć bez fajerwerków.",Skill_C,TAG_10,Stream2
+630,Jakub Krawczyk,6,2024-08-07,"Dużo słów, mało rozwiązań.",Skill_D,TAG_15,Stream2
+631,Agnieszka Mazur,9,2024-10-27,Zbyt ogólne informacje – nie pomogło.,Skill_D,TAG_14,Stream2
+632,Agnieszka Mazur,8,2024-10-30,Zwyczajna rozmowa – nic szczególnego.,Skill_C,TAG_9,Stream2
+633,Jakub Krawczyk,10,2024-07-30,Doceniam szybkie działanie.,Skill_C,TAG_12,Stream2
+634,Jakub Krawczyk,10,2024-10-18,Zwyczajna rozmowa – nic szczególnego.,Skill_D,TAG_15,Stream2
+635,Agnieszka Mazur,1,2024-12-25,Nie udało się rozwiązać mojego problemu.,Skill_C,TAG_12,Stream2
+636,Jakub Krawczyk,2,2024-09-16,Nie wszystkie kwestie zostały wyjaśnione.,Skill_C,TAG_9,Stream2
+637,Agnieszka Mazur,2,2024-03-22,Świetne podejście – aż miło było rozmawiać!,Skill_C,TAG_12,Stream2
+638,Jakub Krawczyk,7,2024-12-21,Nie udało się rozwiązać mojego problemu.,Skill_D,TAG_13,Stream2
+639,Jakub Krawczyk,3,2024-11-26,"Miło, rzeczowo, konkretnie – super!",Skill_D,TAG_13,Stream2
+640,Michał Jankowski,6,2024-01-11,Nie polecam – strata czasu.,Skill_D,TAG_16,Stream2
+641,Agnieszka Mazur,1,2024-01-06,Bardzo rzeczowo i konkretnie.,Skill_C,TAG_9,Stream2
+642,Jakub Krawczyk,8,2024-02-19,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_C,TAG_10,Stream2
+643,Jakub Krawczyk,9,2024-10-07,"Neutralna rozmowa, nie mam uwag.",Skill_D,TAG_16,Stream2
+644,Jakub Krawczyk,8,2024-10-22,Kontakt szybki i konkretny.,Skill_D,TAG_14,Stream2
+645,Jakub Krawczyk,6,2024-08-27,"Długi czas oczekiwania, ale reszta ok.",Skill_D,TAG_16,Stream2
+646,Katarzyna Kozłowska,10,2024-07-30,Zwyczajna rozmowa – nic szczególnego.,Skill_D,TAG_14,Stream2
+647,Katarzyna Kozłowska,6,2024-01-15,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_C,TAG_10,Stream2
+648,Agnieszka Mazur,9,2024-09-27,Doceniam szybkie działanie.,Skill_D,TAG_13,Stream2
+649,Katarzyna Kozłowska,6,2024-09-13,Kontakt pierwsza klasa!,Skill_C,TAG_12,Stream2
+650,Katarzyna Kozłowska,2,2024-07-07,Kontakt pierwsza klasa!,Skill_C,TAG_10,Stream2
+651,Jakub Krawczyk,10,2024-05-20,"Nie było problemu, ale też bez zaangażowania.",Skill_C,TAG_12,Stream2
+652,Michał Jankowski,9,2024-02-28,W końcu ktoś mi pomógł!,Skill_D,TAG_16,Stream2
+653,Michał Jankowski,1,2024-09-13,Nie polecam – strata czasu.,Skill_D,TAG_16,Stream2
+654,Michał Jankowski,8,2024-12-27,"Bardzo dobra rozmowa, dziękuję.",Skill_C,TAG_12,Stream2
+655,Katarzyna Kozłowska,9,2024-01-11,Nie jestem w pełni usatysfakcjonowany.,Skill_D,TAG_14,Stream2
+656,Agnieszka Mazur,6,2024-06-23,Brak empatii i zrozumienia.,Skill_D,TAG_15,Stream2
+657,Jakub Krawczyk,4,2024-08-02,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_D,TAG_14,Stream2
+658,Katarzyna Kozłowska,3,2024-11-24,Konsultant z wiedzą i empatią.,Skill_C,TAG_12,Stream2
+659,Jakub Krawczyk,8,2024-10-03,Długo czekałem na połączenie.,Skill_C,TAG_9,Stream2
+660,Katarzyna Kozłowska,3,2024-03-05,Zaskakująco dobra obsługa.,Skill_C,TAG_9,Stream2
+661,Katarzyna Kozłowska,6,2024-11-06,Konsultant z wiedzą i empatią.,Skill_C,TAG_12,Stream2
+662,Agnieszka Mazur,7,2024-08-22,Nie wszystkie kwestie zostały wyjaśnione.,Skill_D,TAG_14,Stream2
+663,Katarzyna Kozłowska,6,2024-01-22,Nie udało się rozwiązać mojego problemu.,Skill_D,TAG_13,Stream2
+664,Jakub Krawczyk,6,2024-01-20,Jestem bardzo zadowolony z rozmowy.,Skill_D,TAG_13,Stream2
+665,Michał Jankowski,2,2024-07-31,"Świetna obsługa, bardzo dziękuję!",Skill_D,TAG_13,Stream2
+666,Jakub Krawczyk,1,2024-12-27,Konsultant był nieprzygotowany.,Skill_D,TAG_13,Stream2
+667,Jakub Krawczyk,5,2024-08-21,W końcu ktoś mi pomógł!,Skill_D,TAG_16,Stream2
+668,Agnieszka Mazur,9,2024-10-15,Rozmowa nieprzyjemna i nerwowa.,Skill_D,TAG_16,Stream2
+669,Katarzyna Kozłowska,5,2024-09-24,Nie wrócę więcej – bardzo słabo.,Skill_D,TAG_13,Stream2
+670,Jakub Krawczyk,8,2024-11-23,Nie jestem w pełni usatysfakcjonowany.,Skill_C,TAG_11,Stream2
+671,Agnieszka Mazur,7,2024-10-20,Nie jestem w pełni usatysfakcjonowany.,Skill_C,TAG_10,Stream2
+672,Jakub Krawczyk,2,2024-09-11,Nie udało się rozwiązać mojego problemu.,Skill_C,TAG_10,Stream2
+673,Agnieszka Mazur,10,2024-02-21,Trochę chaotyczna obsługa.,Skill_D,TAG_13,Stream2
+674,Agnieszka Mazur,6,2024-11-21,Zaskakująco dobra obsługa.,Skill_C,TAG_10,Stream2
+675,Michał Jankowski,0,2024-12-11,Obsługa na najwyższym poziomie.,Skill_D,TAG_13,Stream2
+676,Agnieszka Mazur,3,2024-03-15,W końcu ktoś mi pomógł!,Skill_C,TAG_12,Stream2
+677,Agnieszka Mazur,6,2024-07-20,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_D,TAG_13,Stream2
+678,Agnieszka Mazur,4,2024-09-30,Trochę chaotyczna obsługa.,Skill_C,TAG_10,Stream2
+679,Michał Jankowski,3,2024-07-28,Konsultant był nieprzygotowany.,Skill_C,TAG_9,Stream2
+680,Michał Jankowski,0,2024-09-30,Zbyt ogólne informacje – nie pomogło.,Skill_C,TAG_10,Stream2
+681,Agnieszka Mazur,4,2024-09-26,Konsultant był pomocny i miły.,Skill_C,TAG_9,Stream2
+682,Katarzyna Kozłowska,6,2024-01-19,Doceniam szybkie działanie.,Skill_C,TAG_10,Stream2
+683,Agnieszka Mazur,1,2024-10-24,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_C,TAG_12,Stream2
+684,Jakub Krawczyk,1,2024-07-28,W końcu ktoś mi pomógł!,Skill_C,TAG_12,Stream2
+685,Jakub Krawczyk,2,2024-04-19,"Długi czas oczekiwania, ale reszta ok.",Skill_C,TAG_11,Stream2
+686,Jakub Krawczyk,9,2024-01-19,Nie wszystkie kwestie zostały wyjaśnione.,Skill_D,TAG_14,Stream2
+687,Agnieszka Mazur,10,2024-10-21,"Miło, rzeczowo, konkretnie – super!",Skill_D,TAG_13,Stream2
+688,Michał Jankowski,2,2024-08-26,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_C,TAG_10,Stream2
+689,Agnieszka Mazur,9,2024-08-18,Świetne podejście – aż miło było rozmawiać!,Skill_D,TAG_16,Stream2
+690,Katarzyna Kozłowska,2,2024-06-09,Rozmowa nieprzyjemna i nerwowa.,Skill_C,TAG_12,Stream2
+691,Jakub Krawczyk,3,2024-08-15,Konsultant z wiedzą i empatią.,Skill_C,TAG_12,Stream2
+692,Michał Jankowski,0,2024-05-27,Kontakt pierwsza klasa!,Skill_D,TAG_15,Stream2
+693,Agnieszka Mazur,7,2024-11-06,Dostałem odpowiedź na wszystkie pytania.,Skill_D,TAG_13,Stream2
+694,Michał Jankowski,10,2024-05-25,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_D,TAG_15,Stream2
+695,Agnieszka Mazur,8,2024-01-22,Obsługa była nieuprzejma.,Skill_D,TAG_14,Stream2
+696,Agnieszka Mazur,6,2024-07-08,Brak empatii i zrozumienia.,Skill_C,TAG_10,Stream2
+697,Katarzyna Kozłowska,3,2024-06-17,"Nie było problemu, ale też bez zaangażowania.",Skill_D,TAG_16,Stream2
+698,Agnieszka Mazur,0,2024-02-17,Nie wrócę więcej – bardzo słabo.,Skill_C,TAG_9,Stream2
+699,Katarzyna Kozłowska,0,2024-05-03,Zdecydowanie polecam – profesjonalne podejście.,Skill_D,TAG_16,Stream2
+700,Michał Jankowski,10,2024-02-20,Kontakt pierwsza klasa!,Skill_C,TAG_9,Stream2
+701,Katarzyna Kozłowska,8,2024-10-23,Kontakt pierwsza klasa!,Skill_C,TAG_12,Stream2
+702,Michał Jankowski,6,2024-10-24,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_C,TAG_10,Stream2
+703,Agnieszka Mazur,5,2024-11-14,Zbyt ogólne informacje – nie pomogło.,Skill_D,TAG_16,Stream2
+704,Agnieszka Mazur,2,2024-05-17,Nie polecam – strata czasu.,Skill_D,TAG_14,Stream2
+705,Jakub Krawczyk,7,2024-01-30,Konsultant był nieprzygotowany.,Skill_C,TAG_10,Stream2
+706,Michał Jankowski,6,2024-10-07,Zgłoszenie zostało zignorowane.,Skill_D,TAG_15,Stream2
+707,Michał Jankowski,10,2024-08-05,Świetne podejście – aż miło było rozmawiać!,Skill_C,TAG_10,Stream2
+708,Michał Jankowski,3,2024-11-16,Konsultant był pomocny i miły.,Skill_C,TAG_9,Stream2
+709,Agnieszka Mazur,4,2024-12-03,Odpowiedź wymagała doprecyzowania.,Skill_C,TAG_9,Stream2
+710,Agnieszka Mazur,0,2024-03-13,Konsultant był nieprzygotowany.,Skill_C,TAG_10,Stream2
+711,Michał Jankowski,5,2024-12-30,Zgłoszenie zostało zignorowane.,Skill_C,TAG_11,Stream2
+712,Jakub Krawczyk,3,2024-11-05,"Długi czas oczekiwania, ale reszta ok.",Skill_D,TAG_14,Stream2
+713,Katarzyna Kozłowska,5,2024-09-09,Brak empatii i zrozumienia.,Skill_C,TAG_12,Stream2
+714,Jakub Krawczyk,6,2024-11-26,Kontakt szybki i konkretny.,Skill_C,TAG_9,Stream2
+715,Michał Jankowski,7,2024-07-22,"Długi czas oczekiwania, ale reszta ok.",Skill_C,TAG_9,Stream2
+716,Katarzyna Kozłowska,0,2024-06-09,Bardzo rzeczowo i konkretnie.,Skill_C,TAG_10,Stream2
+717,Jakub Krawczyk,2,2024-04-21,Zdecydowanie polecam – profesjonalne podejście.,Skill_D,TAG_13,Stream2
+718,Katarzyna Kozłowska,4,2024-06-30,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_D,TAG_16,Stream2
+719,Agnieszka Mazur,8,2024-04-09,"Neutralna rozmowa, nie mam uwag.",Skill_C,TAG_9,Stream2
+720,Michał Jankowski,4,2024-03-29,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_D,TAG_15,Stream2
+721,Michał Jankowski,2,2024-12-09,W końcu ktoś mi pomógł!,Skill_D,TAG_13,Stream2
+722,Katarzyna Kozłowska,6,2024-04-24,Nie jestem w pełni usatysfakcjonowany.,Skill_C,TAG_9,Stream2
+723,Katarzyna Kozłowska,7,2024-12-30,"Mogło być lepiej, ale doceniam starania.",Skill_D,TAG_14,Stream2
+724,Jakub Krawczyk,7,2024-05-29,Zaskakująco dobra obsługa.,Skill_D,TAG_16,Stream2
+725,Agnieszka Mazur,10,2024-04-22,Nie wszystkie kwestie zostały wyjaśnione.,Skill_C,TAG_9,Stream2
+726,Katarzyna Kozłowska,4,2024-01-27,Rozwiązano mój problem od razu.,Skill_D,TAG_15,Stream2
+727,Jakub Krawczyk,5,2024-06-29,Nie wrócę więcej – bardzo słabo.,Skill_D,TAG_14,Stream2
+728,Katarzyna Kozłowska,3,2024-04-30,Kontakt szybki i konkretny.,Skill_C,TAG_10,Stream2
+729,Agnieszka Mazur,9,2024-01-14,Zaskakująco dobra obsługa.,Skill_C,TAG_12,Stream2
+730,Agnieszka Mazur,4,2024-05-11,Zbyt ogólne informacje – nie pomogło.,Skill_D,TAG_13,Stream2
+731,Michał Jankowski,2,2024-04-27,Zaskakująco dobra obsługa.,Skill_C,TAG_12,Stream2
+732,Jakub Krawczyk,9,2024-08-08,Bardzo rzeczowo i konkretnie.,Skill_C,TAG_12,Stream2
+733,Jakub Krawczyk,0,2024-10-27,Zbyt ogólne informacje – nie pomogło.,Skill_C,TAG_11,Stream2
+734,Agnieszka Mazur,1,2024-05-15,Kontakt szybki i konkretny.,Skill_D,TAG_15,Stream2
+735,Katarzyna Kozłowska,1,2024-09-02,Zgłoszenie zostało zignorowane.,Skill_D,TAG_15,Stream2
+736,Katarzyna Kozłowska,9,2024-07-22,Zbyt ogólne informacje – nie pomogło.,Skill_D,TAG_15,Stream2
+737,Katarzyna Kozłowska,5,2024-01-31,Kontakt szybki i konkretny.,Skill_D,TAG_15,Stream2
+738,Agnieszka Mazur,8,2024-02-17,Kontakt pierwsza klasa!,Skill_C,TAG_12,Stream2
+739,Michał Jankowski,6,2024-05-22,"Bardzo dobra rozmowa, dziękuję.",Skill_D,TAG_13,Stream2
+740,Katarzyna Kozłowska,1,2024-12-13,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_C,TAG_11,Stream2
+741,Agnieszka Mazur,4,2024-09-17,"Nie było problemu, ale też bez zaangażowania.",Skill_D,TAG_14,Stream2
+742,Agnieszka Mazur,3,2024-11-24,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_D,TAG_15,Stream2
+743,Agnieszka Mazur,9,2024-08-15,Zgłoszenie zostało zignorowane.,Skill_C,TAG_10,Stream2
+744,Jakub Krawczyk,5,2024-03-07,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_C,TAG_12,Stream2
+745,Katarzyna Kozłowska,2,2024-12-24,Konsultant z wiedzą i empatią.,Skill_D,TAG_16,Stream2
+746,Michał Jankowski,3,2024-09-02,Zbyt ogólne informacje – nie pomogło.,Skill_D,TAG_16,Stream2
+747,Katarzyna Kozłowska,3,2024-06-14,"Nie było problemu, ale też bez zaangażowania.",Skill_C,TAG_11,Stream2
+748,Jakub Krawczyk,3,2024-09-04,Czułem się zbywany.,Skill_D,TAG_16,Stream2
+749,Jakub Krawczyk,4,2024-07-20,Świetne podejście – aż miło było rozmawiać!,Skill_C,TAG_12,Stream2
+750,Katarzyna Kozłowska,1,2024-11-05,Nie polecam – strata czasu.,Skill_C,TAG_10,Stream2
+751,Katarzyna Kozłowska,7,2024-11-22,Zdecydowanie polecam – profesjonalne podejście.,Skill_D,TAG_13,Stream2
+752,Jakub Krawczyk,2,2024-05-28,Bardzo rzeczowo i konkretnie.,Skill_C,TAG_11,Stream2
+753,Agnieszka Mazur,1,2024-04-30,Konsultant był nieprzygotowany.,Skill_D,TAG_13,Stream2
+754,Agnieszka Mazur,0,2024-06-07,Konsultant był nieprzygotowany.,Skill_D,TAG_13,Stream2
+755,Jakub Krawczyk,0,2024-09-12,"Obsługa poprawna, ale bez zachwytu.",Skill_D,TAG_14,Stream2
+756,Michał Jankowski,9,2024-11-23,Zwyczajna rozmowa – nic szczególnego.,Skill_C,TAG_11,Stream2
+757,Michał Jankowski,9,2024-12-21,"Mogło być lepiej, ale doceniam starania.",Skill_D,TAG_14,Stream2
+758,Katarzyna Kozłowska,9,2024-05-14,Jestem bardzo zadowolony z rozmowy.,Skill_C,TAG_12,Stream2
+759,Agnieszka Mazur,5,2024-04-05,Kontakt pierwsza klasa!,Skill_C,TAG_9,Stream2
+760,Michał Jankowski,10,2024-01-14,Kontakt szybki i konkretny.,Skill_C,TAG_10,Stream2
+761,Jakub Krawczyk,8,2024-07-14,Zwyczajna rozmowa – nic szczególnego.,Skill_D,TAG_16,Stream2
+762,Katarzyna Kozłowska,5,2024-03-27,"Obsługa poprawna, ale bez zachwytu.",Skill_C,TAG_10,Stream2
+763,Katarzyna Kozłowska,10,2024-11-27,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_D,TAG_16,Stream2
+764,Michał Jankowski,2,2024-07-23,Zwyczajna rozmowa – nic szczególnego.,Skill_D,TAG_16,Stream2
+765,Katarzyna Kozłowska,10,2024-06-30,Długo czekałem na połączenie.,Skill_D,TAG_13,Stream2
+766,Michał Jankowski,10,2024-07-25,Doceniam szybkie działanie.,Skill_C,TAG_12,Stream2
+767,Michał Jankowski,0,2024-12-17,Nie polecam – strata czasu.,Skill_C,TAG_9,Stream2
+768,Katarzyna Kozłowska,9,2024-06-16,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_D,TAG_14,Stream2
+769,Katarzyna Kozłowska,4,2024-08-29,Nie wszystkie kwestie zostały wyjaśnione.,Skill_D,TAG_14,Stream2
+770,Jakub Krawczyk,3,2024-02-20,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_C,TAG_11,Stream2
+771,Katarzyna Kozłowska,7,2024-09-25,Bardzo rzeczowo i konkretnie.,Skill_C,TAG_10,Stream2
+772,Katarzyna Kozłowska,10,2024-11-07,"Było w porządku, choć bez fajerwerków.",Skill_D,TAG_15,Stream2
+773,Jakub Krawczyk,0,2024-03-30,Otrzymałem sprzeczne informacje.,Skill_C,TAG_11,Stream2
+774,Katarzyna Kozłowska,6,2024-06-13,Niezadowolony z poziomu obsługi.,Skill_C,TAG_11,Stream2
+775,Michał Jankowski,1,2024-09-23,Zignorowano moje pytania.,Skill_C,TAG_9,Stream2
+776,Katarzyna Kozłowska,6,2024-08-12,Doceniam szybkie działanie.,Skill_C,TAG_10,Stream2
+777,Jakub Krawczyk,3,2024-11-17,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_C,TAG_12,Stream2
+778,Jakub Krawczyk,7,2024-06-08,Otrzymałem sprzeczne informacje.,Skill_D,TAG_13,Stream2
+779,Michał Jankowski,0,2024-08-29,Nie wszystkie kwestie zostały wyjaśnione.,Skill_C,TAG_9,Stream2
+780,Michał Jankowski,1,2024-05-14,Rozmowa nieprzyjemna i nerwowa.,Skill_C,TAG_12,Stream2
+781,Jakub Krawczyk,9,2024-06-12,Konsultant z wiedzą i empatią.,Skill_D,TAG_15,Stream2
+782,Katarzyna Kozłowska,0,2024-07-10,Zignorowano moje pytania.,Skill_D,TAG_16,Stream2
+783,Agnieszka Mazur,3,2024-11-28,Zdecydowanie polecam – profesjonalne podejście.,Skill_C,TAG_10,Stream2
+784,Jakub Krawczyk,5,2024-01-18,Otrzymałem sprzeczne informacje.,Skill_D,TAG_13,Stream2
+785,Agnieszka Mazur,7,2024-03-12,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_D,TAG_14,Stream2
+786,Jakub Krawczyk,3,2024-03-02,Obsługa była nieuprzejma.,Skill_C,TAG_12,Stream2
+787,Katarzyna Kozłowska,8,2024-03-15,Kontakt pierwsza klasa!,Skill_C,TAG_9,Stream2
+788,Michał Jankowski,7,2024-01-25,Dostałem odpowiedź na wszystkie pytania.,Skill_D,TAG_13,Stream2
+789,Jakub Krawczyk,9,2024-12-27,Zignorowano moje pytania.,Skill_C,TAG_10,Stream2
+790,Michał Jankowski,5,2024-12-12,W końcu ktoś mi pomógł!,Skill_C,TAG_9,Stream2
+791,Agnieszka Mazur,4,2024-01-06,Długo czekałem na połączenie.,Skill_C,TAG_11,Stream2
+792,Katarzyna Kozłowska,7,2024-05-16,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_C,TAG_10,Stream2
+793,Agnieszka Mazur,3,2024-09-30,Brak konkretnej odpowiedzi.,Skill_C,TAG_10,Stream2
+794,Jakub Krawczyk,6,2024-02-06,"Świetna obsługa, bardzo dziękuję!",Skill_C,TAG_11,Stream2
+795,Katarzyna Kozłowska,7,2024-10-24,"Dużo słów, mało rozwiązań.",Skill_D,TAG_15,Stream2
+796,Agnieszka Mazur,3,2024-06-18,"Obsługa poprawna, ale bez zachwytu.",Skill_D,TAG_14,Stream2
+797,Agnieszka Mazur,5,2024-01-23,Nie udało się rozwiązać mojego problemu.,Skill_C,TAG_9,Stream2
+798,Michał Jankowski,1,2024-07-14,Niezadowolony z poziomu obsługi.,Skill_D,TAG_14,Stream2
+799,Jakub Krawczyk,3,2024-06-16,W końcu ktoś mi pomógł!,Skill_C,TAG_12,Stream2
+800,Michał Jankowski,9,2024-12-17,"Było w porządku, choć bez fajerwerków.",Skill_C,TAG_10,Stream2
+801,Jakub Krawczyk,0,2024-08-18,Kontakt pierwsza klasa!,Skill_C,TAG_12,Stream2
+802,Michał Jankowski,8,2024-11-27,Dostałem odpowiedź na wszystkie pytania.,Skill_C,TAG_11,Stream2
+803,Agnieszka Mazur,3,2024-11-29,Nie wszystkie kwestie zostały wyjaśnione.,Skill_D,TAG_14,Stream2
+804,Agnieszka Mazur,9,2024-03-22,Zwyczajna rozmowa – nic szczególnego.,Skill_C,TAG_11,Stream2
+805,Agnieszka Mazur,8,2024-12-08,Konsultant był pomocny i miły.,Skill_D,TAG_15,Stream2
+806,Katarzyna Kozłowska,6,2024-10-07,"Nie było problemu, ale też bez zaangażowania.",Skill_D,TAG_14,Stream2
+807,Agnieszka Mazur,3,2024-10-11,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_D,TAG_15,Stream2
+808,Jakub Krawczyk,3,2024-07-12,Zbyt ogólne informacje – nie pomogło.,Skill_C,TAG_12,Stream2
+809,Jakub Krawczyk,10,2024-05-29,Niezadowolony z poziomu obsługi.,Skill_C,TAG_12,Stream2
+810,Katarzyna Kozłowska,4,2024-05-04,Nie wszystkie kwestie zostały wyjaśnione.,Skill_D,TAG_16,Stream2
+811,Agnieszka Mazur,6,2024-10-09,Długo czekałem na połączenie.,Skill_D,TAG_15,Stream2
+812,Michał Jankowski,8,2024-02-22,Zaskakująco dobra obsługa.,Skill_D,TAG_13,Stream2
+813,Katarzyna Kozłowska,4,2024-11-26,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_D,TAG_16,Stream2
+814,Michał Jankowski,5,2024-05-22,Kontakt szybki i konkretny.,Skill_D,TAG_14,Stream2
+815,Agnieszka Mazur,9,2024-07-23,Nie wrócę więcej – bardzo słabo.,Skill_C,TAG_10,Stream2
+816,Katarzyna Kozłowska,5,2024-08-28,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_D,TAG_14,Stream2
+817,Katarzyna Kozłowska,5,2024-02-13,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_D,TAG_13,Stream2
+818,Katarzyna Kozłowska,5,2024-05-07,Bardzo rzeczowo i konkretnie.,Skill_D,TAG_16,Stream2
+819,Katarzyna Kozłowska,1,2024-02-24,Długo czekałem na połączenie.,Skill_C,TAG_10,Stream2
+820,Jakub Krawczyk,2,2024-03-08,"Bardzo dobra rozmowa, dziękuję.",Skill_D,TAG_13,Stream2
+821,Agnieszka Mazur,3,2024-06-01,Dostałem odpowiedź na wszystkie pytania.,Skill_D,TAG_14,Stream2
+822,Jakub Krawczyk,2,2024-01-10,Kontakt szybki i konkretny.,Skill_C,TAG_11,Stream2
+823,Michał Jankowski,5,2024-12-13,Jestem bardzo zadowolony z rozmowy.,Skill_C,TAG_9,Stream2
+824,Jakub Krawczyk,6,2024-11-18,Brak konkretnej odpowiedzi.,Skill_D,TAG_13,Stream2
+825,Michał Jankowski,0,2024-05-29,"Długi czas oczekiwania, ale reszta ok.",Skill_C,TAG_11,Stream2
+826,Katarzyna Kozłowska,7,2024-05-19,Brak konkretnej odpowiedzi.,Skill_D,TAG_16,Stream2
+827,Agnieszka Mazur,9,2024-10-01,Obsługa była nieuprzejma.,Skill_D,TAG_16,Stream2
+828,Michał Jankowski,3,2024-01-25,Trochę chaotyczna obsługa.,Skill_D,TAG_14,Stream2
+829,Agnieszka Mazur,3,2024-07-30,Jestem bardzo zadowolony z rozmowy.,Skill_C,TAG_10,Stream2
+830,Michał Jankowski,1,2024-08-23,Zaskakująco dobra obsługa.,Skill_D,TAG_16,Stream2
+831,Agnieszka Mazur,6,2024-10-18,"Było w porządku, choć bez fajerwerków.",Skill_C,TAG_11,Stream2
+832,Michał Jankowski,1,2024-04-06,"Nie było problemu, ale też bez zaangażowania.",Skill_C,TAG_10,Stream2
+833,Jakub Krawczyk,9,2024-01-19,Brak konkretnej odpowiedzi.,Skill_D,TAG_15,Stream2
+834,Katarzyna Kozłowska,8,2024-03-13,Rozmowa nieprzyjemna i nerwowa.,Skill_C,TAG_11,Stream2
+835,Michał Jankowski,10,2024-05-16,Zignorowano moje pytania.,Skill_D,TAG_16,Stream2
+836,Katarzyna Kozłowska,2,2024-12-09,Brak konkretnej odpowiedzi.,Skill_C,TAG_9,Stream2
+837,Michał Jankowski,1,2024-10-01,"Dużo słów, mało rozwiązań.",Skill_C,TAG_9,Stream2
+838,Michał Jankowski,9,2024-10-13,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_C,TAG_10,Stream2
+839,Jakub Krawczyk,1,2024-02-17,"Było w porządku, choć bez fajerwerków.",Skill_D,TAG_13,Stream2
+840,Jakub Krawczyk,6,2024-04-21,Bardzo rzeczowo i konkretnie.,Skill_D,TAG_16,Stream2
+841,Jakub Krawczyk,4,2024-01-08,W końcu ktoś mi pomógł!,Skill_C,TAG_11,Stream2
+842,Michał Jankowski,8,2024-11-01,Zdecydowanie polecam – profesjonalne podejście.,Skill_C,TAG_9,Stream2
+843,Jakub Krawczyk,0,2024-04-13,"Bardzo dobra rozmowa, dziękuję.",Skill_D,TAG_16,Stream2
+844,Michał Jankowski,3,2024-08-11,Obsługa była nieuprzejma.,Skill_C,TAG_9,Stream2
+845,Jakub Krawczyk,9,2024-08-28,Zgłoszenie zostało zignorowane.,Skill_C,TAG_12,Stream2
+846,Jakub Krawczyk,2,2024-09-17,Kontakt pierwsza klasa!,Skill_D,TAG_13,Stream2
+847,Michał Jankowski,5,2024-01-16,Bardzo rzeczowo i konkretnie.,Skill_D,TAG_13,Stream2
+848,Katarzyna Kozłowska,2,2024-03-02,Nie udało się rozwiązać mojego problemu.,Skill_D,TAG_15,Stream2
+849,Jakub Krawczyk,7,2024-02-03,"Miło, rzeczowo, konkretnie – super!",Skill_D,TAG_16,Stream2
+850,Michał Jankowski,9,2024-09-16,Zaskakująco dobra obsługa.,Skill_C,TAG_10,Stream2
+851,Jakub Krawczyk,4,2024-10-15,"Dużo słów, mało rozwiązań.",Skill_D,TAG_15,Stream2
+852,Katarzyna Kozłowska,5,2024-03-08,W końcu ktoś mi pomógł!,Skill_D,TAG_13,Stream2
+853,Agnieszka Mazur,9,2024-01-20,Kontakt pierwsza klasa!,Skill_D,TAG_16,Stream2
+854,Jakub Krawczyk,1,2024-03-21,"Bardzo dobra rozmowa, dziękuję.",Skill_C,TAG_10,Stream2
+855,Jakub Krawczyk,8,2024-10-04,Zwyczajna rozmowa – nic szczególnego.,Skill_C,TAG_9,Stream2
+856,Michał Jankowski,7,2024-08-28,Zdecydowanie polecam – profesjonalne podejście.,Skill_C,TAG_12,Stream2
+857,Michał Jankowski,6,2024-04-11,Zignorowano moje pytania.,Skill_D,TAG_16,Stream2
+858,Michał Jankowski,10,2024-11-01,"Miło, rzeczowo, konkretnie – super!",Skill_D,TAG_15,Stream2
+859,Katarzyna Kozłowska,8,2024-02-14,Doceniam szybkie działanie.,Skill_D,TAG_15,Stream2
+860,Jakub Krawczyk,4,2024-05-12,Rozwiązano mój problem od razu.,Skill_D,TAG_13,Stream2
+861,Agnieszka Mazur,4,2024-10-05,Obsługa była nieuprzejma.,Skill_D,TAG_15,Stream2
+862,Katarzyna Kozłowska,8,2024-06-20,Odpowiedź wymagała doprecyzowania.,Skill_C,TAG_11,Stream2
+863,Michał Jankowski,1,2024-12-29,"Nie było problemu, ale też bez zaangażowania.",Skill_D,TAG_15,Stream2
+864,Jakub Krawczyk,5,2024-06-18,Rozmowa nieprzyjemna i nerwowa.,Skill_C,TAG_10,Stream2
+865,Michał Jankowski,0,2024-04-06,Czułem się zbywany.,Skill_C,TAG_9,Stream2
+866,Michał Jankowski,3,2024-03-18,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_D,TAG_13,Stream2
+867,Michał Jankowski,7,2024-03-19,Konsultant był nieprzygotowany.,Skill_C,TAG_10,Stream2
+868,Jakub Krawczyk,2,2024-12-17,Nie wrócę więcej – bardzo słabo.,Skill_C,TAG_10,Stream2
+869,Agnieszka Mazur,8,2024-07-05,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_D,TAG_13,Stream2
+870,Michał Jankowski,5,2024-10-23,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_D,TAG_16,Stream2
+871,Jakub Krawczyk,8,2024-08-04,"Mogło być lepiej, ale doceniam starania.",Skill_C,TAG_12,Stream2
+872,Michał Jankowski,0,2024-08-04,Obsługa na najwyższym poziomie.,Skill_D,TAG_13,Stream2
+873,Michał Jankowski,9,2024-01-28,Jestem bardzo zadowolony z rozmowy.,Skill_C,TAG_12,Stream2
+874,Jakub Krawczyk,7,2024-10-07,Konsultant z wiedzą i empatią.,Skill_D,TAG_13,Stream2
+875,Jakub Krawczyk,8,2024-10-28,Jestem bardzo zadowolony z rozmowy.,Skill_D,TAG_16,Stream2
+876,Jakub Krawczyk,8,2024-07-12,Brak empatii i zrozumienia.,Skill_D,TAG_15,Stream2
+877,Katarzyna Kozłowska,7,2024-01-20,Zwyczajna rozmowa – nic szczególnego.,Skill_D,TAG_16,Stream2
+878,Katarzyna Kozłowska,2,2024-12-29,Zgłoszenie zostało zignorowane.,Skill_C,TAG_10,Stream2
+879,Katarzyna Kozłowska,10,2024-04-21,Nie wszystkie kwestie zostały wyjaśnione.,Skill_D,TAG_14,Stream2
+880,Agnieszka Mazur,3,2024-08-03,"Miło, rzeczowo, konkretnie – super!",Skill_C,TAG_9,Stream2
+881,Jakub Krawczyk,4,2024-07-22,Trochę chaotyczna obsługa.,Skill_C,TAG_11,Stream2
+882,Agnieszka Mazur,7,2024-11-15,Obsługa była nieuprzejma.,Skill_C,TAG_11,Stream2
+883,Jakub Krawczyk,9,2024-10-12,Konsultant był pomocny i miły.,Skill_C,TAG_11,Stream2
+884,Michał Jankowski,7,2024-01-11,Kontakt pierwsza klasa!,Skill_C,TAG_11,Stream2
+885,Michał Jankowski,3,2024-11-22,W końcu ktoś mi pomógł!,Skill_D,TAG_14,Stream2
+886,Michał Jankowski,3,2024-07-05,Nie wszystkie kwestie zostały wyjaśnione.,Skill_C,TAG_12,Stream2
+887,Katarzyna Kozłowska,3,2024-09-19,"Obsługa poprawna, ale bez zachwytu.",Skill_D,TAG_16,Stream2
+888,Michał Jankowski,9,2024-10-31,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_C,TAG_11,Stream2
+889,Jakub Krawczyk,9,2024-07-14,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_D,TAG_15,Stream2
+890,Agnieszka Mazur,10,2024-08-05,Konsultant z wiedzą i empatią.,Skill_D,TAG_15,Stream2
+891,Katarzyna Kozłowska,10,2024-01-28,Kontakt pierwsza klasa!,Skill_D,TAG_13,Stream2
+892,Michał Jankowski,5,2024-11-02,Brak empatii i zrozumienia.,Skill_C,TAG_10,Stream2
+893,Agnieszka Mazur,0,2024-01-08,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_D,TAG_16,Stream2
+894,Jakub Krawczyk,0,2024-04-14,Obsługa była nieuprzejma.,Skill_C,TAG_11,Stream2
+895,Michał Jankowski,5,2024-06-11,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_C,TAG_10,Stream2
+896,Michał Jankowski,4,2024-10-19,Czułem się zbywany.,Skill_D,TAG_16,Stream2
+897,Michał Jankowski,6,2024-03-25,Zignorowano moje pytania.,Skill_D,TAG_13,Stream2
+898,Agnieszka Mazur,9,2024-05-29,Kontakt szybki i konkretny.,Skill_D,TAG_16,Stream2
+899,Jakub Krawczyk,8,2024-08-21,W końcu ktoś mi pomógł!,Skill_C,TAG_9,Stream2
+900,Jakub Krawczyk,0,2024-07-15,Obsługa była nieuprzejma.,Skill_D,TAG_13,Stream2
+901,Michał Jankowski,10,2024-12-22,Obsługa na najwyższym poziomie.,Skill_C,TAG_11,Stream2
+902,Jakub Krawczyk,2,2024-05-24,"Obsługa poprawna, ale bez zachwytu.",Skill_C,TAG_12,Stream2
+903,Agnieszka Mazur,8,2024-12-27,Otrzymałem sprzeczne informacje.,Skill_D,TAG_13,Stream2
+904,Katarzyna Kozłowska,7,2024-10-01,"Długi czas oczekiwania, ale reszta ok.",Skill_C,TAG_11,Stream2
+905,Katarzyna Kozłowska,6,2024-06-11,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_C,TAG_12,Stream2
+906,Michał Jankowski,7,2024-03-13,Brak konkretnej odpowiedzi.,Skill_C,TAG_10,Stream2
+907,Agnieszka Mazur,6,2024-04-11,Zgłoszenie zostało zignorowane.,Skill_C,TAG_10,Stream2
+908,Michał Jankowski,4,2024-03-17,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_C,TAG_10,Stream2
+909,Jakub Krawczyk,6,2024-09-21,Kontakt szybki i konkretny.,Skill_D,TAG_16,Stream2
+910,Agnieszka Mazur,6,2024-09-23,"Neutralna rozmowa, nie mam uwag.",Skill_D,TAG_14,Stream2
+911,Agnieszka Mazur,9,2024-07-17,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_D,TAG_13,Stream2
+912,Michał Jankowski,4,2024-04-21,Zgłoszenie zostało zignorowane.,Skill_D,TAG_15,Stream2
+913,Michał Jankowski,9,2024-02-15,Zwyczajna rozmowa – nic szczególnego.,Skill_D,TAG_14,Stream2
+914,Katarzyna Kozłowska,9,2024-05-02,"Dużo słów, mało rozwiązań.",Skill_D,TAG_16,Stream2
+915,Michał Jankowski,3,2024-10-30,Trochę chaotyczna obsługa.,Skill_D,TAG_16,Stream2
+916,Michał Jankowski,3,2024-12-06,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_C,TAG_9,Stream2
+917,Katarzyna Kozłowska,10,2024-12-22,Czułem się zbywany.,Skill_D,TAG_15,Stream2
+918,Katarzyna Kozłowska,10,2024-04-21,Jestem bardzo zadowolony z rozmowy.,Skill_D,TAG_14,Stream2
+919,Agnieszka Mazur,6,2024-04-10,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_D,TAG_16,Stream2
+920,Michał Jankowski,1,2024-11-03,Bardzo rzeczowo i konkretnie.,Skill_C,TAG_9,Stream2
+921,Katarzyna Kozłowska,1,2024-02-12,Zdecydowanie polecam – profesjonalne podejście.,Skill_D,TAG_15,Stream2
+922,Agnieszka Mazur,9,2024-03-02,"Miło, rzeczowo, konkretnie – super!",Skill_C,TAG_11,Stream2
+923,Michał Jankowski,9,2024-10-06,Nie jestem w pełni usatysfakcjonowany.,Skill_D,TAG_14,Stream2
+924,Agnieszka Mazur,1,2024-06-10,Odpowiedź wymagała doprecyzowania.,Skill_C,TAG_10,Stream2
+925,Michał Jankowski,3,2024-04-18,Długo czekałem na połączenie.,Skill_D,TAG_15,Stream2
+926,Jakub Krawczyk,5,2024-02-22,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_C,TAG_9,Stream2
+927,Michał Jankowski,1,2024-10-13,Kontakt pierwsza klasa!,Skill_D,TAG_14,Stream2
+928,Agnieszka Mazur,2,2024-01-15,"Bardzo dobra rozmowa, dziękuję.",Skill_D,TAG_15,Stream2
+929,Michał Jankowski,6,2024-07-06,Bardzo rzeczowo i konkretnie.,Skill_D,TAG_15,Stream2
+930,Katarzyna Kozłowska,1,2024-08-05,Nie wrócę więcej – bardzo słabo.,Skill_D,TAG_15,Stream2
+931,Agnieszka Mazur,0,2024-10-02,"Świetna obsługa, bardzo dziękuję!",Skill_D,TAG_16,Stream2
+932,Katarzyna Kozłowska,1,2024-01-19,Nie wrócę więcej – bardzo słabo.,Skill_C,TAG_9,Stream2
+933,Agnieszka Mazur,9,2024-04-01,"Neutralna rozmowa, nie mam uwag.",Skill_C,TAG_11,Stream2
+934,Agnieszka Mazur,8,2024-03-09,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_C,TAG_11,Stream2
+935,Jakub Krawczyk,10,2024-10-17,Długo czekałem na połączenie.,Skill_C,TAG_9,Stream2
+936,Jakub Krawczyk,7,2024-03-23,Rozwiązano mój problem od razu.,Skill_D,TAG_13,Stream2
+937,Agnieszka Mazur,1,2024-09-07,Konsultant z wiedzą i empatią.,Skill_C,TAG_11,Stream2
+938,Michał Jankowski,7,2024-12-03,Nie polecam – strata czasu.,Skill_C,TAG_9,Stream2
+939,Jakub Krawczyk,6,2024-01-22,"Obsługa poprawna, ale bez zachwytu.",Skill_D,TAG_13,Stream2
+940,Agnieszka Mazur,2,2024-05-07,Konsultant z wiedzą i empatią.,Skill_C,TAG_10,Stream2
+941,Katarzyna Kozłowska,6,2024-03-11,Czułem się zbywany.,Skill_D,TAG_15,Stream2
+942,Katarzyna Kozłowska,7,2024-01-07,Konsultant był pomocny i miły.,Skill_D,TAG_14,Stream2
+943,Jakub Krawczyk,7,2024-09-14,Konsultant był pomocny i miły.,Skill_D,TAG_15,Stream2
+944,Jakub Krawczyk,10,2024-06-09,Brak empatii i zrozumienia.,Skill_D,TAG_14,Stream2
+945,Agnieszka Mazur,4,2024-08-25,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_D,TAG_16,Stream2
+946,Michał Jankowski,5,2024-03-25,"Długi czas oczekiwania, ale reszta ok.",Skill_C,TAG_11,Stream2
+947,Michał Jankowski,10,2024-05-11,Czułem się zbywany.,Skill_C,TAG_10,Stream2
+948,Katarzyna Kozłowska,7,2024-06-02,"Neutralna rozmowa, nie mam uwag.",Skill_C,TAG_11,Stream2
+949,Jakub Krawczyk,4,2024-12-06,Zdecydowanie polecam – profesjonalne podejście.,Skill_D,TAG_16,Stream2
+950,Michał Jankowski,0,2024-03-10,Konsultant z wiedzą i empatią.,Skill_D,TAG_16,Stream2
+951,Katarzyna Kozłowska,1,2024-09-14,Długo czekałem na połączenie.,Skill_C,TAG_12,Stream2
+952,Agnieszka Mazur,0,2024-06-12,Zignorowano moje pytania.,Skill_D,TAG_13,Stream2
+953,Katarzyna Kozłowska,5,2024-08-05,Bardzo rzeczowo i konkretnie.,Skill_D,TAG_13,Stream2
+954,Michał Jankowski,6,2024-06-01,Zaskakująco dobra obsługa.,Skill_D,TAG_16,Stream2
+955,Michał Jankowski,2,2024-07-02,Trochę chaotyczna obsługa.,Skill_C,TAG_11,Stream2
+956,Agnieszka Mazur,6,2024-03-18,Dostałem odpowiedź na wszystkie pytania.,Skill_D,TAG_16,Stream2
+957,Michał Jankowski,8,2024-10-17,Konsultant był nieprzygotowany.,Skill_C,TAG_11,Stream2
+958,Agnieszka Mazur,3,2024-08-16,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_C,TAG_9,Stream2
+959,Agnieszka Mazur,4,2024-09-15,"Mogło być lepiej, ale doceniam starania.",Skill_D,TAG_13,Stream2
+960,Jakub Krawczyk,8,2024-10-11,W końcu ktoś mi pomógł!,Skill_C,TAG_11,Stream2
+961,Jakub Krawczyk,6,2024-10-29,Brak konkretnej odpowiedzi.,Skill_C,TAG_12,Stream2
+962,Jakub Krawczyk,2,2024-07-16,Nie wrócę więcej – bardzo słabo.,Skill_C,TAG_10,Stream2
+963,Katarzyna Kozłowska,8,2024-10-18,Zbyt ogólne informacje – nie pomogło.,Skill_D,TAG_14,Stream2
+964,Agnieszka Mazur,0,2024-09-04,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_C,TAG_11,Stream2
+965,Jakub Krawczyk,1,2024-05-14,Doceniam szybkie działanie.,Skill_C,TAG_12,Stream2
+966,Jakub Krawczyk,3,2024-07-12,Rozwiązano mój problem od razu.,Skill_C,TAG_10,Stream2
+967,Michał Jankowski,0,2024-06-21,Świetne podejście – aż miło było rozmawiać!,Skill_D,TAG_13,Stream2
+968,Michał Jankowski,3,2024-02-27,Otrzymałem sprzeczne informacje.,Skill_D,TAG_15,Stream2
+969,Agnieszka Mazur,10,2024-10-22,"Długi czas oczekiwania, ale reszta ok.",Skill_D,TAG_15,Stream2
+970,Michał Jankowski,10,2024-10-05,Kontakt szybki i konkretny.,Skill_C,TAG_12,Stream2
+971,Katarzyna Kozłowska,9,2024-03-20,Zgłoszenie zostało zignorowane.,Skill_C,TAG_10,Stream2
+972,Jakub Krawczyk,5,2024-08-07,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_D,TAG_15,Stream2
+973,Michał Jankowski,7,2024-05-25,"Mogło być lepiej, ale doceniam starania.",Skill_C,TAG_11,Stream2
+974,Agnieszka Mazur,3,2024-05-09,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_C,TAG_10,Stream2
+975,Agnieszka Mazur,6,2024-05-26,"Bardzo dobra rozmowa, dziękuję.",Skill_D,TAG_14,Stream2
+976,Jakub Krawczyk,5,2024-04-10,Nie udało się rozwiązać mojego problemu.,Skill_C,TAG_11,Stream2
+977,Michał Jankowski,8,2024-12-19,Konsultant był nieprzygotowany.,Skill_D,TAG_16,Stream2
+978,Katarzyna Kozłowska,4,2024-02-12,Zaskakująco dobra obsługa.,Skill_D,TAG_14,Stream2
+979,Michał Jankowski,1,2024-01-30,Czułem się zbywany.,Skill_C,TAG_10,Stream2
+980,Katarzyna Kozłowska,9,2024-09-18,"Świetna obsługa, bardzo dziękuję!",Skill_D,TAG_16,Stream2
+981,Michał Jankowski,3,2024-12-08,Niezadowolony z poziomu obsługi.,Skill_C,TAG_10,Stream2
+982,Katarzyna Kozłowska,8,2024-11-12,"Dużo słów, mało rozwiązań.",Skill_D,TAG_13,Stream2
+983,Jakub Krawczyk,2,2024-12-02,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_C,TAG_9,Stream2
+984,Michał Jankowski,6,2024-06-14,"Miło, rzeczowo, konkretnie – super!",Skill_C,TAG_9,Stream2
+985,Michał Jankowski,7,2024-09-13,"Neutralna rozmowa, nie mam uwag.",Skill_C,TAG_12,Stream2
+986,Michał Jankowski,7,2024-01-03,Odpowiedź wymagała doprecyzowania.,Skill_C,TAG_10,Stream2
+987,Michał Jankowski,5,2024-10-04,Obsługa na najwyższym poziomie.,Skill_D,TAG_15,Stream2
+988,Agnieszka Mazur,9,2024-08-12,Czułem się zbywany.,Skill_D,TAG_13,Stream2
+989,Jakub Krawczyk,5,2024-03-09,Nie wrócę więcej – bardzo słabo.,Skill_D,TAG_13,Stream2
+990,Katarzyna Kozłowska,8,2024-02-05,Dostałem odpowiedź na wszystkie pytania.,Skill_C,TAG_12,Stream2
+991,Agnieszka Mazur,7,2024-03-20,"Długi czas oczekiwania, ale reszta ok.",Skill_C,TAG_10,Stream2
+992,Katarzyna Kozłowska,3,2024-03-13,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_D,TAG_14,Stream2
+993,Michał Jankowski,8,2024-08-30,Zdecydowanie polecam – profesjonalne podejście.,Skill_D,TAG_16,Stream2
+994,Jakub Krawczyk,9,2024-11-11,Nie polecam – strata czasu.,Skill_D,TAG_15,Stream2
+995,Agnieszka Mazur,5,2024-04-02,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_C,TAG_10,Stream2
+996,Katarzyna Kozłowska,6,2024-07-15,"Świetna obsługa, bardzo dziękuję!",Skill_C,TAG_9,Stream2
+997,Michał Jankowski,10,2024-07-22,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_C,TAG_9,Stream2
+998,Agnieszka Mazur,8,2024-12-15,Zignorowano moje pytania.,Skill_C,TAG_12,Stream2
+999,Michał Jankowski,9,2024-09-25,Nie wrócę więcej – bardzo słabo.,Skill_C,TAG_11,Stream2
+1000,Agnieszka Mazur,1,2024-07-16,Nie wrócę więcej – bardzo słabo.,Skill_C,TAG_12,Stream2
+1001,Katarzyna Kozłowska,2,2024-08-19,"Nie było problemu, ale też bez zaangażowania.",Skill_D,TAG_16,Stream2
+1002,Michał Jankowski,0,2024-04-26,"Mogło być lepiej, ale doceniam starania.",Skill_C,TAG_10,Stream2
+1003,Katarzyna Kozłowska,4,2024-05-06,W końcu ktoś mi pomógł!,Skill_D,TAG_15,Stream2
+1004,Jakub Krawczyk,2,2024-07-24,"Bardzo dobra rozmowa, dziękuję.",Skill_C,TAG_12,Stream2
+1005,Agnieszka Mazur,7,2024-06-28,Niezadowolony z poziomu obsługi.,Skill_C,TAG_9,Stream2
+1006,Katarzyna Kozłowska,6,2024-06-08,W końcu ktoś mi pomógł!,Skill_C,TAG_12,Stream2
+1007,Jakub Krawczyk,2,2024-10-19,Niezadowolony z poziomu obsługi.,Skill_C,TAG_11,Stream2
+1008,Michał Jankowski,2,2024-10-28,Świetne podejście – aż miło było rozmawiać!,Skill_D,TAG_13,Stream2
+1009,Michał Jankowski,2,2024-04-19,Dostałem odpowiedź na wszystkie pytania.,Skill_D,TAG_15,Stream2
+1010,Michał Jankowski,10,2024-09-26,W końcu ktoś mi pomógł!,Skill_D,TAG_14,Stream2
+1011,Jakub Krawczyk,7,2024-01-08,Nie udało się rozwiązać mojego problemu.,Skill_C,TAG_12,Stream2
+1012,Michał Jankowski,4,2024-12-13,Otrzymałem sprzeczne informacje.,Skill_D,TAG_13,Stream2
+1013,Katarzyna Kozłowska,2,2024-07-14,Konsultant z wiedzą i empatią.,Skill_D,TAG_16,Stream2
+1014,Agnieszka Mazur,2,2024-12-04,Brak empatii i zrozumienia.,Skill_C,TAG_12,Stream2
+1015,Michał Jankowski,1,2024-01-30,Doceniam szybkie działanie.,Skill_C,TAG_11,Stream2
+1016,Agnieszka Mazur,3,2024-02-01,Konsultant był nieprzygotowany.,Skill_C,TAG_12,Stream2
+1017,Jakub Krawczyk,2,2024-12-05,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_D,TAG_15,Stream2
+1018,Jakub Krawczyk,7,2024-06-01,Trochę chaotyczna obsługa.,Skill_C,TAG_11,Stream2
+1019,Jakub Krawczyk,7,2024-02-12,Kontakt pierwsza klasa!,Skill_C,TAG_9,Stream2
+1020,Agnieszka Mazur,6,2024-07-20,"Nie było problemu, ale też bez zaangażowania.",Skill_D,TAG_13,Stream2
+1021,Michał Jankowski,6,2024-10-20,"Obsługa poprawna, ale bez zachwytu.",Skill_C,TAG_9,Stream2
+1022,Agnieszka Mazur,6,2024-02-14,Kontakt szybki i konkretny.,Skill_D,TAG_15,Stream2
+1023,Michał Jankowski,1,2024-11-12,Zignorowano moje pytania.,Skill_D,TAG_13,Stream2
+1024,Michał Jankowski,2,2024-03-20,Kontakt pierwsza klasa!,Skill_C,TAG_10,Stream2
+1025,Katarzyna Kozłowska,2,2024-06-27,Rozmowa nieprzyjemna i nerwowa.,Skill_D,TAG_14,Stream2
+1026,Agnieszka Mazur,4,2024-08-31,"Miło, rzeczowo, konkretnie – super!",Skill_D,TAG_15,Stream2
+1027,Katarzyna Kozłowska,1,2024-06-21,Zdecydowanie polecam – profesjonalne podejście.,Skill_C,TAG_10,Stream2
+1028,Jakub Krawczyk,10,2024-02-05,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_D,TAG_15,Stream2
+1029,Jakub Krawczyk,9,2024-05-10,"Nie było problemu, ale też bez zaangażowania.",Skill_C,TAG_9,Stream2
+1030,Jakub Krawczyk,4,2024-05-13,"Miło, rzeczowo, konkretnie – super!",Skill_D,TAG_14,Stream2
+1031,Katarzyna Kozłowska,0,2024-04-12,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_D,TAG_16,Stream2
+1032,Agnieszka Mazur,0,2024-03-06,Nie wszystkie kwestie zostały wyjaśnione.,Skill_C,TAG_11,Stream2
+1033,Katarzyna Kozłowska,2,2024-08-31,Zignorowano moje pytania.,Skill_D,TAG_13,Stream2
+1034,Jakub Krawczyk,2,2024-10-24,Kontakt pierwsza klasa!,Skill_C,TAG_11,Stream2
+1035,Jakub Krawczyk,0,2024-09-14,"Miło, rzeczowo, konkretnie – super!",Skill_C,TAG_9,Stream2
+1036,Michał Jankowski,7,2024-06-20,"Neutralna rozmowa, nie mam uwag.",Skill_D,TAG_14,Stream2
+1037,Agnieszka Mazur,6,2024-02-22,Rozwiązano mój problem od razu.,Skill_C,TAG_10,Stream2
+1038,Katarzyna Kozłowska,7,2024-08-08,Trochę chaotyczna obsługa.,Skill_C,TAG_11,Stream2
+1039,Katarzyna Kozłowska,1,2024-03-31,Doceniam szybkie działanie.,Skill_C,TAG_9,Stream2
+1040,Agnieszka Mazur,10,2024-10-26,Konsultant był nieprzygotowany.,Skill_C,TAG_9,Stream2
+1041,Katarzyna Kozłowska,6,2024-08-02,Jestem bardzo zadowolony z rozmowy.,Skill_D,TAG_14,Stream2
+1042,Katarzyna Kozłowska,7,2024-08-28,Nie polecam – strata czasu.,Skill_C,TAG_9,Stream2
+1043,Jakub Krawczyk,0,2024-02-27,Otrzymałem sprzeczne informacje.,Skill_D,TAG_13,Stream2
+1044,Agnieszka Mazur,7,2024-05-18,Zwyczajna rozmowa – nic szczególnego.,Skill_D,TAG_15,Stream2
+1045,Jakub Krawczyk,0,2024-05-10,"Dużo słów, mało rozwiązań.",Skill_C,TAG_9,Stream2
+1046,Agnieszka Mazur,9,2024-08-21,Bardzo rzeczowo i konkretnie.,Skill_C,TAG_10,Stream2
+1047,Michał Jankowski,0,2024-12-08,Obsługa była nieuprzejma.,Skill_C,TAG_12,Stream2
+1048,Michał Jankowski,1,2024-07-16,Zdecydowanie polecam – profesjonalne podejście.,Skill_D,TAG_15,Stream2
+1049,Agnieszka Mazur,4,2024-09-21,Trochę chaotyczna obsługa.,Skill_C,TAG_9,Stream2
+1050,Michał Jankowski,4,2024-10-07,Kontakt szybki i konkretny.,Skill_C,TAG_11,Stream2
+1051,Jakub Krawczyk,7,2024-11-13,Zbyt ogólne informacje – nie pomogło.,Skill_C,TAG_11,Stream2
+1052,Michał Jankowski,6,2024-10-19,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_C,TAG_12,Stream2
+1053,Jakub Krawczyk,5,2024-08-07,Bardzo rzeczowo i konkretnie.,Skill_C,TAG_9,Stream2
+1054,Jakub Krawczyk,4,2024-06-21,"Bardzo dobra rozmowa, dziękuję.",Skill_C,TAG_9,Stream2
+1055,Agnieszka Mazur,5,2024-04-04,Obsługa była nieuprzejma.,Skill_C,TAG_10,Stream2
+1056,Michał Jankowski,2,2024-09-19,Konsultant był pomocny i miły.,Skill_D,TAG_16,Stream2
+1057,Jakub Krawczyk,10,2024-10-09,Świetne podejście – aż miło było rozmawiać!,Skill_C,TAG_12,Stream2
+1058,Agnieszka Mazur,0,2024-06-09,Zaskakująco dobra obsługa.,Skill_C,TAG_11,Stream2
+1059,Jakub Krawczyk,9,2024-03-31,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_D,TAG_15,Stream2
+1060,Jakub Krawczyk,3,2024-03-18,Zwyczajna rozmowa – nic szczególnego.,Skill_C,TAG_9,Stream2
+1061,Michał Jankowski,7,2024-10-03,"Długi czas oczekiwania, ale reszta ok.",Skill_C,TAG_11,Stream2
+1062,Katarzyna Kozłowska,4,2024-02-11,Doceniam szybkie działanie.,Skill_D,TAG_15,Stream2
+1063,Agnieszka Mazur,7,2024-05-30,Obsługa na najwyższym poziomie.,Skill_C,TAG_10,Stream2
+1064,Agnieszka Mazur,7,2024-09-21,Brak empatii i zrozumienia.,Skill_D,TAG_14,Stream2
+1065,Michał Jankowski,1,2024-08-15,Otrzymałem sprzeczne informacje.,Skill_C,TAG_12,Stream2
+1066,Michał Jankowski,9,2024-04-16,Nie polecam – strata czasu.,Skill_D,TAG_13,Stream2
+1067,Michał Jankowski,0,2024-09-11,Nie jestem w pełni usatysfakcjonowany.,Skill_D,TAG_14,Stream2
+1068,Katarzyna Kozłowska,4,2024-02-01,Nie wrócę więcej – bardzo słabo.,Skill_C,TAG_12,Stream2
+1069,Jakub Krawczyk,7,2024-01-31,"Dużo słów, mało rozwiązań.",Skill_C,TAG_12,Stream2
+1070,Jakub Krawczyk,1,2024-06-02,Otrzymałem sprzeczne informacje.,Skill_D,TAG_14,Stream2
+1071,Katarzyna Kozłowska,6,2024-07-07,Kontakt szybki i konkretny.,Skill_C,TAG_12,Stream2
+1072,Agnieszka Mazur,5,2024-11-04,Zbyt ogólne informacje – nie pomogło.,Skill_D,TAG_16,Stream2
+1073,Michał Jankowski,6,2024-08-15,Zwyczajna rozmowa – nic szczególnego.,Skill_D,TAG_16,Stream2
+1074,Katarzyna Kozłowska,1,2024-04-03,Zignorowano moje pytania.,Skill_C,TAG_11,Stream2
+1075,Katarzyna Kozłowska,3,2024-09-11,Zdecydowanie polecam – profesjonalne podejście.,Skill_C,TAG_12,Stream2
+1076,Jakub Krawczyk,0,2024-08-22,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_D,TAG_15,Stream2
+1077,Katarzyna Kozłowska,8,2024-11-19,Zdecydowanie polecam – profesjonalne podejście.,Skill_D,TAG_14,Stream2
+1078,Katarzyna Kozłowska,9,2024-07-24,Nie wrócę więcej – bardzo słabo.,Skill_D,TAG_14,Stream2
+1079,Agnieszka Mazur,9,2024-03-27,Doceniam szybkie działanie.,Skill_C,TAG_12,Stream2
+1080,Agnieszka Mazur,8,2024-05-05,Dostałem odpowiedź na wszystkie pytania.,Skill_D,TAG_15,Stream2
+1081,Agnieszka Mazur,8,2024-08-06,"Bardzo dobra rozmowa, dziękuję.",Skill_C,TAG_11,Stream2
+1082,Jakub Krawczyk,3,2024-11-13,Zwyczajna rozmowa – nic szczególnego.,Skill_C,TAG_11,Stream2
+1083,Agnieszka Mazur,10,2024-12-29,Jestem bardzo zadowolony z rozmowy.,Skill_D,TAG_16,Stream2
+1084,Katarzyna Kozłowska,3,2024-04-19,Obsługa na najwyższym poziomie.,Skill_D,TAG_14,Stream2
+1085,Agnieszka Mazur,4,2024-01-01,Bardzo rzeczowo i konkretnie.,Skill_D,TAG_16,Stream2
+1086,Agnieszka Mazur,3,2024-12-27,Obsługa była nieuprzejma.,Skill_C,TAG_9,Stream2
+1087,Michał Jankowski,0,2024-09-08,Czułem się zbywany.,Skill_D,TAG_13,Stream2
+1088,Michał Jankowski,9,2024-01-24,Brak konkretnej odpowiedzi.,Skill_C,TAG_11,Stream2
+1089,Jakub Krawczyk,2,2024-09-25,"Długi czas oczekiwania, ale reszta ok.",Skill_C,TAG_9,Stream2
+1090,Agnieszka Mazur,2,2024-06-24,Obsługa na najwyższym poziomie.,Skill_D,TAG_14,Stream2
+1091,Jakub Krawczyk,8,2024-05-14,Zaskakująco dobra obsługa.,Skill_D,TAG_13,Stream2
+1092,Michał Jankowski,5,2024-06-07,Brak konkretnej odpowiedzi.,Skill_D,TAG_16,Stream2
+1093,Katarzyna Kozłowska,6,2024-03-20,Świetne podejście – aż miło było rozmawiać!,Skill_D,TAG_14,Stream2
+1094,Agnieszka Mazur,7,2024-04-01,Zaskakująco dobra obsługa.,Skill_C,TAG_10,Stream2
+1095,Michał Jankowski,2,2024-07-17,Zgłoszenie zostało zignorowane.,Skill_C,TAG_12,Stream2
+1096,Agnieszka Mazur,9,2024-10-18,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_C,TAG_12,Stream2
+1097,Agnieszka Mazur,8,2024-08-25,Zignorowano moje pytania.,Skill_C,TAG_9,Stream2
+1098,Michał Jankowski,6,2024-06-06,Brak konkretnej odpowiedzi.,Skill_D,TAG_13,Stream2
+1099,Agnieszka Mazur,5,2024-07-13,Nie jestem w pełni usatysfakcjonowany.,Skill_D,TAG_13,Stream2
+1100,Agnieszka Mazur,0,2024-04-14,Dostałem odpowiedź na wszystkie pytania.,Skill_C,TAG_11,Stream2
+1101,Agnieszka Mazur,5,2024-03-04,"Długi czas oczekiwania, ale reszta ok.",Skill_D,TAG_13,Stream2
+1102,Michał Jankowski,10,2024-06-16,Czułem się zbywany.,Skill_D,TAG_14,Stream2
+1103,Jakub Krawczyk,7,2024-07-20,Konsultant z wiedzą i empatią.,Skill_D,TAG_15,Stream2
+1104,Agnieszka Mazur,8,2024-01-11,"Dużo słów, mało rozwiązań.",Skill_C,TAG_12,Stream2
+1105,Michał Jankowski,0,2024-04-21,Bardzo rzeczowo i konkretnie.,Skill_C,TAG_10,Stream2
+1106,Katarzyna Kozłowska,0,2024-03-18,Zwyczajna rozmowa – nic szczególnego.,Skill_C,TAG_12,Stream2
+1107,Jakub Krawczyk,1,2024-04-15,Zdecydowanie polecam – profesjonalne podejście.,Skill_D,TAG_16,Stream2
+1108,Agnieszka Mazur,4,2024-01-30,Konsultant z wiedzą i empatią.,Skill_D,TAG_15,Stream2
+1109,Jakub Krawczyk,0,2024-01-12,"Bardzo dobra rozmowa, dziękuję.",Skill_D,TAG_14,Stream2
+1110,Katarzyna Kozłowska,1,2024-07-29,"Obsługa poprawna, ale bez zachwytu.",Skill_C,TAG_10,Stream2
+1111,Katarzyna Kozłowska,10,2024-08-19,Rozwiązano mój problem od razu.,Skill_C,TAG_10,Stream2
+1112,Katarzyna Kozłowska,8,2024-03-07,Brak konkretnej odpowiedzi.,Skill_D,TAG_15,Stream2
+1113,Michał Jankowski,0,2024-05-06,Nie wszystkie kwestie zostały wyjaśnione.,Skill_D,TAG_16,Stream2
+1114,Jakub Krawczyk,7,2024-05-26,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_C,TAG_10,Stream2
+1115,Jakub Krawczyk,1,2024-06-23,Odpowiedź wymagała doprecyzowania.,Skill_D,TAG_14,Stream2
+1116,Katarzyna Kozłowska,1,2024-12-26,Kontakt szybki i konkretny.,Skill_D,TAG_15,Stream2
+1117,Agnieszka Mazur,4,2024-07-01,Otrzymałem sprzeczne informacje.,Skill_C,TAG_9,Stream2
+1118,Jakub Krawczyk,9,2024-10-23,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_C,TAG_12,Stream2
+1119,Agnieszka Mazur,4,2024-09-06,Czułem się zbywany.,Skill_D,TAG_13,Stream2
+1120,Jakub Krawczyk,10,2024-03-19,Trochę chaotyczna obsługa.,Skill_D,TAG_13,Stream2
+1121,Jakub Krawczyk,7,2024-01-11,"Dużo słów, mało rozwiązań.",Skill_C,TAG_9,Stream2
+1122,Agnieszka Mazur,3,2024-03-14,Doceniam szybkie działanie.,Skill_C,TAG_9,Stream2
+1123,Agnieszka Mazur,2,2024-06-18,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_D,TAG_13,Stream2
+1124,Agnieszka Mazur,3,2024-12-12,Nie wrócę więcej – bardzo słabo.,Skill_C,TAG_11,Stream2
+1125,Jakub Krawczyk,7,2024-02-23,Zdecydowanie polecam – profesjonalne podejście.,Skill_D,TAG_14,Stream2
+1126,Katarzyna Kozłowska,1,2024-09-28,Konsultant był pomocny i miły.,Skill_D,TAG_13,Stream2
+1127,Michał Jankowski,0,2024-03-17,"Bardzo dobra rozmowa, dziękuję.",Skill_D,TAG_14,Stream2
+1128,Katarzyna Kozłowska,1,2024-06-27,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_C,TAG_12,Stream2
+1129,Michał Jankowski,7,2024-03-24,Zgłoszenie zostało zignorowane.,Skill_D,TAG_13,Stream2
+1130,Jakub Krawczyk,3,2024-05-20,Zbyt ogólne informacje – nie pomogło.,Skill_D,TAG_14,Stream2
+1131,Katarzyna Kozłowska,2,2024-12-21,Konsultant był nieprzygotowany.,Skill_C,TAG_9,Stream2
+1132,Agnieszka Mazur,9,2024-02-01,Rozwiązano mój problem od razu.,Skill_D,TAG_15,Stream2
+1133,Michał Jankowski,5,2024-10-30,Zaskakująco dobra obsługa.,Skill_C,TAG_9,Stream2
+1134,Agnieszka Mazur,2,2024-11-20,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_C,TAG_9,Stream2
+1135,Jakub Krawczyk,2,2024-10-09,"Było w porządku, choć bez fajerwerków.",Skill_D,TAG_13,Stream2
+1136,Katarzyna Kozłowska,9,2024-03-09,Świetne podejście – aż miło było rozmawiać!,Skill_C,TAG_10,Stream2
+1137,Michał Jankowski,3,2024-04-23,Trochę chaotyczna obsługa.,Skill_C,TAG_10,Stream2
+1138,Michał Jankowski,9,2024-10-08,Kontakt szybki i konkretny.,Skill_D,TAG_14,Stream2
+1139,Jakub Krawczyk,7,2024-06-01,Zwyczajna rozmowa – nic szczególnego.,Skill_D,TAG_13,Stream2
+1140,Agnieszka Mazur,5,2024-12-12,Świetne podejście – aż miło było rozmawiać!,Skill_C,TAG_11,Stream2
+1141,Jakub Krawczyk,10,2024-11-12,"Neutralna rozmowa, nie mam uwag.",Skill_C,TAG_12,Stream2
+1142,Agnieszka Mazur,2,2024-04-21,Kontakt pierwsza klasa!,Skill_C,TAG_10,Stream2
+1143,Michał Jankowski,7,2024-12-09,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_C,TAG_11,Stream2
+1144,Jakub Krawczyk,0,2024-02-08,Obsługa była nieuprzejma.,Skill_C,TAG_12,Stream2
+1145,Jakub Krawczyk,8,2024-07-26,"Neutralna rozmowa, nie mam uwag.",Skill_C,TAG_10,Stream2
+1146,Katarzyna Kozłowska,2,2024-09-28,Zgłoszenie zostało zignorowane.,Skill_C,TAG_11,Stream2
+1147,Jakub Krawczyk,10,2024-03-15,"Długi czas oczekiwania, ale reszta ok.",Skill_D,TAG_13,Stream2
+1148,Agnieszka Mazur,6,2024-01-17,Zignorowano moje pytania.,Skill_D,TAG_14,Stream2
+1149,Agnieszka Mazur,8,2024-11-11,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_D,TAG_13,Stream2
+1150,Jakub Krawczyk,2,2024-05-25,"Było w porządku, choć bez fajerwerków.",Skill_C,TAG_9,Stream2
+1151,Katarzyna Kozłowska,1,2024-08-10,"Obsługa poprawna, ale bez zachwytu.",Skill_C,TAG_11,Stream2
+1152,Michał Jankowski,9,2024-01-09,"Mogło być lepiej, ale doceniam starania.",Skill_C,TAG_9,Stream2
+1153,Katarzyna Kozłowska,5,2024-11-17,Zgłoszenie zostało zignorowane.,Skill_D,TAG_13,Stream2
+1154,Jakub Krawczyk,3,2024-04-27,Nie udało się rozwiązać mojego problemu.,Skill_C,TAG_12,Stream2
+1155,Katarzyna Kozłowska,3,2024-10-01,"Bardzo dobra rozmowa, dziękuję.",Skill_D,TAG_15,Stream2
+1156,Jakub Krawczyk,6,2024-03-08,Czułem się zbywany.,Skill_D,TAG_16,Stream2
+1157,Michał Jankowski,0,2024-05-30,Zwyczajna rozmowa – nic szczególnego.,Skill_D,TAG_16,Stream2
+1158,Agnieszka Mazur,8,2024-03-23,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_C,TAG_11,Stream2
+1159,Michał Jankowski,2,2024-12-25,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_C,TAG_11,Stream2
+1160,Michał Jankowski,9,2024-10-07,Dostałem odpowiedź na wszystkie pytania.,Skill_D,TAG_14,Stream2
+1161,Katarzyna Kozłowska,8,2024-05-27,"Długi czas oczekiwania, ale reszta ok.",Skill_C,TAG_11,Stream2
+1162,Michał Jankowski,7,2024-10-19,Otrzymałem sprzeczne informacje.,Skill_D,TAG_15,Stream2
+1163,Katarzyna Kozłowska,4,2024-07-25,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_C,TAG_9,Stream2
+1164,Michał Jankowski,9,2024-08-17,Trochę chaotyczna obsługa.,Skill_C,TAG_12,Stream2
+1165,Agnieszka Mazur,9,2024-06-14,W końcu ktoś mi pomógł!,Skill_D,TAG_13,Stream2
+1166,Katarzyna Kozłowska,2,2024-06-27,Kontakt szybki i konkretny.,Skill_D,TAG_16,Stream2
+1167,Katarzyna Kozłowska,0,2024-05-12,Nie polecam – strata czasu.,Skill_C,TAG_12,Stream2
+1168,Agnieszka Mazur,6,2024-06-16,"Dużo słów, mało rozwiązań.",Skill_C,TAG_10,Stream2
+1169,Katarzyna Kozłowska,1,2024-12-04,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_D,TAG_16,Stream2
+1170,Agnieszka Mazur,4,2024-01-30,Nie wszystkie kwestie zostały wyjaśnione.,Skill_D,TAG_14,Stream2
+1171,Michał Jankowski,9,2024-07-09,Brak konkretnej odpowiedzi.,Skill_C,TAG_11,Stream2
+1172,Agnieszka Mazur,7,2024-06-28,Nie wrócę więcej – bardzo słabo.,Skill_C,TAG_12,Stream2
+1173,Jakub Krawczyk,2,2024-10-23,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_C,TAG_10,Stream2
+1174,Jakub Krawczyk,9,2024-07-17,Bardzo rzeczowo i konkretnie.,Skill_D,TAG_16,Stream2
+1175,Michał Jankowski,9,2024-03-31,"Nie było problemu, ale też bez zaangażowania.",Skill_D,TAG_13,Stream2
+1176,Jakub Krawczyk,2,2024-11-21,W końcu ktoś mi pomógł!,Skill_D,TAG_16,Stream2
+1177,Katarzyna Kozłowska,3,2024-09-18,Zaskakująco dobra obsługa.,Skill_C,TAG_9,Stream2
+1178,Jakub Krawczyk,6,2024-05-16,Zdecydowanie polecam – profesjonalne podejście.,Skill_C,TAG_12,Stream2
+1179,Katarzyna Kozłowska,4,2024-08-29,Nie polecam – strata czasu.,Skill_D,TAG_14,Stream2
+1180,Katarzyna Kozłowska,1,2024-01-26,Brak konkretnej odpowiedzi.,Skill_D,TAG_13,Stream2
+1181,Jakub Krawczyk,7,2024-11-09,"Było w porządku, choć bez fajerwerków.",Skill_D,TAG_14,Stream2
+1182,Jakub Krawczyk,10,2024-05-05,Nie jestem w pełni usatysfakcjonowany.,Skill_D,TAG_16,Stream2
+1183,Jakub Krawczyk,0,2024-04-02,Obsługa była nieuprzejma.,Skill_C,TAG_9,Stream2
+1184,Jakub Krawczyk,1,2024-08-24,Zignorowano moje pytania.,Skill_C,TAG_10,Stream2
+1185,Agnieszka Mazur,1,2024-01-13,Doceniam szybkie działanie.,Skill_D,TAG_15,Stream2
+1186,Michał Jankowski,8,2024-03-19,Brak konkretnej odpowiedzi.,Skill_D,TAG_13,Stream2
+1187,Katarzyna Kozłowska,9,2024-02-08,Nie wszystkie kwestie zostały wyjaśnione.,Skill_C,TAG_10,Stream2
+1188,Katarzyna Kozłowska,10,2024-02-02,Konsultant z wiedzą i empatią.,Skill_C,TAG_12,Stream2
+1189,Katarzyna Kozłowska,5,2024-05-23,"Świetna obsługa, bardzo dziękuję!",Skill_C,TAG_10,Stream2
+1190,Jakub Krawczyk,9,2024-10-11,Obsługa na najwyższym poziomie.,Skill_C,TAG_9,Stream2
+1191,Jakub Krawczyk,3,2024-09-26,Zgłoszenie zostało zignorowane.,Skill_C,TAG_11,Stream2
+1192,Agnieszka Mazur,4,2024-02-23,Nie udało się rozwiązać mojego problemu.,Skill_D,TAG_16,Stream2
+1193,Agnieszka Mazur,9,2024-09-18,Trochę chaotyczna obsługa.,Skill_D,TAG_13,Stream2
+1194,Agnieszka Mazur,6,2024-06-09,Nie polecam – strata czasu.,Skill_D,TAG_14,Stream2
+1195,Agnieszka Mazur,9,2024-12-01,Konsultant był pomocny i miły.,Skill_D,TAG_16,Stream2
+1196,Agnieszka Mazur,7,2024-06-06,"Neutralna rozmowa, nie mam uwag.",Skill_D,TAG_14,Stream2
+1197,Michał Jankowski,9,2024-03-05,Konsultant był nieprzygotowany.,Skill_C,TAG_11,Stream2
+1198,Katarzyna Kozłowska,9,2024-10-19,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_C,TAG_12,Stream2
+1199,Michał Jankowski,5,2024-11-28,Zwyczajna rozmowa – nic szczególnego.,Skill_C,TAG_11,Stream2
+1200,Katarzyna Kozłowska,0,2024-07-04,Zgłoszenie zostało zignorowane.,Skill_D,TAG_14,Stream2
+1201,Jakub Krawczyk,0,2024-08-19,Zgłoszenie zostało zignorowane.,Skill_C,TAG_12,Stream2
+1202,Jakub Krawczyk,2,2024-03-02,Jestem bardzo zadowolony z rozmowy.,Skill_C,TAG_11,Stream2
+1203,Michał Jankowski,4,2024-08-31,Zaskakująco dobra obsługa.,Skill_C,TAG_12,Stream2
+1204,Agnieszka Mazur,8,2024-06-16,Odpowiedź wymagała doprecyzowania.,Skill_D,TAG_15,Stream2
+1205,Katarzyna Kozłowska,5,2024-06-28,Nie polecam – strata czasu.,Skill_C,TAG_11,Stream2
+1206,Katarzyna Kozłowska,5,2024-10-03,"Mogło być lepiej, ale doceniam starania.",Skill_C,TAG_11,Stream2
+1207,Agnieszka Mazur,7,2024-01-31,Rozmowa nieprzyjemna i nerwowa.,Skill_C,TAG_11,Stream2
+1208,Michał Jankowski,0,2024-09-08,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_D,TAG_15,Stream2
+1209,Agnieszka Mazur,5,2024-10-07,Konsultant był pomocny i miły.,Skill_C,TAG_10,Stream2
+1210,Michał Jankowski,0,2024-01-22,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_C,TAG_11,Stream2
+1211,Michał Jankowski,6,2024-05-30,Konsultant był nieprzygotowany.,Skill_D,TAG_16,Stream2
+1212,Agnieszka Mazur,0,2024-03-21,Czułem się zbywany.,Skill_D,TAG_16,Stream2
+1213,Jakub Krawczyk,9,2024-12-27,Nie polecam – strata czasu.,Skill_C,TAG_9,Stream2
+1214,Michał Jankowski,6,2024-09-18,Kontakt pierwsza klasa!,Skill_D,TAG_16,Stream2
+1215,Agnieszka Mazur,9,2024-10-31,Rozmowa nieprzyjemna i nerwowa.,Skill_C,TAG_10,Stream2
+1216,Jakub Krawczyk,10,2024-02-12,"Obsługa poprawna, ale bez zachwytu.",Skill_D,TAG_13,Stream2
+1217,Agnieszka Mazur,6,2024-11-03,"Było w porządku, choć bez fajerwerków.",Skill_D,TAG_13,Stream2
+1218,Jakub Krawczyk,0,2024-08-18,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_D,TAG_16,Stream2
+1219,Agnieszka Mazur,5,2024-09-02,Zwyczajna rozmowa – nic szczególnego.,Skill_D,TAG_13,Stream2
+1220,Michał Jankowski,1,2024-12-22,Bardzo rzeczowo i konkretnie.,Skill_C,TAG_11,Stream2
+1221,Paweł Grabowski,1,2024-08-07,Nie udało się rozwiązać mojego problemu.,Skill_F,TAG_24,Stream3
+1222,Monika Piotrowska,6,2024-07-04,Brak empatii i zrozumienia.,Skill_F,TAG_21,Stream3
+1223,Joanna Nowakowska,3,2024-03-12,"Bardzo dobra rozmowa, dziękuję.",Skill_E,TAG_19,Stream3
+1224,Joanna Nowakowska,8,2024-08-08,Długo czekałem na połączenie.,Skill_F,TAG_22,Stream3
+1225,Marcin Pawłowski,3,2024-04-09,Konsultant był pomocny i miły.,Skill_E,TAG_20,Stream3
+1226,Paweł Grabowski,5,2024-06-27,Obsługa była nieuprzejma.,Skill_F,TAG_21,Stream3
+1227,Paweł Grabowski,5,2024-03-17,Konsultant z wiedzą i empatią.,Skill_E,TAG_17,Stream3
+1228,Monika Piotrowska,8,2024-12-02,Konsultant z wiedzą i empatią.,Skill_E,TAG_17,Stream3
+1229,Marcin Pawłowski,5,2024-06-11,Zaskakująco dobra obsługa.,Skill_E,TAG_19,Stream3
+1230,Paweł Grabowski,10,2024-12-24,Rozmowa nieprzyjemna i nerwowa.,Skill_E,TAG_17,Stream3
+1231,Marcin Pawłowski,8,2024-12-20,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_F,TAG_23,Stream3
+1232,Marcin Pawłowski,7,2024-08-15,Nie wrócę więcej – bardzo słabo.,Skill_E,TAG_20,Stream3
+1233,Marcin Pawłowski,6,2024-01-25,Dostałem odpowiedź na wszystkie pytania.,Skill_E,TAG_20,Stream3
+1234,Paweł Grabowski,5,2024-11-23,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_F,TAG_22,Stream3
+1235,Paweł Grabowski,6,2024-07-17,Odpowiedź wymagała doprecyzowania.,Skill_E,TAG_17,Stream3
+1236,Monika Piotrowska,3,2024-07-16,Dostałem odpowiedź na wszystkie pytania.,Skill_F,TAG_22,Stream3
+1237,Monika Piotrowska,5,2024-04-24,Brak konkretnej odpowiedzi.,Skill_E,TAG_18,Stream3
+1238,Monika Piotrowska,4,2024-01-08,"Bardzo dobra rozmowa, dziękuję.",Skill_F,TAG_22,Stream3
+1239,Joanna Nowakowska,8,2024-11-26,Zignorowano moje pytania.,Skill_F,TAG_23,Stream3
+1240,Monika Piotrowska,4,2024-07-31,Odpowiedź wymagała doprecyzowania.,Skill_E,TAG_20,Stream3
+1241,Joanna Nowakowska,5,2024-09-24,Dostałem odpowiedź na wszystkie pytania.,Skill_E,TAG_18,Stream3
+1242,Paweł Grabowski,10,2024-10-14,"Dużo słów, mało rozwiązań.",Skill_E,TAG_17,Stream3
+1243,Monika Piotrowska,1,2024-12-30,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_E,TAG_20,Stream3
+1244,Marcin Pawłowski,8,2024-09-28,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_F,TAG_24,Stream3
+1245,Paweł Grabowski,4,2024-07-21,Niezadowolony z poziomu obsługi.,Skill_F,TAG_23,Stream3
+1246,Paweł Grabowski,2,2024-06-20,"Mogło być lepiej, ale doceniam starania.",Skill_E,TAG_17,Stream3
+1247,Marcin Pawłowski,8,2024-02-05,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_F,TAG_21,Stream3
+1248,Paweł Grabowski,5,2024-07-29,Bardzo rzeczowo i konkretnie.,Skill_E,TAG_17,Stream3
+1249,Marcin Pawłowski,2,2024-06-21,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_F,TAG_24,Stream3
+1250,Marcin Pawłowski,3,2024-12-12,Doceniam szybkie działanie.,Skill_F,TAG_23,Stream3
+1251,Paweł Grabowski,7,2024-09-19,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_E,TAG_20,Stream3
+1252,Marcin Pawłowski,6,2024-11-11,Obsługa na najwyższym poziomie.,Skill_F,TAG_22,Stream3
+1253,Monika Piotrowska,5,2024-11-26,Nie wrócę więcej – bardzo słabo.,Skill_E,TAG_20,Stream3
+1254,Marcin Pawłowski,6,2024-07-16,Trochę chaotyczna obsługa.,Skill_E,TAG_17,Stream3
+1255,Paweł Grabowski,6,2024-03-27,Zignorowano moje pytania.,Skill_E,TAG_18,Stream3
+1256,Monika Piotrowska,6,2024-11-12,Brak konkretnej odpowiedzi.,Skill_F,TAG_22,Stream3
+1257,Marcin Pawłowski,8,2024-12-18,Nie udało się rozwiązać mojego problemu.,Skill_E,TAG_19,Stream3
+1258,Joanna Nowakowska,2,2024-11-08,Obsługa na najwyższym poziomie.,Skill_E,TAG_17,Stream3
+1259,Paweł Grabowski,6,2024-01-04,Obsługa była nieuprzejma.,Skill_E,TAG_18,Stream3
+1260,Marcin Pawłowski,4,2024-08-08,Rozmowa nieprzyjemna i nerwowa.,Skill_E,TAG_18,Stream3
+1261,Paweł Grabowski,7,2024-09-12,Zbyt ogólne informacje – nie pomogło.,Skill_F,TAG_21,Stream3
+1262,Joanna Nowakowska,3,2024-09-04,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_F,TAG_23,Stream3
+1263,Monika Piotrowska,2,2024-09-07,"Neutralna rozmowa, nie mam uwag.",Skill_F,TAG_22,Stream3
+1264,Marcin Pawłowski,1,2024-06-25,Doceniam szybkie działanie.,Skill_E,TAG_19,Stream3
+1265,Monika Piotrowska,0,2024-05-29,Dostałem odpowiedź na wszystkie pytania.,Skill_F,TAG_23,Stream3
+1266,Joanna Nowakowska,2,2024-09-18,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_F,TAG_24,Stream3
+1267,Paweł Grabowski,0,2024-11-25,Zwyczajna rozmowa – nic szczególnego.,Skill_F,TAG_24,Stream3
+1268,Paweł Grabowski,7,2024-05-24,"Neutralna rozmowa, nie mam uwag.",Skill_F,TAG_22,Stream3
+1269,Monika Piotrowska,3,2024-11-20,Nie wszystkie kwestie zostały wyjaśnione.,Skill_F,TAG_22,Stream3
+1270,Paweł Grabowski,8,2024-09-26,Zignorowano moje pytania.,Skill_F,TAG_22,Stream3
+1271,Monika Piotrowska,3,2024-02-12,"Świetna obsługa, bardzo dziękuję!",Skill_F,TAG_24,Stream3
+1272,Joanna Nowakowska,9,2024-04-06,Nie polecam – strata czasu.,Skill_F,TAG_24,Stream3
+1273,Marcin Pawłowski,0,2024-06-01,Zwyczajna rozmowa – nic szczególnego.,Skill_E,TAG_20,Stream3
+1274,Joanna Nowakowska,3,2024-10-14,Świetne podejście – aż miło było rozmawiać!,Skill_E,TAG_17,Stream3
+1275,Marcin Pawłowski,6,2024-06-12,Konsultant był pomocny i miły.,Skill_F,TAG_24,Stream3
+1276,Marcin Pawłowski,2,2024-08-04,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_E,TAG_18,Stream3
+1277,Paweł Grabowski,7,2024-06-11,Obsługa na najwyższym poziomie.,Skill_F,TAG_21,Stream3
+1278,Monika Piotrowska,6,2024-02-27,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_F,TAG_21,Stream3
+1279,Joanna Nowakowska,4,2024-01-25,"Było w porządku, choć bez fajerwerków.",Skill_E,TAG_19,Stream3
+1280,Marcin Pawłowski,9,2024-06-22,Świetne podejście – aż miło było rozmawiać!,Skill_E,TAG_17,Stream3
+1281,Joanna Nowakowska,1,2024-09-10,Nie jestem w pełni usatysfakcjonowany.,Skill_E,TAG_18,Stream3
+1282,Joanna Nowakowska,2,2024-08-16,Otrzymałem sprzeczne informacje.,Skill_E,TAG_17,Stream3
+1283,Marcin Pawłowski,1,2024-03-21,Nie polecam – strata czasu.,Skill_F,TAG_24,Stream3
+1284,Paweł Grabowski,3,2024-05-22,Zgłoszenie zostało zignorowane.,Skill_F,TAG_21,Stream3
+1285,Paweł Grabowski,2,2024-06-11,Otrzymałem sprzeczne informacje.,Skill_E,TAG_17,Stream3
+1286,Marcin Pawłowski,3,2024-03-14,W końcu ktoś mi pomógł!,Skill_E,TAG_19,Stream3
+1287,Paweł Grabowski,5,2024-06-10,Konsultant z wiedzą i empatią.,Skill_E,TAG_19,Stream3
+1288,Joanna Nowakowska,1,2024-11-23,Zbyt ogólne informacje – nie pomogło.,Skill_F,TAG_24,Stream3
+1289,Paweł Grabowski,10,2024-03-24,Konsultant był pomocny i miły.,Skill_E,TAG_20,Stream3
+1290,Monika Piotrowska,0,2024-02-04,Konsultant z wiedzą i empatią.,Skill_F,TAG_21,Stream3
+1291,Marcin Pawłowski,5,2024-03-27,Rozwiązano mój problem od razu.,Skill_F,TAG_23,Stream3
+1292,Joanna Nowakowska,5,2024-09-24,Nie jestem w pełni usatysfakcjonowany.,Skill_E,TAG_19,Stream3
+1293,Marcin Pawłowski,6,2024-03-27,Konsultant był nieprzygotowany.,Skill_F,TAG_22,Stream3
+1294,Paweł Grabowski,1,2024-09-25,"Mogło być lepiej, ale doceniam starania.",Skill_F,TAG_22,Stream3
+1295,Paweł Grabowski,4,2024-11-22,Zbyt ogólne informacje – nie pomogło.,Skill_F,TAG_23,Stream3
+1296,Monika Piotrowska,2,2024-10-24,Zignorowano moje pytania.,Skill_E,TAG_17,Stream3
+1297,Joanna Nowakowska,3,2024-04-18,Zdecydowanie polecam – profesjonalne podejście.,Skill_E,TAG_17,Stream3
+1298,Paweł Grabowski,9,2024-05-06,Otrzymałem sprzeczne informacje.,Skill_F,TAG_23,Stream3
+1299,Joanna Nowakowska,3,2024-12-16,Czułem się zbywany.,Skill_E,TAG_17,Stream3
+1300,Marcin Pawłowski,0,2024-07-09,"Dużo słów, mało rozwiązań.",Skill_F,TAG_21,Stream3
+1301,Paweł Grabowski,4,2024-12-09,Długo czekałem na połączenie.,Skill_E,TAG_20,Stream3
+1302,Joanna Nowakowska,3,2024-04-12,"Mogło być lepiej, ale doceniam starania.",Skill_E,TAG_20,Stream3
+1303,Paweł Grabowski,5,2024-09-15,"Miło, rzeczowo, konkretnie – super!",Skill_F,TAG_24,Stream3
+1304,Monika Piotrowska,10,2024-05-31,Nie wszystkie kwestie zostały wyjaśnione.,Skill_F,TAG_24,Stream3
+1305,Joanna Nowakowska,3,2024-12-21,"Miło, rzeczowo, konkretnie – super!",Skill_F,TAG_24,Stream3
+1306,Marcin Pawłowski,8,2024-04-08,"Nie było problemu, ale też bez zaangażowania.",Skill_F,TAG_24,Stream3
+1307,Joanna Nowakowska,7,2024-07-14,Nie jestem w pełni usatysfakcjonowany.,Skill_F,TAG_23,Stream3
+1308,Joanna Nowakowska,8,2024-11-17,Trochę chaotyczna obsługa.,Skill_E,TAG_17,Stream3
+1309,Marcin Pawłowski,4,2024-01-26,Świetne podejście – aż miło było rozmawiać!,Skill_E,TAG_18,Stream3
+1310,Marcin Pawłowski,5,2024-09-28,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_E,TAG_18,Stream3
+1311,Marcin Pawłowski,6,2024-06-20,Długo czekałem na połączenie.,Skill_F,TAG_21,Stream3
+1312,Joanna Nowakowska,0,2024-02-19,"Miło, rzeczowo, konkretnie – super!",Skill_E,TAG_17,Stream3
+1313,Monika Piotrowska,8,2024-08-29,Konsultant był nieprzygotowany.,Skill_F,TAG_23,Stream3
+1314,Marcin Pawłowski,9,2024-06-27,"Neutralna rozmowa, nie mam uwag.",Skill_F,TAG_23,Stream3
+1315,Joanna Nowakowska,10,2024-04-19,"Obsługa poprawna, ale bez zachwytu.",Skill_F,TAG_21,Stream3
+1316,Joanna Nowakowska,4,2024-01-03,Zaskakująco dobra obsługa.,Skill_E,TAG_17,Stream3
+1317,Paweł Grabowski,3,2024-02-16,Zdecydowanie polecam – profesjonalne podejście.,Skill_F,TAG_23,Stream3
+1318,Paweł Grabowski,9,2024-12-17,"Miło, rzeczowo, konkretnie – super!",Skill_E,TAG_19,Stream3
+1319,Paweł Grabowski,8,2024-09-17,Bardzo rzeczowo i konkretnie.,Skill_F,TAG_22,Stream3
+1320,Joanna Nowakowska,5,2024-08-03,Obsługa była nieuprzejma.,Skill_F,TAG_23,Stream3
+1321,Joanna Nowakowska,4,2024-08-26,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_E,TAG_17,Stream3
+1322,Paweł Grabowski,8,2024-09-28,Kontakt pierwsza klasa!,Skill_E,TAG_20,Stream3
+1323,Marcin Pawłowski,0,2024-06-25,Otrzymałem sprzeczne informacje.,Skill_E,TAG_18,Stream3
+1324,Marcin Pawłowski,8,2024-08-05,Nie jestem w pełni usatysfakcjonowany.,Skill_E,TAG_17,Stream3
+1325,Joanna Nowakowska,1,2024-03-18,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_E,TAG_20,Stream3
+1326,Paweł Grabowski,1,2024-05-15,Zaskakująco dobra obsługa.,Skill_F,TAG_22,Stream3
+1327,Paweł Grabowski,8,2024-12-14,"Miło, rzeczowo, konkretnie – super!",Skill_F,TAG_23,Stream3
+1328,Joanna Nowakowska,10,2024-02-19,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_F,TAG_23,Stream3
+1329,Joanna Nowakowska,10,2024-09-18,Trochę chaotyczna obsługa.,Skill_F,TAG_22,Stream3
+1330,Paweł Grabowski,2,2024-06-28,"Obsługa poprawna, ale bez zachwytu.",Skill_E,TAG_20,Stream3
+1331,Marcin Pawłowski,2,2024-08-16,Długo czekałem na połączenie.,Skill_F,TAG_23,Stream3
+1332,Joanna Nowakowska,8,2024-03-22,Nie jestem w pełni usatysfakcjonowany.,Skill_E,TAG_19,Stream3
+1333,Joanna Nowakowska,9,2024-07-19,"Obsługa poprawna, ale bez zachwytu.",Skill_E,TAG_17,Stream3
+1334,Joanna Nowakowska,3,2024-10-27,Nie wrócę więcej – bardzo słabo.,Skill_E,TAG_17,Stream3
+1335,Marcin Pawłowski,7,2024-08-10,Nie wrócę więcej – bardzo słabo.,Skill_F,TAG_23,Stream3
+1336,Joanna Nowakowska,10,2024-05-31,Zaskakująco dobra obsługa.,Skill_E,TAG_17,Stream3
+1337,Paweł Grabowski,0,2024-02-26,Niezadowolony z poziomu obsługi.,Skill_F,TAG_22,Stream3
+1338,Monika Piotrowska,9,2024-10-19,Konsultant z wiedzą i empatią.,Skill_F,TAG_22,Stream3
+1339,Paweł Grabowski,0,2024-11-14,Nie wrócę więcej – bardzo słabo.,Skill_F,TAG_22,Stream3
+1340,Monika Piotrowska,0,2024-07-01,Czułem się zbywany.,Skill_E,TAG_20,Stream3
+1341,Paweł Grabowski,9,2024-12-09,"Świetna obsługa, bardzo dziękuję!",Skill_F,TAG_24,Stream3
+1342,Paweł Grabowski,9,2024-07-14,Dostałem odpowiedź na wszystkie pytania.,Skill_F,TAG_21,Stream3
+1343,Paweł Grabowski,10,2024-08-22,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_F,TAG_24,Stream3
+1344,Marcin Pawłowski,9,2024-01-15,Świetne podejście – aż miło było rozmawiać!,Skill_E,TAG_20,Stream3
+1345,Joanna Nowakowska,0,2024-07-10,Obsługa na najwyższym poziomie.,Skill_E,TAG_17,Stream3
+1346,Marcin Pawłowski,3,2024-09-10,Zdecydowanie polecam – profesjonalne podejście.,Skill_F,TAG_21,Stream3
+1347,Marcin Pawłowski,4,2024-10-15,Nie udało się rozwiązać mojego problemu.,Skill_F,TAG_23,Stream3
+1348,Monika Piotrowska,10,2024-10-20,Doceniam szybkie działanie.,Skill_E,TAG_20,Stream3
+1349,Joanna Nowakowska,0,2024-04-19,Zwyczajna rozmowa – nic szczególnego.,Skill_E,TAG_17,Stream3
+1350,Paweł Grabowski,6,2024-10-10,Zignorowano moje pytania.,Skill_E,TAG_17,Stream3
+1351,Marcin Pawłowski,7,2024-01-31,"Miło, rzeczowo, konkretnie – super!",Skill_E,TAG_18,Stream3
+1352,Paweł Grabowski,9,2024-09-17,Nie polecam – strata czasu.,Skill_F,TAG_22,Stream3
+1353,Marcin Pawłowski,4,2024-04-29,Jestem bardzo zadowolony z rozmowy.,Skill_F,TAG_24,Stream3
+1354,Paweł Grabowski,4,2024-04-29,Doceniam szybkie działanie.,Skill_E,TAG_20,Stream3
+1355,Paweł Grabowski,5,2024-01-18,Zignorowano moje pytania.,Skill_F,TAG_21,Stream3
+1356,Joanna Nowakowska,6,2024-03-10,Świetne podejście – aż miło było rozmawiać!,Skill_E,TAG_20,Stream3
+1357,Monika Piotrowska,3,2024-08-09,Kontakt pierwsza klasa!,Skill_E,TAG_18,Stream3
+1358,Marcin Pawłowski,0,2024-10-04,Jestem bardzo zadowolony z rozmowy.,Skill_E,TAG_17,Stream3
+1359,Paweł Grabowski,8,2024-02-01,Konsultant był nieprzygotowany.,Skill_F,TAG_21,Stream3
+1360,Monika Piotrowska,2,2024-04-04,Rozwiązano mój problem od razu.,Skill_E,TAG_20,Stream3
+1361,Paweł Grabowski,2,2024-10-22,Bardzo rzeczowo i konkretnie.,Skill_F,TAG_24,Stream3
+1362,Monika Piotrowska,1,2024-09-16,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_E,TAG_18,Stream3
+1363,Paweł Grabowski,0,2024-12-09,Rozwiązano mój problem od razu.,Skill_E,TAG_20,Stream3
+1364,Paweł Grabowski,2,2024-02-24,Nie wrócę więcej – bardzo słabo.,Skill_E,TAG_20,Stream3
+1365,Monika Piotrowska,0,2024-08-21,Długo czekałem na połączenie.,Skill_E,TAG_18,Stream3
+1366,Marcin Pawłowski,5,2024-09-27,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_F,TAG_22,Stream3
+1367,Joanna Nowakowska,7,2024-05-06,Zdecydowanie polecam – profesjonalne podejście.,Skill_E,TAG_19,Stream3
+1368,Joanna Nowakowska,5,2024-12-20,Rozmowa nieprzyjemna i nerwowa.,Skill_F,TAG_21,Stream3
+1369,Marcin Pawłowski,10,2024-04-13,"Świetna obsługa, bardzo dziękuję!",Skill_F,TAG_23,Stream3
+1370,Paweł Grabowski,7,2024-04-11,Nie polecam – strata czasu.,Skill_F,TAG_23,Stream3
+1371,Joanna Nowakowska,0,2024-07-13,Niezadowolony z poziomu obsługi.,Skill_E,TAG_18,Stream3
+1372,Monika Piotrowska,2,2024-04-20,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_F,TAG_23,Stream3
+1373,Paweł Grabowski,7,2024-07-31,Nie polecam – strata czasu.,Skill_E,TAG_17,Stream3
+1374,Marcin Pawłowski,8,2024-12-24,"Neutralna rozmowa, nie mam uwag.",Skill_E,TAG_17,Stream3
+1375,Marcin Pawłowski,2,2024-04-08,Nie jestem w pełni usatysfakcjonowany.,Skill_F,TAG_22,Stream3
+1376,Joanna Nowakowska,0,2024-03-29,Bardzo rzeczowo i konkretnie.,Skill_F,TAG_24,Stream3
+1377,Monika Piotrowska,0,2024-06-23,Nie jestem w pełni usatysfakcjonowany.,Skill_F,TAG_22,Stream3
+1378,Marcin Pawłowski,10,2024-10-03,"Dużo słów, mało rozwiązań.",Skill_E,TAG_17,Stream3
+1379,Joanna Nowakowska,4,2024-02-05,Brak empatii i zrozumienia.,Skill_E,TAG_17,Stream3
+1380,Monika Piotrowska,4,2024-05-05,Długo czekałem na połączenie.,Skill_E,TAG_18,Stream3
+1381,Monika Piotrowska,9,2024-11-27,Bardzo rzeczowo i konkretnie.,Skill_F,TAG_22,Stream3
+1382,Joanna Nowakowska,3,2024-01-01,Rozmowa nieprzyjemna i nerwowa.,Skill_E,TAG_19,Stream3
+1383,Paweł Grabowski,9,2024-01-24,Otrzymałem sprzeczne informacje.,Skill_E,TAG_20,Stream3
+1384,Paweł Grabowski,3,2024-06-17,Zdecydowanie polecam – profesjonalne podejście.,Skill_E,TAG_19,Stream3
+1385,Marcin Pawłowski,7,2024-04-28,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_F,TAG_21,Stream3
+1386,Monika Piotrowska,7,2024-05-09,Rozwiązano mój problem od razu.,Skill_E,TAG_18,Stream3
+1387,Joanna Nowakowska,8,2024-05-19,Kontakt szybki i konkretny.,Skill_E,TAG_17,Stream3
+1388,Paweł Grabowski,3,2024-03-23,Obsługa była nieuprzejma.,Skill_E,TAG_17,Stream3
+1389,Monika Piotrowska,4,2024-05-31,Rozmowa nieprzyjemna i nerwowa.,Skill_F,TAG_24,Stream3
+1390,Marcin Pawłowski,1,2024-05-17,Zignorowano moje pytania.,Skill_E,TAG_19,Stream3
+1391,Monika Piotrowska,2,2024-06-01,Kontakt szybki i konkretny.,Skill_E,TAG_20,Stream3
+1392,Monika Piotrowska,5,2024-10-09,Konsultant z wiedzą i empatią.,Skill_E,TAG_19,Stream3
+1393,Monika Piotrowska,0,2024-11-24,"Świetna obsługa, bardzo dziękuję!",Skill_E,TAG_17,Stream3
+1394,Joanna Nowakowska,10,2024-10-10,Rozwiązano mój problem od razu.,Skill_E,TAG_20,Stream3
+1395,Joanna Nowakowska,0,2024-06-02,Długo czekałem na połączenie.,Skill_F,TAG_23,Stream3
+1396,Paweł Grabowski,9,2024-04-08,"Dużo słów, mało rozwiązań.",Skill_F,TAG_22,Stream3
+1397,Monika Piotrowska,2,2024-08-20,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_F,TAG_24,Stream3
+1398,Joanna Nowakowska,7,2024-03-06,Bardzo rzeczowo i konkretnie.,Skill_E,TAG_17,Stream3
+1399,Paweł Grabowski,7,2024-08-22,Odpowiedź wymagała doprecyzowania.,Skill_E,TAG_20,Stream3
+1400,Joanna Nowakowska,8,2024-03-12,Nie udało się rozwiązać mojego problemu.,Skill_E,TAG_19,Stream3
+1401,Monika Piotrowska,9,2024-04-09,Zignorowano moje pytania.,Skill_F,TAG_22,Stream3
+1402,Monika Piotrowska,8,2024-09-30,W końcu ktoś mi pomógł!,Skill_E,TAG_17,Stream3
+1403,Joanna Nowakowska,2,2024-09-24,Nie udało się rozwiązać mojego problemu.,Skill_F,TAG_21,Stream3
+1404,Monika Piotrowska,6,2024-09-30,Odpowiedź wymagała doprecyzowania.,Skill_E,TAG_18,Stream3
+1405,Marcin Pawłowski,1,2024-09-23,Nie wszystkie kwestie zostały wyjaśnione.,Skill_E,TAG_17,Stream3
+1406,Monika Piotrowska,9,2024-02-04,Zwyczajna rozmowa – nic szczególnego.,Skill_F,TAG_23,Stream3
+1407,Paweł Grabowski,3,2024-10-28,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_E,TAG_18,Stream3
+1408,Marcin Pawłowski,8,2024-11-13,Obsługa na najwyższym poziomie.,Skill_F,TAG_24,Stream3
+1409,Paweł Grabowski,3,2024-06-01,Konsultant był pomocny i miły.,Skill_E,TAG_20,Stream3
+1410,Marcin Pawłowski,4,2024-02-07,"Obsługa poprawna, ale bez zachwytu.",Skill_E,TAG_18,Stream3
+1411,Marcin Pawłowski,2,2024-12-26,Brak konkretnej odpowiedzi.,Skill_E,TAG_19,Stream3
+1412,Joanna Nowakowska,10,2024-08-02,Długo czekałem na połączenie.,Skill_E,TAG_20,Stream3
+1413,Monika Piotrowska,10,2024-09-20,Rozwiązano mój problem od razu.,Skill_F,TAG_22,Stream3
+1414,Marcin Pawłowski,2,2024-07-23,Zbyt ogólne informacje – nie pomogło.,Skill_E,TAG_17,Stream3
+1415,Joanna Nowakowska,10,2024-05-01,Zwyczajna rozmowa – nic szczególnego.,Skill_F,TAG_24,Stream3
+1416,Paweł Grabowski,5,2024-12-03,"Mogło być lepiej, ale doceniam starania.",Skill_F,TAG_24,Stream3
+1417,Paweł Grabowski,9,2024-10-15,Czułem się zbywany.,Skill_F,TAG_22,Stream3
+1418,Monika Piotrowska,6,2024-10-14,"Dużo słów, mało rozwiązań.",Skill_F,TAG_24,Stream3
+1419,Joanna Nowakowska,0,2024-11-14,Konsultant był pomocny i miły.,Skill_F,TAG_22,Stream3
+1420,Paweł Grabowski,7,2024-08-24,Zwyczajna rozmowa – nic szczególnego.,Skill_E,TAG_17,Stream3
+1421,Marcin Pawłowski,10,2024-07-03,Dostałem odpowiedź na wszystkie pytania.,Skill_E,TAG_20,Stream3
+1422,Monika Piotrowska,9,2024-02-18,Nie udało się rozwiązać mojego problemu.,Skill_E,TAG_17,Stream3
+1423,Paweł Grabowski,3,2024-06-03,"Neutralna rozmowa, nie mam uwag.",Skill_F,TAG_22,Stream3
+1424,Paweł Grabowski,3,2024-02-29,Nie wszystkie kwestie zostały wyjaśnione.,Skill_E,TAG_18,Stream3
+1425,Joanna Nowakowska,4,2024-12-26,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_F,TAG_23,Stream3
+1426,Monika Piotrowska,9,2024-01-29,Brak konkretnej odpowiedzi.,Skill_F,TAG_24,Stream3
+1427,Marcin Pawłowski,10,2024-06-02,Dostałem odpowiedź na wszystkie pytania.,Skill_E,TAG_20,Stream3
+1428,Paweł Grabowski,4,2024-04-11,Rozmowa nieprzyjemna i nerwowa.,Skill_E,TAG_18,Stream3
+1429,Paweł Grabowski,0,2024-06-29,Odpowiedź wymagała doprecyzowania.,Skill_F,TAG_21,Stream3
+1430,Marcin Pawłowski,7,2024-09-30,Nie wszystkie kwestie zostały wyjaśnione.,Skill_F,TAG_24,Stream3
+1431,Monika Piotrowska,9,2024-01-09,Zbyt ogólne informacje – nie pomogło.,Skill_E,TAG_17,Stream3
+1432,Monika Piotrowska,5,2024-10-15,Konsultant z wiedzą i empatią.,Skill_F,TAG_22,Stream3
+1433,Monika Piotrowska,10,2024-10-11,Dostałem odpowiedź na wszystkie pytania.,Skill_E,TAG_19,Stream3
+1434,Monika Piotrowska,0,2024-04-27,Rozwiązano mój problem od razu.,Skill_E,TAG_20,Stream3
+1435,Paweł Grabowski,8,2024-01-21,"Dużo słów, mało rozwiązań.",Skill_E,TAG_20,Stream3
+1436,Monika Piotrowska,9,2024-09-19,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_F,TAG_22,Stream3
+1437,Paweł Grabowski,8,2024-09-19,Długo czekałem na połączenie.,Skill_E,TAG_18,Stream3
+1438,Paweł Grabowski,3,2024-10-16,Nie wszystkie kwestie zostały wyjaśnione.,Skill_E,TAG_17,Stream3
+1439,Monika Piotrowska,4,2024-09-18,Obsługa była nieuprzejma.,Skill_F,TAG_22,Stream3
+1440,Paweł Grabowski,10,2024-07-29,"Neutralna rozmowa, nie mam uwag.",Skill_E,TAG_17,Stream3
+1441,Krzysztof Adamczyk,3,2024-04-23,Jestem bardzo zadowolony z rozmowy.,Skill_H,TAG_29,Stream4
+1442,Łukasz Zając,5,2024-06-30,Zwyczajna rozmowa – nic szczególnego.,Skill_G,TAG_28,Stream4
+1443,Aleksandra Dudek,6,2024-05-17,Otrzymałem sprzeczne informacje.,Skill_G,TAG_25,Stream4
+1444,Krzysztof Adamczyk,6,2024-12-05,Kontakt pierwsza klasa!,Skill_H,TAG_32,Stream4
+1445,Aleksandra Dudek,5,2024-09-14,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_H,TAG_32,Stream4
+1446,Krzysztof Adamczyk,3,2024-03-23,Konsultant był nieprzygotowany.,Skill_G,TAG_25,Stream4
+1447,Magdalena Michalska,7,2024-10-09,"Świetna obsługa, bardzo dziękuję!",Skill_G,TAG_25,Stream4
+1448,Łukasz Zając,3,2024-11-03,Zbyt ogólne informacje – nie pomogło.,Skill_H,TAG_30,Stream4
+1449,Aleksandra Dudek,4,2024-01-02,Zbyt ogólne informacje – nie pomogło.,Skill_G,TAG_25,Stream4
+1450,Aleksandra Dudek,10,2024-12-29,Bardzo rzeczowo i konkretnie.,Skill_H,TAG_31,Stream4
+1451,Krzysztof Adamczyk,8,2024-12-20,Nie polecam – strata czasu.,Skill_G,TAG_26,Stream4
+1452,Aleksandra Dudek,3,2024-08-02,"Obsługa poprawna, ale bez zachwytu.",Skill_H,TAG_31,Stream4
+1453,Magdalena Michalska,7,2024-07-10,Zdecydowanie polecam – profesjonalne podejście.,Skill_G,TAG_28,Stream4
+1454,Krzysztof Adamczyk,10,2024-10-23,Konsultant był pomocny i miły.,Skill_H,TAG_32,Stream4
+1455,Krzysztof Adamczyk,7,2024-08-31,Konsultant z wiedzą i empatią.,Skill_H,TAG_30,Stream4
+1456,Magdalena Michalska,4,2024-12-12,Rozmowa nieprzyjemna i nerwowa.,Skill_H,TAG_32,Stream4
+1457,Łukasz Zając,2,2024-05-12,Długo czekałem na połączenie.,Skill_G,TAG_27,Stream4
+1458,Aleksandra Dudek,5,2024-08-03,Rozwiązano mój problem od razu.,Skill_G,TAG_28,Stream4
+1459,Aleksandra Dudek,1,2024-07-12,Konsultant z wiedzą i empatią.,Skill_G,TAG_27,Stream4
+1460,Aleksandra Dudek,10,2024-12-13,Zwyczajna rozmowa – nic szczególnego.,Skill_G,TAG_26,Stream4
+1461,Łukasz Zając,1,2024-07-30,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_H,TAG_30,Stream4
+1462,Aleksandra Dudek,5,2024-04-26,Dostałem odpowiedź na wszystkie pytania.,Skill_G,TAG_28,Stream4
+1463,Krzysztof Adamczyk,9,2024-02-24,"Długi czas oczekiwania, ale reszta ok.",Skill_H,TAG_30,Stream4
+1464,Krzysztof Adamczyk,0,2024-03-30,Zwyczajna rozmowa – nic szczególnego.,Skill_H,TAG_32,Stream4
+1465,Magdalena Michalska,7,2024-10-09,Rozwiązano mój problem od razu.,Skill_G,TAG_25,Stream4
+1466,Łukasz Zając,1,2024-03-26,Nie wszystkie kwestie zostały wyjaśnione.,Skill_G,TAG_26,Stream4
+1467,Aleksandra Dudek,8,2024-11-30,Nie polecam – strata czasu.,Skill_H,TAG_29,Stream4
+1468,Magdalena Michalska,0,2024-05-28,Zwyczajna rozmowa – nic szczególnego.,Skill_G,TAG_28,Stream4
+1469,Krzysztof Adamczyk,9,2024-02-27,Odpowiedź wymagała doprecyzowania.,Skill_H,TAG_31,Stream4
+1470,Krzysztof Adamczyk,3,2024-02-14,Zbyt ogólne informacje – nie pomogło.,Skill_H,TAG_31,Stream4
+1471,Magdalena Michalska,3,2024-04-24,W końcu ktoś mi pomógł!,Skill_G,TAG_26,Stream4
+1472,Magdalena Michalska,7,2024-05-24,Konsultant z wiedzą i empatią.,Skill_G,TAG_25,Stream4
+1473,Aleksandra Dudek,7,2024-04-23,"Było w porządku, choć bez fajerwerków.",Skill_G,TAG_27,Stream4
+1474,Krzysztof Adamczyk,7,2024-08-08,"Neutralna rozmowa, nie mam uwag.",Skill_H,TAG_31,Stream4
+1475,Łukasz Zając,7,2024-03-10,Konsultant był pomocny i miły.,Skill_H,TAG_30,Stream4
+1476,Aleksandra Dudek,4,2024-11-07,Zgłoszenie zostało zignorowane.,Skill_G,TAG_27,Stream4
+1477,Krzysztof Adamczyk,0,2024-09-15,Nie wszystkie kwestie zostały wyjaśnione.,Skill_H,TAG_29,Stream4
+1478,Aleksandra Dudek,6,2024-12-05,W końcu ktoś mi pomógł!,Skill_H,TAG_32,Stream4
+1479,Aleksandra Dudek,6,2024-05-15,Zdecydowanie polecam – profesjonalne podejście.,Skill_H,TAG_30,Stream4
+1480,Krzysztof Adamczyk,2,2024-04-09,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_H,TAG_29,Stream4
+1481,Magdalena Michalska,9,2024-11-17,Zbyt ogólne informacje – nie pomogło.,Skill_G,TAG_27,Stream4
+1482,Łukasz Zając,7,2024-03-06,Zignorowano moje pytania.,Skill_G,TAG_25,Stream4
+1483,Aleksandra Dudek,9,2024-04-03,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_G,TAG_28,Stream4
+1484,Łukasz Zając,4,2024-07-16,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_G,TAG_28,Stream4
+1485,Magdalena Michalska,8,2024-11-13,Długo czekałem na połączenie.,Skill_H,TAG_30,Stream4
+1486,Magdalena Michalska,9,2024-08-17,"Nie było problemu, ale też bez zaangażowania.",Skill_G,TAG_28,Stream4
+1487,Krzysztof Adamczyk,7,2024-02-14,Rozmowa nieprzyjemna i nerwowa.,Skill_G,TAG_25,Stream4
+1488,Magdalena Michalska,2,2024-06-04,Konsultant był nieprzygotowany.,Skill_G,TAG_27,Stream4
+1489,Krzysztof Adamczyk,8,2024-05-17,"Świetna obsługa, bardzo dziękuję!",Skill_H,TAG_32,Stream4
+1490,Łukasz Zając,6,2024-07-16,W końcu ktoś mi pomógł!,Skill_G,TAG_25,Stream4
+1491,Magdalena Michalska,10,2024-02-04,Konsultant z wiedzą i empatią.,Skill_H,TAG_32,Stream4
+1492,Łukasz Zając,1,2024-04-08,Kontakt szybki i konkretny.,Skill_H,TAG_32,Stream4
+1493,Aleksandra Dudek,10,2024-05-04,Zbyt ogólne informacje – nie pomogło.,Skill_H,TAG_32,Stream4
+1494,Aleksandra Dudek,5,2024-09-01,Rozwiązano mój problem od razu.,Skill_H,TAG_31,Stream4
+1495,Magdalena Michalska,5,2024-02-29,"Mogło być lepiej, ale doceniam starania.",Skill_G,TAG_28,Stream4
+1496,Aleksandra Dudek,6,2024-03-28,"Było w porządku, choć bez fajerwerków.",Skill_H,TAG_31,Stream4
+1497,Magdalena Michalska,2,2024-05-05,"Było w porządku, choć bez fajerwerków.",Skill_H,TAG_30,Stream4
+1498,Łukasz Zając,0,2024-02-13,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_G,TAG_28,Stream4
+1499,Krzysztof Adamczyk,10,2024-11-15,Obsługa na najwyższym poziomie.,Skill_H,TAG_30,Stream4
+1500,Krzysztof Adamczyk,7,2024-04-30,Kontakt pierwsza klasa!,Skill_G,TAG_25,Stream4
+1501,Łukasz Zając,0,2024-06-13,Rozwiązano mój problem od razu.,Skill_H,TAG_30,Stream4
+1502,Magdalena Michalska,6,2024-09-28,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_G,TAG_27,Stream4
+1503,Magdalena Michalska,3,2024-02-21,Bardzo rzeczowo i konkretnie.,Skill_G,TAG_28,Stream4
+1504,Aleksandra Dudek,8,2024-05-20,Rozwiązano mój problem od razu.,Skill_H,TAG_29,Stream4
+1505,Łukasz Zając,5,2024-04-05,"Nie było problemu, ale też bez zaangażowania.",Skill_G,TAG_25,Stream4
+1506,Aleksandra Dudek,9,2024-01-12,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_G,TAG_28,Stream4
+1507,Krzysztof Adamczyk,6,2024-12-17,Zdecydowanie polecam – profesjonalne podejście.,Skill_G,TAG_26,Stream4
+1508,Krzysztof Adamczyk,6,2024-01-19,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_G,TAG_28,Stream4
+1509,Krzysztof Adamczyk,4,2024-07-08,Nie udało się rozwiązać mojego problemu.,Skill_H,TAG_30,Stream4
+1510,Łukasz Zając,0,2024-04-11,Rozmowa nieprzyjemna i nerwowa.,Skill_H,TAG_29,Stream4
+1511,Łukasz Zając,6,2024-01-05,Niezadowolony z poziomu obsługi.,Skill_H,TAG_30,Stream4
+1512,Aleksandra Dudek,1,2024-02-29,Kontakt pierwsza klasa!,Skill_G,TAG_26,Stream4
+1513,Łukasz Zając,1,2024-07-26,Brak empatii i zrozumienia.,Skill_H,TAG_32,Stream4
+1514,Magdalena Michalska,8,2024-06-18,Niezadowolony z poziomu obsługi.,Skill_G,TAG_26,Stream4
+1515,Aleksandra Dudek,2,2024-03-15,Konsultant był nieprzygotowany.,Skill_G,TAG_26,Stream4
+1516,Krzysztof Adamczyk,2,2024-12-22,Kontakt pierwsza klasa!,Skill_G,TAG_28,Stream4
+1517,Krzysztof Adamczyk,4,2024-01-15,Zignorowano moje pytania.,Skill_G,TAG_27,Stream4
+1518,Aleksandra Dudek,3,2024-11-27,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_H,TAG_32,Stream4
+1519,Magdalena Michalska,4,2024-06-28,Brak konkretnej odpowiedzi.,Skill_H,TAG_29,Stream4
+1520,Krzysztof Adamczyk,1,2024-07-10,Zwyczajna rozmowa – nic szczególnego.,Skill_G,TAG_28,Stream4
+1521,Magdalena Michalska,4,2024-11-29,Zaskakująco dobra obsługa.,Skill_H,TAG_29,Stream4
+1522,Krzysztof Adamczyk,7,2024-07-11,Zaskakująco dobra obsługa.,Skill_G,TAG_26,Stream4
+1523,Krzysztof Adamczyk,8,2024-10-22,Nie jestem w pełni usatysfakcjonowany.,Skill_G,TAG_25,Stream4
+1524,Aleksandra Dudek,10,2024-11-07,Kontakt pierwsza klasa!,Skill_G,TAG_28,Stream4
+1525,Łukasz Zając,1,2024-04-05,Nie wszystkie kwestie zostały wyjaśnione.,Skill_H,TAG_31,Stream4
+1526,Aleksandra Dudek,5,2024-08-13,Dostałem odpowiedź na wszystkie pytania.,Skill_H,TAG_32,Stream4
+1527,Magdalena Michalska,1,2024-09-18,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_G,TAG_28,Stream4
+1528,Magdalena Michalska,7,2024-02-05,Dostałem odpowiedź na wszystkie pytania.,Skill_H,TAG_30,Stream4
+1529,Łukasz Zając,8,2024-01-03,Jestem bardzo zadowolony z rozmowy.,Skill_H,TAG_30,Stream4
+1530,Łukasz Zając,4,2024-08-03,Dostałem odpowiedź na wszystkie pytania.,Skill_H,TAG_30,Stream4
+1531,Aleksandra Dudek,0,2024-08-13,Nie polecam – strata czasu.,Skill_G,TAG_28,Stream4
+1532,Krzysztof Adamczyk,2,2024-01-21,Odpowiedź wymagała doprecyzowania.,Skill_G,TAG_27,Stream4
+1533,Aleksandra Dudek,0,2024-11-14,Zdecydowanie polecam – profesjonalne podejście.,Skill_G,TAG_28,Stream4
+1534,Aleksandra Dudek,9,2024-05-16,Otrzymałem sprzeczne informacje.,Skill_G,TAG_27,Stream4
+1535,Łukasz Zając,6,2024-04-15,Konsultant był pomocny i miły.,Skill_H,TAG_31,Stream4
+1536,Aleksandra Dudek,2,2024-08-08,Zwyczajna rozmowa – nic szczególnego.,Skill_H,TAG_32,Stream4
+1537,Magdalena Michalska,3,2024-09-23,"Świetna obsługa, bardzo dziękuję!",Skill_G,TAG_25,Stream4
+1538,Krzysztof Adamczyk,3,2024-05-22,"Było w porządku, choć bez fajerwerków.",Skill_G,TAG_27,Stream4
+1539,Krzysztof Adamczyk,0,2024-09-24,Nie udało się rozwiązać mojego problemu.,Skill_G,TAG_27,Stream4
+1540,Magdalena Michalska,4,2024-07-09,Trochę chaotyczna obsługa.,Skill_G,TAG_26,Stream4
+1541,Łukasz Zając,0,2024-08-06,Konsultant z wiedzą i empatią.,Skill_H,TAG_32,Stream4
+1542,Krzysztof Adamczyk,1,2024-09-18,Otrzymałem sprzeczne informacje.,Skill_G,TAG_26,Stream4
+1543,Łukasz Zając,7,2024-07-30,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_G,TAG_25,Stream4
+1544,Magdalena Michalska,2,2024-11-16,Otrzymałem sprzeczne informacje.,Skill_H,TAG_29,Stream4
+1545,Łukasz Zając,1,2024-04-14,Otrzymałem sprzeczne informacje.,Skill_H,TAG_29,Stream4
+1546,Aleksandra Dudek,7,2024-07-11,Czułem się zbywany.,Skill_H,TAG_30,Stream4
+1547,Łukasz Zając,10,2024-09-17,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_H,TAG_32,Stream4
+1548,Magdalena Michalska,3,2024-06-08,"Neutralna rozmowa, nie mam uwag.",Skill_H,TAG_32,Stream4
+1549,Magdalena Michalska,7,2024-01-24,Nie udało się rozwiązać mojego problemu.,Skill_G,TAG_25,Stream4
+1550,Magdalena Michalska,7,2024-08-22,Zbyt ogólne informacje – nie pomogło.,Skill_G,TAG_28,Stream4
+1551,Magdalena Michalska,9,2024-07-14,Obsługa była nieuprzejma.,Skill_H,TAG_29,Stream4
+1552,Magdalena Michalska,7,2024-07-30,Doceniam szybkie działanie.,Skill_G,TAG_28,Stream4
+1553,Magdalena Michalska,4,2024-05-19,"Mogło być lepiej, ale doceniam starania.",Skill_H,TAG_31,Stream4
+1554,Krzysztof Adamczyk,6,2024-07-20,"Miło, rzeczowo, konkretnie – super!",Skill_H,TAG_30,Stream4
+1555,Magdalena Michalska,10,2024-02-12,Brak empatii i zrozumienia.,Skill_G,TAG_28,Stream4
+1556,Magdalena Michalska,7,2024-08-24,Zwyczajna rozmowa – nic szczególnego.,Skill_G,TAG_26,Stream4
+1557,Krzysztof Adamczyk,3,2024-04-12,Zignorowano moje pytania.,Skill_G,TAG_28,Stream4
+1558,Krzysztof Adamczyk,2,2024-07-26,Kontakt szybki i konkretny.,Skill_G,TAG_26,Stream4
+1559,Łukasz Zając,4,2024-12-20,Konsultant był nieprzygotowany.,Skill_G,TAG_26,Stream4
+1560,Magdalena Michalska,3,2024-09-30,Kontakt szybki i konkretny.,Skill_H,TAG_31,Stream4
+1561,Łukasz Zając,7,2024-05-23,Jestem bardzo zadowolony z rozmowy.,Skill_H,TAG_32,Stream4
+1562,Aleksandra Dudek,6,2024-06-26,"Nie było problemu, ale też bez zaangażowania.",Skill_H,TAG_29,Stream4
+1563,Aleksandra Dudek,1,2024-04-20,Niezadowolony z poziomu obsługi.,Skill_G,TAG_27,Stream4
+1564,Aleksandra Dudek,8,2024-04-30,Obsługa była nieuprzejma.,Skill_G,TAG_28,Stream4
+1565,Magdalena Michalska,7,2024-02-11,"Długi czas oczekiwania, ale reszta ok.",Skill_G,TAG_26,Stream4
+1566,Aleksandra Dudek,8,2024-11-06,Nie wszystkie kwestie zostały wyjaśnione.,Skill_H,TAG_30,Stream4
+1567,Aleksandra Dudek,5,2024-08-08,Zbyt ogólne informacje – nie pomogło.,Skill_G,TAG_27,Stream4
+1568,Krzysztof Adamczyk,7,2024-10-31,Nie polecam – strata czasu.,Skill_G,TAG_25,Stream4
+1569,Krzysztof Adamczyk,8,2024-02-25,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_G,TAG_25,Stream4
+1570,Magdalena Michalska,0,2024-09-18,Obsługa była nieuprzejma.,Skill_G,TAG_27,Stream4
+1571,Krzysztof Adamczyk,4,2024-03-09,Nie polecam – strata czasu.,Skill_G,TAG_26,Stream4
+1572,Krzysztof Adamczyk,4,2024-02-09,Zaskakująco dobra obsługa.,Skill_G,TAG_25,Stream4
+1573,Łukasz Zając,7,2024-10-13,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_H,TAG_32,Stream4
+1574,Krzysztof Adamczyk,6,2024-04-21,Doceniam szybkie działanie.,Skill_H,TAG_32,Stream4
+1575,Łukasz Zając,9,2024-05-13,Świetne podejście – aż miło było rozmawiać!,Skill_G,TAG_25,Stream4
+1576,Magdalena Michalska,2,2024-12-24,W końcu ktoś mi pomógł!,Skill_G,TAG_26,Stream4
+1577,Krzysztof Adamczyk,9,2024-12-20,Bardzo rzeczowo i konkretnie.,Skill_G,TAG_26,Stream4
+1578,Magdalena Michalska,2,2024-06-25,Konsultant był nieprzygotowany.,Skill_H,TAG_29,Stream4
+1579,Krzysztof Adamczyk,1,2024-04-18,Dostałem odpowiedź na wszystkie pytania.,Skill_G,TAG_26,Stream4
+1580,Aleksandra Dudek,3,2024-02-19,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_G,TAG_27,Stream4
+1581,Łukasz Zając,6,2024-03-06,"Neutralna rozmowa, nie mam uwag.",Skill_H,TAG_30,Stream4
+1582,Aleksandra Dudek,10,2024-02-16,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_G,TAG_26,Stream4
+1583,Magdalena Michalska,7,2024-05-18,Bardzo rzeczowo i konkretnie.,Skill_H,TAG_29,Stream4
+1584,Aleksandra Dudek,6,2024-03-15,"Bardzo dobra rozmowa, dziękuję.",Skill_G,TAG_27,Stream4
+1585,Łukasz Zając,0,2024-06-03,Otrzymałem sprzeczne informacje.,Skill_G,TAG_26,Stream4
+1586,Aleksandra Dudek,10,2024-07-22,Zignorowano moje pytania.,Skill_G,TAG_27,Stream4
+1587,Aleksandra Dudek,7,2024-11-01,Nie jestem w pełni usatysfakcjonowany.,Skill_G,TAG_27,Stream4
+1588,Krzysztof Adamczyk,6,2024-07-11,Nie polecam – strata czasu.,Skill_G,TAG_27,Stream4
+1589,Magdalena Michalska,3,2024-10-06,Jestem bardzo zadowolony z rozmowy.,Skill_G,TAG_28,Stream4
+1590,Łukasz Zając,0,2024-10-28,Dostałem odpowiedź na wszystkie pytania.,Skill_H,TAG_30,Stream4
+1591,Magdalena Michalska,7,2024-04-05,Brak empatii i zrozumienia.,Skill_G,TAG_26,Stream4
+1592,Aleksandra Dudek,2,2024-05-26,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_G,TAG_26,Stream4
+1593,Aleksandra Dudek,9,2024-11-13,Obsługa była nieuprzejma.,Skill_G,TAG_28,Stream4
+1594,Krzysztof Adamczyk,5,2024-12-02,"Obsługa poprawna, ale bez zachwytu.",Skill_G,TAG_27,Stream4
+1595,Łukasz Zając,10,2024-01-02,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_G,TAG_25,Stream4
+1596,Łukasz Zając,7,2024-12-06,Zaskakująco dobra obsługa.,Skill_G,TAG_25,Stream4
+1597,Aleksandra Dudek,7,2024-01-21,Konsultant z wiedzą i empatią.,Skill_G,TAG_27,Stream4
+1598,Magdalena Michalska,10,2024-07-08,Odpowiedź wymagała doprecyzowania.,Skill_H,TAG_31,Stream4
+1599,Aleksandra Dudek,5,2024-08-29,Brak konkretnej odpowiedzi.,Skill_G,TAG_28,Stream4
+1600,Krzysztof Adamczyk,3,2024-07-25,"Miło, rzeczowo, konkretnie – super!",Skill_G,TAG_28,Stream4
+1601,Łukasz Zając,10,2024-07-16,Kontakt szybki i konkretny.,Skill_H,TAG_29,Stream4
+1602,Aleksandra Dudek,9,2024-12-12,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_G,TAG_25,Stream4
+1603,Krzysztof Adamczyk,2,2024-08-01,Obsługa była nieuprzejma.,Skill_H,TAG_30,Stream4
+1604,Aleksandra Dudek,6,2024-01-18,Bardzo rzeczowo i konkretnie.,Skill_G,TAG_27,Stream4
+1605,Krzysztof Adamczyk,5,2024-06-25,Odpowiedź wymagała doprecyzowania.,Skill_G,TAG_25,Stream4
+1606,Magdalena Michalska,5,2024-05-11,"Nie było problemu, ale też bez zaangażowania.",Skill_G,TAG_26,Stream4
+1607,Aleksandra Dudek,5,2024-10-18,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_G,TAG_27,Stream4
+1608,Magdalena Michalska,1,2024-10-07,Dostałem odpowiedź na wszystkie pytania.,Skill_G,TAG_27,Stream4
+1609,Łukasz Zając,2,2024-04-26,Trochę chaotyczna obsługa.,Skill_H,TAG_31,Stream4
+1610,Łukasz Zając,3,2024-09-26,Dostałem odpowiedź na wszystkie pytania.,Skill_G,TAG_27,Stream4
+1611,Magdalena Michalska,5,2024-09-19,Jestem bardzo zadowolony z rozmowy.,Skill_G,TAG_25,Stream4
+1612,Magdalena Michalska,7,2024-12-09,Otrzymałem sprzeczne informacje.,Skill_H,TAG_30,Stream4
+1613,Magdalena Michalska,6,2024-05-08,Rozmowa nieprzyjemna i nerwowa.,Skill_H,TAG_32,Stream4
+1614,Krzysztof Adamczyk,6,2024-05-10,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_G,TAG_26,Stream4
+1615,Łukasz Zając,6,2024-09-04,"Mogło być lepiej, ale doceniam starania.",Skill_H,TAG_32,Stream4
+1616,Krzysztof Adamczyk,7,2024-09-16,Rozwiązano mój problem od razu.,Skill_H,TAG_31,Stream4
+1617,Krzysztof Adamczyk,7,2024-09-10,"Było w porządku, choć bez fajerwerków.",Skill_G,TAG_28,Stream4
+1618,Magdalena Michalska,2,2024-11-15,Konsultant był pomocny i miły.,Skill_H,TAG_31,Stream4
+1619,Krzysztof Adamczyk,8,2024-09-25,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_H,TAG_31,Stream4
+1620,Łukasz Zając,3,2024-08-08,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_H,TAG_29,Stream4
+1621,Krzysztof Adamczyk,7,2024-11-15,Konsultant był pomocny i miły.,Skill_H,TAG_32,Stream4
+1622,Łukasz Zając,8,2024-09-26,Zignorowano moje pytania.,Skill_H,TAG_29,Stream4
+1623,Łukasz Zając,2,2024-01-12,Świetne podejście – aż miło było rozmawiać!,Skill_H,TAG_29,Stream4
+1624,Krzysztof Adamczyk,8,2024-04-17,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_H,TAG_30,Stream4
+1625,Magdalena Michalska,1,2024-03-04,Brak konkretnej odpowiedzi.,Skill_G,TAG_27,Stream4
+1626,Aleksandra Dudek,0,2024-12-30,Konsultant był nieprzygotowany.,Skill_G,TAG_28,Stream4
+1627,Łukasz Zając,7,2024-06-17,Nie wrócę więcej – bardzo słabo.,Skill_H,TAG_30,Stream4
+1628,Łukasz Zając,5,2024-10-01,Kontakt szybki i konkretny.,Skill_H,TAG_31,Stream4
+1629,Łukasz Zając,3,2024-11-06,Rozmowa nieprzyjemna i nerwowa.,Skill_G,TAG_25,Stream4
+1630,Łukasz Zając,6,2024-07-04,Otrzymałem sprzeczne informacje.,Skill_G,TAG_26,Stream4
+1631,Aleksandra Dudek,1,2024-06-25,Zdecydowanie polecam – profesjonalne podejście.,Skill_G,TAG_25,Stream4
+1632,Łukasz Zając,1,2024-04-07,Nie udało się rozwiązać mojego problemu.,Skill_G,TAG_26,Stream4
+1633,Łukasz Zając,1,2024-04-17,"Dużo słów, mało rozwiązań.",Skill_G,TAG_28,Stream4
+1634,Krzysztof Adamczyk,7,2024-03-08,"Było w porządku, choć bez fajerwerków.",Skill_G,TAG_28,Stream4
+1635,Krzysztof Adamczyk,0,2024-03-18,Konsultant z wiedzą i empatią.,Skill_G,TAG_26,Stream4
+1636,Aleksandra Dudek,4,2024-05-25,Dostałem odpowiedź na wszystkie pytania.,Skill_H,TAG_30,Stream4
+1637,Aleksandra Dudek,10,2024-07-16,"Dużo słów, mało rozwiązań.",Skill_H,TAG_30,Stream4
+1638,Krzysztof Adamczyk,6,2024-04-12,Świetne podejście – aż miło było rozmawiać!,Skill_H,TAG_31,Stream4
+1639,Krzysztof Adamczyk,4,2024-10-04,Kontakt szybki i konkretny.,Skill_H,TAG_30,Stream4
+1640,Łukasz Zając,4,2024-02-11,Zdecydowanie polecam – profesjonalne podejście.,Skill_G,TAG_26,Stream4
+1641,Łukasz Zając,0,2024-01-15,Niezadowolony z poziomu obsługi.,Skill_G,TAG_28,Stream4
+1642,Krzysztof Adamczyk,6,2024-02-03,Konsultant z wiedzą i empatią.,Skill_H,TAG_30,Stream4
+1643,Aleksandra Dudek,2,2024-03-04,Niezadowolony z poziomu obsługi.,Skill_G,TAG_26,Stream4
+1644,Magdalena Michalska,9,2024-02-01,"Świetna obsługa, bardzo dziękuję!",Skill_G,TAG_27,Stream4
+1645,Krzysztof Adamczyk,0,2024-07-31,Trochę chaotyczna obsługa.,Skill_H,TAG_30,Stream4
+1646,Łukasz Zając,7,2024-07-05,Obsługa na najwyższym poziomie.,Skill_G,TAG_28,Stream4
+1647,Aleksandra Dudek,1,2024-08-19,"Obsługa poprawna, ale bez zachwytu.",Skill_G,TAG_27,Stream4
+1648,Łukasz Zając,3,2024-02-25,Zwyczajna rozmowa – nic szczególnego.,Skill_H,TAG_32,Stream4
+1649,Aleksandra Dudek,3,2024-02-15,"Miło, rzeczowo, konkretnie – super!",Skill_H,TAG_32,Stream4
+1650,Krzysztof Adamczyk,1,2024-06-12,Brak konkretnej odpowiedzi.,Skill_G,TAG_27,Stream4
+1651,Aleksandra Dudek,0,2024-02-04,Kontakt szybki i konkretny.,Skill_G,TAG_28,Stream4
+1652,Krzysztof Adamczyk,10,2024-04-14,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_G,TAG_25,Stream4
+1653,Aleksandra Dudek,4,2024-12-29,"Świetna obsługa, bardzo dziękuję!",Skill_G,TAG_27,Stream4
+1654,Łukasz Zając,8,2024-01-15,Nie polecam – strata czasu.,Skill_G,TAG_26,Stream4
+1655,Aleksandra Dudek,3,2024-02-11,Konsultant z wiedzą i empatią.,Skill_H,TAG_30,Stream4
+1656,Krzysztof Adamczyk,10,2024-11-24,"Obsługa poprawna, ale bez zachwytu.",Skill_H,TAG_32,Stream4
+1657,Magdalena Michalska,7,2024-09-08,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_H,TAG_32,Stream4
+1658,Aleksandra Dudek,4,2024-04-17,Jestem bardzo zadowolony z rozmowy.,Skill_H,TAG_30,Stream4
+1659,Magdalena Michalska,0,2024-08-06,W końcu ktoś mi pomógł!,Skill_G,TAG_26,Stream4
+1660,Krzysztof Adamczyk,8,2024-11-23,Brak empatii i zrozumienia.,Skill_G,TAG_27,Stream4
+1661,Aleksandra Dudek,7,2024-05-18,Rozwiązano mój problem od razu.,Skill_G,TAG_28,Stream4
+1662,Magdalena Michalska,10,2024-04-27,"Miło, rzeczowo, konkretnie – super!",Skill_G,TAG_27,Stream4
+1663,Magdalena Michalska,9,2024-11-13,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_G,TAG_28,Stream4
+1664,Krzysztof Adamczyk,2,2024-08-28,Obsługa była nieuprzejma.,Skill_H,TAG_30,Stream4
+1665,Magdalena Michalska,9,2024-01-22,"Długi czas oczekiwania, ale reszta ok.",Skill_G,TAG_25,Stream4
+1666,Magdalena Michalska,6,2024-09-04,"Neutralna rozmowa, nie mam uwag.",Skill_H,TAG_29,Stream4
+1667,Krzysztof Adamczyk,6,2024-09-27,Czułem się zbywany.,Skill_G,TAG_25,Stream4
+1668,Krzysztof Adamczyk,1,2024-10-30,Zgłoszenie zostało zignorowane.,Skill_G,TAG_25,Stream4
+1669,Aleksandra Dudek,2,2024-07-05,Odpowiedź wymagała doprecyzowania.,Skill_G,TAG_25,Stream4
+1670,Krzysztof Adamczyk,1,2024-10-20,Czułem się zbywany.,Skill_H,TAG_31,Stream4
+1671,Magdalena Michalska,5,2024-07-30,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_G,TAG_26,Stream4
+1672,Łukasz Zając,10,2024-08-21,Nie wrócę więcej – bardzo słabo.,Skill_H,TAG_29,Stream4
+1673,Magdalena Michalska,7,2024-01-03,"Obsługa poprawna, ale bez zachwytu.",Skill_H,TAG_30,Stream4
+1674,Aleksandra Dudek,7,2024-04-17,Jestem bardzo zadowolony z rozmowy.,Skill_H,TAG_32,Stream4
+1675,Krzysztof Adamczyk,4,2024-07-07,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_G,TAG_26,Stream4
+1676,Łukasz Zając,7,2024-12-28,Konsultant był pomocny i miły.,Skill_H,TAG_29,Stream4
+1677,Łukasz Zając,9,2024-05-22,Świetne podejście – aż miło było rozmawiać!,Skill_G,TAG_27,Stream4
+1678,Aleksandra Dudek,0,2024-03-16,Długo czekałem na połączenie.,Skill_H,TAG_29,Stream4
+1679,Aleksandra Dudek,8,2024-12-29,Zignorowano moje pytania.,Skill_G,TAG_25,Stream4
+1680,Łukasz Zając,2,2024-01-08,"Mogło być lepiej, ale doceniam starania.",Skill_H,TAG_29,Stream4
+1681,Łukasz Zając,4,2024-05-10,Brak empatii i zrozumienia.,Skill_G,TAG_28,Stream4
+1682,Aleksandra Dudek,6,2024-12-15,Brak empatii i zrozumienia.,Skill_G,TAG_26,Stream4
+1683,Aleksandra Dudek,5,2024-11-03,Rozwiązano mój problem od razu.,Skill_G,TAG_28,Stream4
+1684,Krzysztof Adamczyk,1,2024-04-10,"Obsługa poprawna, ale bez zachwytu.",Skill_H,TAG_31,Stream4
+1685,Aleksandra Dudek,3,2024-03-03,"Obsługa poprawna, ale bez zachwytu.",Skill_H,TAG_30,Stream4
+1686,Łukasz Zając,6,2024-04-02,Konsultant z wiedzą i empatią.,Skill_H,TAG_31,Stream4
+1687,Aleksandra Dudek,6,2024-06-29,"Świetna obsługa, bardzo dziękuję!",Skill_H,TAG_31,Stream4
+1688,Magdalena Michalska,4,2024-02-06,Nie wrócę więcej – bardzo słabo.,Skill_H,TAG_30,Stream4
+1689,Krzysztof Adamczyk,8,2024-04-29,Długo czekałem na połączenie.,Skill_H,TAG_29,Stream4
+1690,Aleksandra Dudek,8,2024-03-18,"Było w porządku, choć bez fajerwerków.",Skill_H,TAG_31,Stream4
+1691,Krzysztof Adamczyk,6,2024-11-30,Brak konkretnej odpowiedzi.,Skill_H,TAG_30,Stream4
+1692,Krzysztof Adamczyk,5,2024-05-04,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_H,TAG_32,Stream4
+1693,Łukasz Zając,7,2024-03-02,Otrzymałem sprzeczne informacje.,Skill_G,TAG_27,Stream4
+1694,Krzysztof Adamczyk,0,2024-05-13,Brak konkretnej odpowiedzi.,Skill_H,TAG_29,Stream4
+1695,Magdalena Michalska,3,2024-08-10,Doceniam szybkie działanie.,Skill_H,TAG_29,Stream4
+1696,Aleksandra Dudek,10,2024-08-04,Kontakt szybki i konkretny.,Skill_G,TAG_26,Stream4
+1697,Łukasz Zając,6,2024-02-23,Długo czekałem na połączenie.,Skill_G,TAG_27,Stream4
+1698,Aleksandra Dudek,1,2024-04-26,Nie jestem w pełni usatysfakcjonowany.,Skill_H,TAG_29,Stream4
+1699,Łukasz Zając,6,2024-04-03,Rozwiązano mój problem od razu.,Skill_H,TAG_30,Stream4
+1700,Łukasz Zając,9,2024-01-24,Dostałem odpowiedź na wszystkie pytania.,Skill_G,TAG_28,Stream4
+1701,Krzysztof Adamczyk,10,2024-06-16,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_G,TAG_28,Stream4
+1702,Łukasz Zając,6,2024-07-25,Brak empatii i zrozumienia.,Skill_G,TAG_27,Stream4
+1703,Aleksandra Dudek,3,2024-01-05,Rozwiązano mój problem od razu.,Skill_G,TAG_27,Stream4
+1704,Krzysztof Adamczyk,5,2024-06-15,Otrzymałem sprzeczne informacje.,Skill_G,TAG_27,Stream4
+1705,Krzysztof Adamczyk,1,2024-11-16,Konsultant z wiedzą i empatią.,Skill_G,TAG_28,Stream4
+1706,Łukasz Zając,6,2024-02-27,Niezadowolony z poziomu obsługi.,Skill_H,TAG_30,Stream4
+1707,Aleksandra Dudek,5,2024-02-26,Konsultant był nieprzygotowany.,Skill_H,TAG_30,Stream4
+1708,Krzysztof Adamczyk,7,2024-03-07,Obsługa na najwyższym poziomie.,Skill_G,TAG_28,Stream4
+1709,Aleksandra Dudek,8,2024-11-24,Nie jestem w pełni usatysfakcjonowany.,Skill_H,TAG_32,Stream4
+1710,Łukasz Zając,3,2024-07-30,Zwyczajna rozmowa – nic szczególnego.,Skill_G,TAG_28,Stream4
+1711,Krzysztof Adamczyk,0,2024-08-24,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_G,TAG_25,Stream4
+1712,Krzysztof Adamczyk,6,2024-12-29,W końcu ktoś mi pomógł!,Skill_H,TAG_30,Stream4
+1713,Aleksandra Dudek,5,2024-10-07,W końcu ktoś mi pomógł!,Skill_G,TAG_25,Stream4
+1714,Magdalena Michalska,1,2024-03-30,Jestem bardzo zadowolony z rozmowy.,Skill_G,TAG_27,Stream4
+1715,Magdalena Michalska,8,2024-03-06,"Świetna obsługa, bardzo dziękuję!",Skill_H,TAG_32,Stream4
+1716,Magdalena Michalska,0,2024-05-29,Zignorowano moje pytania.,Skill_G,TAG_25,Stream4
+1717,Aleksandra Dudek,9,2024-01-02,Bardzo rzeczowo i konkretnie.,Skill_G,TAG_26,Stream4
+1718,Krzysztof Adamczyk,4,2024-07-13,Zdecydowanie polecam – profesjonalne podejście.,Skill_H,TAG_31,Stream4
+1719,Magdalena Michalska,4,2024-03-08,Brak konkretnej odpowiedzi.,Skill_H,TAG_29,Stream4
+1720,Krzysztof Adamczyk,10,2024-11-16,Nie wrócę więcej – bardzo słabo.,Skill_H,TAG_29,Stream4
+1721,Łukasz Zając,7,2024-07-15,"Mogło być lepiej, ale doceniam starania.",Skill_H,TAG_31,Stream4
+1722,Krzysztof Adamczyk,7,2024-01-22,"Bardzo dobra rozmowa, dziękuję.",Skill_G,TAG_26,Stream4
+1723,Magdalena Michalska,7,2024-12-07,"Świetna obsługa, bardzo dziękuję!",Skill_H,TAG_29,Stream4
+1724,Krzysztof Adamczyk,0,2024-02-15,Kontakt szybki i konkretny.,Skill_G,TAG_28,Stream4
+1725,Magdalena Michalska,5,2024-03-31,Dostałem odpowiedź na wszystkie pytania.,Skill_H,TAG_32,Stream4
+1726,Łukasz Zając,4,2024-05-24,"Miło, rzeczowo, konkretnie – super!",Skill_G,TAG_25,Stream4
+1727,Aleksandra Dudek,1,2024-01-12,Konsultant był pomocny i miły.,Skill_G,TAG_26,Stream4
+1728,Magdalena Michalska,6,2024-08-21,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_G,TAG_26,Stream4
+1729,Łukasz Zając,1,2024-05-09,Nie wrócę więcej – bardzo słabo.,Skill_H,TAG_29,Stream4
+1730,Magdalena Michalska,5,2024-01-06,Kontakt pierwsza klasa!,Skill_G,TAG_27,Stream4
+1731,Krzysztof Adamczyk,7,2024-05-12,Zbyt ogólne informacje – nie pomogło.,Skill_H,TAG_29,Stream4
+1732,Łukasz Zając,1,2024-10-03,Nie udało się rozwiązać mojego problemu.,Skill_G,TAG_27,Stream4
+1733,Aleksandra Dudek,1,2024-07-29,Doceniam szybkie działanie.,Skill_G,TAG_27,Stream4
+1734,Krzysztof Adamczyk,4,2024-04-14,Obsługa była nieuprzejma.,Skill_G,TAG_27,Stream4
+1735,Łukasz Zając,6,2024-06-16,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_H,TAG_29,Stream4
+1736,Łukasz Zając,9,2024-01-07,Zgłoszenie zostało zignorowane.,Skill_G,TAG_27,Stream4
+1737,Aleksandra Dudek,3,2024-05-14,Niezadowolony z poziomu obsługi.,Skill_G,TAG_26,Stream4
+1738,Krzysztof Adamczyk,9,2024-01-27,"Dużo słów, mało rozwiązań.",Skill_G,TAG_28,Stream4
+1739,Krzysztof Adamczyk,1,2024-03-04,Konsultant z wiedzą i empatią.,Skill_H,TAG_31,Stream4
+1740,Aleksandra Dudek,7,2024-09-28,Jestem bardzo zadowolony z rozmowy.,Skill_H,TAG_31,Stream4
+1741,Aleksandra Dudek,4,2024-04-23,"Neutralna rozmowa, nie mam uwag.",Skill_G,TAG_27,Stream4
+1742,Krzysztof Adamczyk,9,2024-02-26,Zwyczajna rozmowa – nic szczególnego.,Skill_H,TAG_31,Stream4
+1743,Magdalena Michalska,10,2024-08-06,Dostałem odpowiedź na wszystkie pytania.,Skill_H,TAG_29,Stream4
+1744,Łukasz Zając,2,2024-05-26,"Miło, rzeczowo, konkretnie – super!",Skill_H,TAG_32,Stream4
+1745,Łukasz Zając,4,2024-08-11,Zbyt ogólne informacje – nie pomogło.,Skill_H,TAG_31,Stream4
+1746,Magdalena Michalska,3,2024-05-22,Zwyczajna rozmowa – nic szczególnego.,Skill_H,TAG_30,Stream4
+1747,Łukasz Zając,1,2024-03-09,Nie wrócę więcej – bardzo słabo.,Skill_H,TAG_31,Stream4
+1748,Krzysztof Adamczyk,6,2024-07-29,Nie wszystkie kwestie zostały wyjaśnione.,Skill_G,TAG_25,Stream4
+1749,Magdalena Michalska,8,2024-02-05,Brak empatii i zrozumienia.,Skill_G,TAG_28,Stream4
+1750,Magdalena Michalska,10,2024-08-16,Nie wszystkie kwestie zostały wyjaśnione.,Skill_H,TAG_32,Stream4
+1751,Magdalena Michalska,6,2024-01-22,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_H,TAG_30,Stream4
+1752,Łukasz Zając,6,2024-03-15,Dostałem odpowiedź na wszystkie pytania.,Skill_G,TAG_26,Stream4
+1753,Łukasz Zając,1,2024-01-21,Otrzymałem sprzeczne informacje.,Skill_G,TAG_28,Stream4
+1754,Łukasz Zając,7,2024-01-11,Konsultant z wiedzą i empatią.,Skill_H,TAG_31,Stream4
+1755,Magdalena Michalska,7,2024-02-15,Brak konkretnej odpowiedzi.,Skill_H,TAG_30,Stream4
+1756,Łukasz Zając,4,2024-04-26,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_G,TAG_28,Stream4
+1757,Krzysztof Adamczyk,3,2024-02-08,Brak empatii i zrozumienia.,Skill_G,TAG_26,Stream4
+1758,Aleksandra Dudek,4,2024-07-01,Długo czekałem na połączenie.,Skill_G,TAG_27,Stream4
+1759,Krzysztof Adamczyk,3,2024-03-06,"Neutralna rozmowa, nie mam uwag.",Skill_G,TAG_27,Stream4
+1760,Krzysztof Adamczyk,0,2024-12-27,Zdecydowanie polecam – profesjonalne podejście.,Skill_G,TAG_28,Stream4
+1761,Magdalena Michalska,10,2024-10-24,Czułem się zbywany.,Skill_H,TAG_29,Stream4
+1762,Magdalena Michalska,10,2024-05-23,Konsultant był nieprzygotowany.,Skill_H,TAG_30,Stream4
+1763,Magdalena Michalska,9,2024-06-06,Zwyczajna rozmowa – nic szczególnego.,Skill_G,TAG_28,Stream4
+1764,Łukasz Zając,8,2024-12-03,Konsultant był pomocny i miły.,Skill_H,TAG_29,Stream4
+1765,Aleksandra Dudek,6,2024-08-13,Trochę chaotyczna obsługa.,Skill_H,TAG_30,Stream4
+1766,Krzysztof Adamczyk,2,2024-12-12,Trochę chaotyczna obsługa.,Skill_G,TAG_27,Stream4
+1767,Łukasz Zając,9,2024-04-21,Trochę chaotyczna obsługa.,Skill_G,TAG_25,Stream4
+1768,Łukasz Zając,3,2024-04-19,"Nie było problemu, ale też bez zaangażowania.",Skill_H,TAG_30,Stream4
+1769,Aleksandra Dudek,0,2024-02-21,Zgłoszenie zostało zignorowane.,Skill_H,TAG_32,Stream4
+1770,Krzysztof Adamczyk,10,2024-10-30,"Było w porządku, choć bez fajerwerków.",Skill_G,TAG_26,Stream4
+1771,Łukasz Zając,5,2024-08-24,Dostałem odpowiedź na wszystkie pytania.,Skill_H,TAG_30,Stream4
+1772,Łukasz Zając,2,2024-03-06,Zdecydowanie polecam – profesjonalne podejście.,Skill_H,TAG_31,Stream4
+1773,Krzysztof Adamczyk,4,2024-04-14,Zignorowano moje pytania.,Skill_G,TAG_27,Stream4
+1774,Łukasz Zając,3,2024-09-01,Czułem się zbywany.,Skill_H,TAG_30,Stream4
+1775,Magdalena Michalska,2,2024-05-27,Otrzymałem sprzeczne informacje.,Skill_H,TAG_30,Stream4
+1776,Aleksandra Dudek,2,2024-03-10,Nie udało się rozwiązać mojego problemu.,Skill_G,TAG_26,Stream4
+1777,Aleksandra Dudek,5,2024-11-10,Kontakt szybki i konkretny.,Skill_H,TAG_32,Stream4
+1778,Aleksandra Dudek,0,2024-04-02,Rozmowa nieprzyjemna i nerwowa.,Skill_G,TAG_27,Stream4
+1779,Łukasz Zając,0,2024-02-08,Dostałem odpowiedź na wszystkie pytania.,Skill_G,TAG_28,Stream4
+1780,Aleksandra Dudek,6,2024-05-27,"Dużo słów, mało rozwiązań.",Skill_H,TAG_29,Stream4
+1781,Krzysztof Adamczyk,3,2024-05-26,"Świetna obsługa, bardzo dziękuję!",Skill_H,TAG_29,Stream4
+1782,Aleksandra Dudek,9,2024-01-05,"Mogło być lepiej, ale doceniam starania.",Skill_G,TAG_25,Stream4
+1783,Krzysztof Adamczyk,5,2024-10-19,Rozwiązano mój problem od razu.,Skill_H,TAG_31,Stream4
+1784,Łukasz Zając,4,2024-02-17,Otrzymałem sprzeczne informacje.,Skill_G,TAG_26,Stream4
+1785,Magdalena Michalska,9,2024-12-22,"Świetna obsługa, bardzo dziękuję!",Skill_H,TAG_30,Stream4
+1786,Łukasz Zając,3,2024-11-12,Nie polecam – strata czasu.,Skill_G,TAG_28,Stream4
+1787,Aleksandra Dudek,2,2024-09-16,Trochę chaotyczna obsługa.,Skill_G,TAG_27,Stream4
+1788,Łukasz Zając,10,2024-04-20,W końcu ktoś mi pomógł!,Skill_G,TAG_28,Stream4
+1789,Aleksandra Dudek,5,2024-12-08,Świetne podejście – aż miło było rozmawiać!,Skill_H,TAG_30,Stream4
+1790,Łukasz Zając,3,2024-05-29,Nie polecam – strata czasu.,Skill_G,TAG_27,Stream4
+1791,Aleksandra Dudek,7,2024-12-13,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_G,TAG_25,Stream4
+1792,Krzysztof Adamczyk,6,2024-03-03,Obsługa na najwyższym poziomie.,Skill_G,TAG_28,Stream4
+1793,Krzysztof Adamczyk,7,2024-06-28,Czułem się zbywany.,Skill_H,TAG_32,Stream4
+1794,Łukasz Zając,2,2024-05-14,Kontakt pierwsza klasa!,Skill_H,TAG_30,Stream4
+1795,Krzysztof Adamczyk,0,2024-12-24,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_G,TAG_25,Stream4
+1796,Magdalena Michalska,7,2024-04-18,Zwyczajna rozmowa – nic szczególnego.,Skill_G,TAG_25,Stream4
+1797,Aleksandra Dudek,10,2024-08-12,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_H,TAG_30,Stream4
+1798,Łukasz Zając,9,2024-06-23,Niezadowolony z poziomu obsługi.,Skill_H,TAG_32,Stream4
+1799,Krzysztof Adamczyk,9,2024-11-25,"Świetna obsługa, bardzo dziękuję!",Skill_H,TAG_30,Stream4
+1800,Aleksandra Dudek,1,2024-10-29,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_H,TAG_29,Stream4
+1801,Magdalena Michalska,9,2024-10-25,Otrzymałem sprzeczne informacje.,Skill_G,TAG_26,Stream4
+1802,Łukasz Zając,6,2024-05-04,Trochę chaotyczna obsługa.,Skill_G,TAG_27,Stream4
+1803,Krzysztof Adamczyk,6,2024-06-28,Obsługa była nieuprzejma.,Skill_H,TAG_31,Stream4
+1804,Magdalena Michalska,2,2024-12-02,"Nie było problemu, ale też bez zaangażowania.",Skill_H,TAG_31,Stream4
+1805,Krzysztof Adamczyk,4,2024-01-20,Kontakt szybki i konkretny.,Skill_H,TAG_31,Stream4
+1806,Krzysztof Adamczyk,6,2024-04-04,"Mogło być lepiej, ale doceniam starania.",Skill_H,TAG_29,Stream4
+1807,Aleksandra Dudek,1,2024-08-27,Nie udało się rozwiązać mojego problemu.,Skill_G,TAG_27,Stream4
+1808,Krzysztof Adamczyk,5,2024-07-02,Kontakt pierwsza klasa!,Skill_H,TAG_30,Stream4
+1809,Łukasz Zając,6,2024-08-26,W końcu ktoś mi pomógł!,Skill_G,TAG_26,Stream4
+1810,Krzysztof Adamczyk,10,2024-09-17,Odpowiedź wymagała doprecyzowania.,Skill_G,TAG_25,Stream4
+1811,Magdalena Michalska,5,2024-06-04,Konsultant był pomocny i miły.,Skill_G,TAG_28,Stream4
+1812,Łukasz Zając,1,2024-03-04,Otrzymałem sprzeczne informacje.,Skill_G,TAG_26,Stream4
+1813,Magdalena Michalska,0,2024-02-05,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_H,TAG_30,Stream4
+1814,Aleksandra Dudek,6,2024-09-27,Czułem się zbywany.,Skill_G,TAG_25,Stream4
+1815,Magdalena Michalska,0,2024-06-26,"Świetna obsługa, bardzo dziękuję!",Skill_H,TAG_32,Stream4
+1816,Krzysztof Adamczyk,1,2024-08-28,Obsługa była nieuprzejma.,Skill_G,TAG_27,Stream4
+1817,Aleksandra Dudek,2,2024-06-24,Zgłoszenie zostało zignorowane.,Skill_H,TAG_31,Stream4
+1818,Aleksandra Dudek,0,2024-08-14,W końcu ktoś mi pomógł!,Skill_H,TAG_29,Stream4
+1819,Magdalena Michalska,6,2024-03-13,Trochę chaotyczna obsługa.,Skill_H,TAG_32,Stream4
+1820,Krzysztof Adamczyk,0,2024-06-28,Kontakt szybki i konkretny.,Skill_G,TAG_28,Stream4
+1821,Aleksandra Dudek,1,2024-10-04,Obsługa na najwyższym poziomie.,Skill_G,TAG_28,Stream4
+1822,Łukasz Zając,7,2024-02-09,Zgłoszenie zostało zignorowane.,Skill_H,TAG_32,Stream4
+1823,Łukasz Zając,0,2024-08-28,Zwyczajna rozmowa – nic szczególnego.,Skill_G,TAG_28,Stream4
+1824,Krzysztof Adamczyk,9,2024-12-24,Bardzo rzeczowo i konkretnie.,Skill_G,TAG_27,Stream4
+1825,Aleksandra Dudek,10,2024-12-22,"Miło, rzeczowo, konkretnie – super!",Skill_H,TAG_31,Stream4
+1826,Krzysztof Adamczyk,4,2024-12-15,Brak konkretnej odpowiedzi.,Skill_G,TAG_27,Stream4
+1827,Magdalena Michalska,2,2024-10-18,Trochę chaotyczna obsługa.,Skill_G,TAG_27,Stream4
+1828,Łukasz Zając,2,2024-05-13,Nie udało się rozwiązać mojego problemu.,Skill_G,TAG_26,Stream4
+1829,Magdalena Michalska,2,2024-10-20,Konsultant był pomocny i miły.,Skill_H,TAG_31,Stream4
+1830,Aleksandra Dudek,8,2024-04-04,Nie polecam – strata czasu.,Skill_G,TAG_26,Stream4
+1831,Aleksandra Dudek,6,2024-07-17,Niezadowolony z poziomu obsługi.,Skill_H,TAG_29,Stream4
+1832,Magdalena Michalska,5,2024-07-01,Kontakt pierwsza klasa!,Skill_H,TAG_32,Stream4
+1833,Krzysztof Adamczyk,4,2024-08-18,Kontakt pierwsza klasa!,Skill_H,TAG_32,Stream4
+1834,Krzysztof Adamczyk,8,2024-02-13,Nie polecam – strata czasu.,Skill_H,TAG_30,Stream4
+1835,Magdalena Michalska,8,2024-06-09,Niezadowolony z poziomu obsługi.,Skill_H,TAG_31,Stream4
+1836,Magdalena Michalska,6,2024-05-08,Konsultant był nieprzygotowany.,Skill_G,TAG_28,Stream4
+1837,Aleksandra Dudek,0,2024-07-04,Zaskakująco dobra obsługa.,Skill_H,TAG_31,Stream4
+1838,Krzysztof Adamczyk,7,2024-04-18,Długo czekałem na połączenie.,Skill_H,TAG_31,Stream4
+1839,Łukasz Zając,6,2024-08-26,Odpowiedź wymagała doprecyzowania.,Skill_G,TAG_26,Stream4
+1840,Łukasz Zając,8,2024-11-11,"Obsługa poprawna, ale bez zachwytu.",Skill_G,TAG_27,Stream4
+1841,Aleksandra Dudek,1,2024-12-23,Czułem się zbywany.,Skill_H,TAG_31,Stream4
+1842,Łukasz Zając,9,2024-04-29,Świetne podejście – aż miło było rozmawiać!,Skill_G,TAG_28,Stream4
+1843,Magdalena Michalska,0,2024-05-08,"Świetna obsługa, bardzo dziękuję!",Skill_G,TAG_26,Stream4
+1844,Krzysztof Adamczyk,0,2024-01-03,Zignorowano moje pytania.,Skill_H,TAG_32,Stream4
+1845,Aleksandra Dudek,2,2024-06-05,Rozwiązano mój problem od razu.,Skill_G,TAG_25,Stream4
+1846,Aleksandra Dudek,5,2024-06-19,Doceniam szybkie działanie.,Skill_H,TAG_30,Stream4
+1847,Krzysztof Adamczyk,8,2024-12-27,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_H,TAG_32,Stream4
+1848,Aleksandra Dudek,1,2024-10-13,"Było w porządku, choć bez fajerwerków.",Skill_G,TAG_26,Stream4
+1849,Aleksandra Dudek,5,2024-08-07,Doceniam szybkie działanie.,Skill_H,TAG_29,Stream4
+1850,Krzysztof Adamczyk,1,2024-05-12,"Nie było problemu, ale też bez zaangażowania.",Skill_G,TAG_25,Stream4
+1851,Aleksandra Dudek,8,2024-02-04,"Było w porządku, choć bez fajerwerków.",Skill_H,TAG_30,Stream4
+1852,Aleksandra Dudek,4,2024-07-14,Zdecydowanie polecam – profesjonalne podejście.,Skill_G,TAG_25,Stream4
+1853,Krzysztof Adamczyk,4,2024-12-26,Czułem się zbywany.,Skill_G,TAG_25,Stream4
+1854,Magdalena Michalska,3,2024-09-21,Doceniam szybkie działanie.,Skill_H,TAG_29,Stream4
+1855,Magdalena Michalska,10,2024-08-13,Nie jestem w pełni usatysfakcjonowany.,Skill_H,TAG_32,Stream4
+1856,Krzysztof Adamczyk,9,2024-05-09,"Nie było problemu, ale też bez zaangażowania.",Skill_G,TAG_26,Stream4
+1857,Łukasz Zając,4,2024-06-23,Trochę chaotyczna obsługa.,Skill_H,TAG_29,Stream4
+1858,Krzysztof Adamczyk,0,2024-11-14,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_H,TAG_31,Stream4
+1859,Łukasz Zając,7,2024-12-27,"Mogło być lepiej, ale doceniam starania.",Skill_G,TAG_27,Stream4
+1860,Magdalena Michalska,5,2024-10-06,W końcu ktoś mi pomógł!,Skill_G,TAG_28,Stream4
+1861,Łukasz Zając,8,2024-01-11,Zgłoszenie zostało zignorowane.,Skill_G,TAG_28,Stream4
+1862,Krzysztof Adamczyk,0,2024-06-19,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_H,TAG_32,Stream4
+1863,Aleksandra Dudek,6,2024-04-29,W końcu ktoś mi pomógł!,Skill_H,TAG_31,Stream4
+1864,Aleksandra Dudek,10,2024-09-29,Nie udało się rozwiązać mojego problemu.,Skill_G,TAG_26,Stream4
+1865,Łukasz Zając,5,2024-09-17,"Nie było problemu, ale też bez zaangażowania.",Skill_G,TAG_26,Stream4
+1866,Aleksandra Dudek,1,2024-08-22,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_H,TAG_30,Stream4
+1867,Łukasz Zając,8,2024-04-07,Dostałem odpowiedź na wszystkie pytania.,Skill_H,TAG_32,Stream4
+1868,Krzysztof Adamczyk,7,2024-07-15,"Było w porządku, choć bez fajerwerków.",Skill_H,TAG_31,Stream4
+1869,Krzysztof Adamczyk,8,2024-02-28,Odpowiedź wymagała doprecyzowania.,Skill_H,TAG_29,Stream4
+1870,Aleksandra Dudek,2,2024-10-23,Nie polecam – strata czasu.,Skill_H,TAG_32,Stream4
+1871,Aleksandra Dudek,9,2024-06-18,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_G,TAG_27,Stream4
+1872,Krzysztof Adamczyk,0,2024-01-11,Konsultant był nieprzygotowany.,Skill_H,TAG_30,Stream4
+1873,Krzysztof Adamczyk,4,2024-06-26,"Obsługa poprawna, ale bez zachwytu.",Skill_G,TAG_25,Stream4
+1874,Łukasz Zając,4,2024-03-17,Odpowiedź wymagała doprecyzowania.,Skill_H,TAG_30,Stream4
+1875,Krzysztof Adamczyk,0,2024-10-22,Nie udało się rozwiązać mojego problemu.,Skill_H,TAG_31,Stream4
+1876,Łukasz Zając,10,2024-04-16,Zgłoszenie zostało zignorowane.,Skill_H,TAG_29,Stream4
+1877,Magdalena Michalska,2,2024-11-18,"Nie było problemu, ale też bez zaangażowania.",Skill_H,TAG_31,Stream4
+1878,Łukasz Zając,3,2024-11-16,Odpowiedź wymagała doprecyzowania.,Skill_G,TAG_26,Stream4
+1879,Magdalena Michalska,6,2024-06-24,Brak empatii i zrozumienia.,Skill_H,TAG_29,Stream4
+1880,Aleksandra Dudek,7,2024-10-04,W końcu ktoś mi pomógł!,Skill_G,TAG_27,Stream4
+1881,Łukasz Zając,2,2024-12-12,Konsultant był pomocny i miły.,Skill_G,TAG_27,Stream4
+1882,Łukasz Zając,8,2024-05-02,Konsultant był nieprzygotowany.,Skill_G,TAG_26,Stream4
+1883,Aleksandra Dudek,3,2024-08-08,Obsługa na najwyższym poziomie.,Skill_H,TAG_29,Stream4
+1884,Łukasz Zając,8,2024-07-21,"Obsługa poprawna, ale bez zachwytu.",Skill_H,TAG_29,Stream4
+1885,Łukasz Zając,10,2024-02-24,Zbyt ogólne informacje – nie pomogło.,Skill_G,TAG_27,Stream4
+1886,Łukasz Zając,9,2024-02-27,Konsultant z wiedzą i empatią.,Skill_G,TAG_25,Stream4
+1887,Aleksandra Dudek,4,2024-03-30,Konsultant z wiedzą i empatią.,Skill_H,TAG_32,Stream4
+1888,Łukasz Zając,5,2024-10-09,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_G,TAG_28,Stream4
+1889,Aleksandra Dudek,9,2024-12-03,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_H,TAG_29,Stream4
+1890,Krzysztof Adamczyk,10,2024-04-20,Zgłoszenie zostało zignorowane.,Skill_H,TAG_31,Stream4
+1891,Magdalena Michalska,3,2024-12-14,Nie jestem w pełni usatysfakcjonowany.,Skill_H,TAG_29,Stream4
+1892,Krzysztof Adamczyk,9,2024-10-14,"Miło, rzeczowo, konkretnie – super!",Skill_G,TAG_26,Stream4
+1893,Aleksandra Dudek,9,2024-09-14,Dostałem odpowiedź na wszystkie pytania.,Skill_G,TAG_28,Stream4
+1894,Łukasz Zając,10,2024-02-17,Rozmowa nieprzyjemna i nerwowa.,Skill_G,TAG_26,Stream4
+1895,Łukasz Zając,10,2024-04-23,"Neutralna rozmowa, nie mam uwag.",Skill_H,TAG_31,Stream4
+1896,Magdalena Michalska,0,2024-10-22,Zgłoszenie zostało zignorowane.,Skill_H,TAG_30,Stream4
+1897,Krzysztof Adamczyk,6,2024-05-01,Nie jestem w pełni usatysfakcjonowany.,Skill_H,TAG_32,Stream4
+1898,Magdalena Michalska,1,2024-01-18,Zbyt ogólne informacje – nie pomogło.,Skill_H,TAG_30,Stream4
+1899,Magdalena Michalska,4,2024-10-16,"Nie było problemu, ale też bez zaangażowania.",Skill_G,TAG_25,Stream4
+1900,Magdalena Michalska,7,2024-11-27,Nie jestem w pełni usatysfakcjonowany.,Skill_H,TAG_31,Stream4
+1901,Magdalena Michalska,1,2024-02-25,Konsultant był nieprzygotowany.,Skill_H,TAG_30,Stream4
+1902,Łukasz Zając,7,2024-12-19,Jestem bardzo zadowolony z rozmowy.,Skill_G,TAG_27,Stream4
+1903,Łukasz Zając,7,2024-06-05,"Długi czas oczekiwania, ale reszta ok.",Skill_G,TAG_26,Stream4
+1904,Łukasz Zając,2,2024-10-05,Zwyczajna rozmowa – nic szczególnego.,Skill_H,TAG_30,Stream4
+1905,Łukasz Zając,2,2024-11-24,Otrzymałem sprzeczne informacje.,Skill_G,TAG_25,Stream4
+1906,Magdalena Michalska,2,2024-10-10,Obsługa na najwyższym poziomie.,Skill_H,TAG_30,Stream4
+1907,Krzysztof Adamczyk,4,2024-03-08,Konsultant z wiedzą i empatią.,Skill_H,TAG_32,Stream4
+1908,Magdalena Michalska,7,2024-12-18,"Konsultant był wyrozumiały, ale bez konkretów.",Skill_G,TAG_26,Stream4
+1909,Krzysztof Adamczyk,5,2024-02-26,Brak empatii i zrozumienia.,Skill_G,TAG_26,Stream4
+1910,Łukasz Zając,2,2024-09-28,Nie polecam – strata czasu.,Skill_H,TAG_32,Stream4
+1911,Łukasz Zając,0,2024-09-10,Nie wrócę więcej – bardzo słabo.,Skill_G,TAG_25,Stream4
+1912,Krzysztof Adamczyk,8,2024-03-08,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_H,TAG_32,Stream4
+1913,Łukasz Zając,2,2024-07-20,Nie polecam – strata czasu.,Skill_G,TAG_28,Stream4
+1914,Aleksandra Dudek,6,2024-04-21,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_G,TAG_28,Stream4
+1915,Aleksandra Dudek,8,2024-06-12,Jestem bardzo zadowolony z rozmowy.,Skill_H,TAG_30,Stream4
+1916,Aleksandra Dudek,6,2024-12-27,Obsługa była nieuprzejma.,Skill_G,TAG_26,Stream4
+1917,Łukasz Zając,4,2024-11-28,"Dużo słów, mało rozwiązań.",Skill_G,TAG_26,Stream4
+1918,Krzysztof Adamczyk,1,2024-11-20,Kontakt szybki i konkretny.,Skill_G,TAG_26,Stream4
+1919,Łukasz Zając,0,2024-03-10,Obsługa była nieuprzejma.,Skill_G,TAG_27,Stream4
+1920,Krzysztof Adamczyk,9,2024-09-15,Doceniam szybkie działanie.,Skill_G,TAG_27,Stream4
+1921,Łukasz Zając,1,2024-05-17,"Dużo słów, mało rozwiązań.",Skill_H,TAG_30,Stream4
+1922,Krzysztof Adamczyk,0,2024-03-29,Rozmowa nieprzyjemna i nerwowa.,Skill_G,TAG_25,Stream4
+1923,Magdalena Michalska,1,2024-07-27,Niezadowolony z poziomu obsługi.,Skill_G,TAG_27,Stream4
+1924,Łukasz Zając,8,2024-02-26,Długo czekałem na połączenie.,Skill_H,TAG_31,Stream4
+1925,Krzysztof Adamczyk,2,2024-04-23,Kontakt szybki i konkretny.,Skill_H,TAG_32,Stream4
+1926,Magdalena Michalska,5,2024-10-03,"Świetna obsługa, bardzo dziękuję!",Skill_H,TAG_30,Stream4
+1927,Łukasz Zając,10,2024-03-20,Kontakt szybki i konkretny.,Skill_H,TAG_32,Stream4
+1928,Aleksandra Dudek,5,2024-07-29,Konsultant z wiedzą i empatią.,Skill_G,TAG_28,Stream4
+1929,Aleksandra Dudek,2,2024-03-30,Nie wrócę więcej – bardzo słabo.,Skill_G,TAG_28,Stream4
+1930,Aleksandra Dudek,1,2024-08-28,"Świetna obsługa, bardzo dziękuję!",Skill_G,TAG_26,Stream4
+1931,Krzysztof Adamczyk,1,2024-04-20,Konsultant z wiedzą i empatią.,Skill_H,TAG_32,Stream4
+1932,Aleksandra Dudek,8,2024-04-04,Rozmowa nieprzyjemna i nerwowa.,Skill_G,TAG_26,Stream4
+1933,Łukasz Zając,6,2024-06-14,Bardzo rzeczowo i konkretnie.,Skill_H,TAG_31,Stream4
+1934,Aleksandra Dudek,6,2024-03-03,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_H,TAG_30,Stream4
+1935,Łukasz Zając,9,2024-01-27,"Obsługa poprawna, ale bez zachwytu.",Skill_H,TAG_30,Stream4
+1936,Magdalena Michalska,2,2024-06-03,"Dużo słów, mało rozwiązań.",Skill_G,TAG_25,Stream4
+1937,Łukasz Zając,10,2024-08-30,Zwyczajna rozmowa – nic szczególnego.,Skill_G,TAG_28,Stream4
+1938,Łukasz Zając,9,2024-02-20,Brak empatii i zrozumienia.,Skill_H,TAG_29,Stream4
+1939,Łukasz Zając,7,2024-03-30,Rozwiązano mój problem od razu.,Skill_G,TAG_27,Stream4
+1940,Aleksandra Dudek,0,2024-05-05,"Było w porządku, choć bez fajerwerków.",Skill_H,TAG_30,Stream4
+1941,Aleksandra Dudek,2,2024-09-28,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_H,TAG_32,Stream4
+1942,Aleksandra Dudek,9,2024-02-07,Brak empatii i zrozumienia.,Skill_G,TAG_28,Stream4
+1943,Magdalena Michalska,4,2024-02-10,Nie udało się rozwiązać mojego problemu.,Skill_H,TAG_30,Stream4
+1944,Aleksandra Dudek,1,2024-03-06,"Mogło być lepiej, ale doceniam starania.",Skill_G,TAG_25,Stream4
+1945,Magdalena Michalska,2,2024-11-06,Bardzo rzeczowo i konkretnie.,Skill_G,TAG_25,Stream4
+1946,Łukasz Zając,5,2024-03-11,"Długi czas oczekiwania, ale reszta ok.",Skill_G,TAG_25,Stream4
+1947,Łukasz Zając,0,2024-06-19,Bardzo rzeczowo i konkretnie.,Skill_H,TAG_31,Stream4
+1948,Krzysztof Adamczyk,7,2024-05-30,Otrzymałem sprzeczne informacje.,Skill_H,TAG_29,Stream4
+1949,Krzysztof Adamczyk,1,2024-03-17,"Długi czas oczekiwania, ale reszta ok.",Skill_G,TAG_25,Stream4
+1950,Aleksandra Dudek,9,2024-10-31,"Miło, ale nie wszystko zostało wyjaśnione.",Skill_H,TAG_29,Stream4
+1951,Aleksandra Dudek,1,2024-04-07,Doceniam szybkie działanie.,Skill_G,TAG_25,Stream4
+1952,Aleksandra Dudek,1,2024-12-16,Dostałem odpowiedź na wszystkie pytania.,Skill_G,TAG_25,Stream4
+1953,Krzysztof Adamczyk,4,2024-09-05,Nie polecam – strata czasu.,Skill_G,TAG_25,Stream4
+1954,Aleksandra Dudek,6,2024-11-01,"Było w porządku, choć bez fajerwerków.",Skill_H,TAG_29,Stream4
+1955,Łukasz Zając,1,2024-12-15,Czułem się zbywany.,Skill_G,TAG_27,Stream4
+1956,Magdalena Michalska,5,2024-06-21,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_G,TAG_28,Stream4
+1957,Aleksandra Dudek,2,2024-02-23,"Było w porządku, choć bez fajerwerków.",Skill_H,TAG_30,Stream4
+1958,Krzysztof Adamczyk,1,2024-12-04,Nie polecam – strata czasu.,Skill_G,TAG_26,Stream4
+1959,Aleksandra Dudek,0,2024-02-02,Nie mam zastrzeżeń – wszystko sprawnie.,Skill_G,TAG_26,Stream4
+1960,Łukasz Zając,3,2024-01-27,"Dużo słów, mało rozwiązań.",Skill_H,TAG_32,Stream4
+1961,Łukasz Zając,5,2024-03-17,Rozwiązano mój problem od razu.,Skill_H,TAG_30,Stream4
+1962,Krzysztof Adamczyk,6,2024-04-26,Zbyt ogólne informacje – nie pomogło.,Skill_G,TAG_28,Stream4
+1963,Magdalena Michalska,4,2024-03-28,"Długi czas oczekiwania, ale reszta ok.",Skill_H,TAG_30,Stream4
+1964,Magdalena Michalska,4,2024-08-17,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_H,TAG_32,Stream4
+1965,Magdalena Michalska,10,2024-06-10,"Świetna obsługa, bardzo dziękuję!",Skill_H,TAG_29,Stream4
+1966,Aleksandra Dudek,3,2024-01-05,Nie wrócę więcej – bardzo słabo.,Skill_G,TAG_28,Stream4
+1967,Łukasz Zając,1,2024-11-14,Konsultant był pomocny i miły.,Skill_G,TAG_27,Stream4
+1968,Aleksandra Dudek,3,2024-12-24,Nie polecam – strata czasu.,Skill_H,TAG_29,Stream4
+1969,Magdalena Michalska,6,2024-08-11,Zwyczajna rozmowa – nic szczególnego.,Skill_H,TAG_31,Stream4
+1970,Łukasz Zając,4,2024-12-30,Nie polecam – strata czasu.,Skill_G,TAG_27,Stream4
+1971,Łukasz Zając,10,2024-10-03,Nie udało się rozwiązać mojego problemu.,Skill_H,TAG_30,Stream4
+1972,Aleksandra Dudek,9,2024-07-13,Zwyczajna rozmowa – nic szczególnego.,Skill_G,TAG_26,Stream4
+1973,Aleksandra Dudek,7,2024-08-04,Czułem się zbywany.,Skill_G,TAG_25,Stream4
+1974,Łukasz Zając,5,2024-09-12,Zignorowano moje pytania.,Skill_H,TAG_31,Stream4
+1975,Aleksandra Dudek,8,2024-11-04,"Nie było problemu, ale też bez zaangażowania.",Skill_G,TAG_26,Stream4
+1976,Łukasz Zając,2,2024-10-05,"Mogło być lepiej, ale doceniam starania.",Skill_H,TAG_32,Stream4
+1977,Łukasz Zając,3,2024-04-09,Nie polecam – strata czasu.,Skill_G,TAG_27,Stream4
+1978,Magdalena Michalska,4,2024-04-07,"Obsługa poprawna, ale bez zachwytu.",Skill_H,TAG_32,Stream4
+1979,Łukasz Zając,7,2024-07-15,Obsługa na najwyższym poziomie.,Skill_H,TAG_30,Stream4
+1980,Magdalena Michalska,9,2024-12-12,Nie udało się rozwiązać mojego problemu.,Skill_G,TAG_25,Stream4
+1981,Łukasz Zając,1,2024-03-05,Konsultant z wiedzą i empatią.,Skill_H,TAG_31,Stream4
+1982,Krzysztof Adamczyk,6,2024-05-17,Brak konkretnej odpowiedzi.,Skill_G,TAG_27,Stream4
+1983,Aleksandra Dudek,5,2024-10-11,Niezadowolony z poziomu obsługi.,Skill_G,TAG_27,Stream4
+1984,Krzysztof Adamczyk,5,2024-01-01,Długo czekałem na połączenie.,Skill_H,TAG_30,Stream4
+1985,Łukasz Zając,5,2024-05-16,"Rozmowa trwała długo, ale zakończona sukcesem.",Skill_H,TAG_31,Stream4
+1986,Łukasz Zając,1,2024-11-26,Czułem się zbywany.,Skill_H,TAG_30,Stream4
+1987,Krzysztof Adamczyk,7,2024-04-01,Dostałem odpowiedź na wszystkie pytania.,Skill_G,TAG_26,Stream4
+1988,Magdalena Michalska,8,2024-08-14,Rewelacyjna pomoc – problem rozwiązany w minutę.,Skill_G,TAG_28,Stream4
+1989,Magdalena Michalska,2,2024-10-10,"Dużo słów, mało rozwiązań.",Skill_H,TAG_29,Stream4
+1990,Łukasz Zając,5,2024-11-26,Rozmowa nieprzyjemna i nerwowa.,Skill_G,TAG_25,Stream4
+1991,Aleksandra Dudek,7,2024-09-28,"Pomocna rozmowa, ale trwała zbyt długo.",Skill_G,TAG_27,Stream4
+1992,Aleksandra Dudek,9,2024-12-05,Obsługa była nieuprzejma.,Skill_H,TAG_29,Stream4
+1993,Łukasz Zając,1,2024-10-16,Świetne podejście – aż miło było rozmawiać!,Skill_G,TAG_27,Stream4
+1994,Magdalena Michalska,10,2024-08-24,Konsultant był pomocny i miły.,Skill_G,TAG_26,Stream4
+1995,Magdalena Michalska,2,2024-07-29,Otrzymałem sprzeczne informacje.,Skill_G,TAG_27,Stream4
+1996,Łukasz Zając,2,2024-02-06,Nie polecam – strata czasu.,Skill_H,TAG_32,Stream4
+1997,Magdalena Michalska,4,2024-03-05,Kontakt pierwsza klasa!,Skill_G,TAG_26,Stream4
+1998,Krzysztof Adamczyk,5,2024-07-18,Kontakt pierwsza klasa!,Skill_H,TAG_30,Stream4
+1999,Krzysztof Adamczyk,6,2024-12-08,Odpowiedź wymagała doprecyzowania.,Skill_G,TAG_26,Stream4
+2000,Krzysztof Adamczyk,9,2024-01-29,"Neutralna rozmowa, nie mam uwag.",Skill_H,TAG_32,Stream4
