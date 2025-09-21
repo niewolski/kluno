@@ -1,13 +1,13 @@
 import pandas as pd
 import os
 
-# sciezki
+# sciezki plikow
 grafik_path = 'DATA/grafik_2024.csv'
 nps_path = 'DATA/nps_2024.csv'
 prognoza_path = 'DATA/prognoza_streamow.csv'
 output_path = 'prepared_data/dane_treningowe.csv'
 
-# wczytanie danych
+# wczytanie danych danych
 grafik = pd.read_csv(grafik_path)
 nps = pd.read_csv(nps_path)
 prognoza = pd.read_csv(prognoza_path)
