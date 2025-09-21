@@ -2,7 +2,7 @@ import csv
 import random
 from datetime import datetime, timedelta
 
-# Lista osób
+# lista doradcow
 imiona_nazwiska = [
     "Anna Kowalska", "Piotr Nowak", "Maria Wiśniewska", "Tomasz Wójcik",
     "Katarzyna Kozłowska", "Michał Jankowski", "Agnieszka Mazur", "Jakub Krawczyk",
@@ -11,7 +11,7 @@ imiona_nazwiska = [
     "Ewelina Wieczorek", "Bartosz Jabłoński", "Natalia Sobczak", "Damian Król"
 ]
 
-# Komentarze
+# komentarze
 komentarze = [
     "Świetna obsługa, bardzo dziękuję!",
     "Nie mam zastrzeżeń – wszystko sprawnie.",
@@ -65,7 +65,7 @@ komentarze = [
     "Nie wrócę więcej – bardzo słabo."
 ]
 
-# Skill -> Tag
+# tagi do skilli
 skill_tag_map = {
     "Skill_A": ["TAG_1", "TAG_2", "TAG_3", "TAG_4"],
     "Skill_B": ["TAG_5", "TAG_6", "TAG_7", "TAG_8"],
@@ -77,7 +77,7 @@ skill_tag_map = {
     "Skill_H": ["TAG_29", "TAG_30", "TAG_31", "TAG_32"]
 }
 
-# Skill -> Stream
+# skille do strumieni
 skill_stream_map = {
     "Skill_A": "Stream1", "Skill_B": "Stream1",
     "Skill_C": "Stream2", "Skill_D": "Stream2",
@@ -85,7 +85,7 @@ skill_stream_map = {
     "Skill_G": "Stream4", "Skill_H": "Stream4"
 }
 
-# Osoba -> skille (ręczne przypisanie)
+# skille dla oosb
 osoba_skill_map = {
     "Anna Kowalska": ("Skill_A", "Skill_B"), "Piotr Nowak": ("Skill_A", "Skill_B"),
     "Maria Wiśniewska": ("Skill_A", "Skill_B"), "Tomasz Wójcik": ("Skill_A", "Skill_B"),
@@ -99,16 +99,16 @@ osoba_skill_map = {
     "Natalia Sobczak": ("Skill_A", "Skill_B"), "Damian Król": ("Skill_A", "Skill_B")
 }
 
-# Funkcja do daty
+# losowanei dat
 def generuj_losowa_date():
     start = datetime(2024, 1, 1)
     end = datetime(2024, 12, 31)
     return (start + timedelta(days=random.randint(0, (end - start).days))).strftime("%Y-%m-%d")
 
-# Konfiguracja liczby rekordów
+# liczba rekordow
 TOTAL = 2000
 
-# Definicje zakresów w procentach
+# zakres losowania w % per stream
 stream_percent_ranges = {
     "Stream1": (15, 25),
     "Stream2": (30, 40),
@@ -116,7 +116,7 @@ stream_percent_ranges = {
     "Stream4": (25, 35),
 }
 
-# Losujemy dopóki suma nie wynosi 100%
+# losowanie do 100%
 while True:
     stream_percents = {
         stream: random.randint(min_p, max_p)
@@ -125,13 +125,13 @@ while True:
     if sum(stream_percents.values()) == 100:
         break
 
-# Przekształcamy procenty na liczby rekordów
+# % na liczbe rekordow
 stream_targets = {
     stream: round((percent / 100) * TOTAL)
     for stream, percent in stream_percents.items()
 }
 
-# Grupujemy osoby wg streamów
+# grupowanie osob wg streamow
 stream_osoby = {
     "Stream1": [o for o in imiona_nazwiska if any(s in ("Skill_A", "Skill_B") for s in osoba_skill_map[o])],
     "Stream2": [o for o in imiona_nazwiska if any(s in ("Skill_C", "Skill_D") for s in osoba_skill_map[o])],
@@ -139,7 +139,7 @@ stream_osoby = {
     "Stream4": [o for o in imiona_nazwiska if any(s in ("Skill_G", "Skill_H") for s in osoba_skill_map[o])],
 }
 
-# Generowanie danych
+# generowanie danych
 dane = []
 id_counter = 1
 for stream, target_count in stream_targets.items():
@@ -163,7 +163,7 @@ for stream, target_count in stream_targets.items():
         })
         id_counter += 1
 
-# Zapis do pliku CSV
+# zapisywanie do csv
 with open("DATA/nps_2024.csv", 'w', newline='', encoding='utf-8') as csvfile:
     fieldnames = ['ID', 'Imie_Nazwisko', 'Ocena_NPS', 'Data', 'Komentarz', 'Skill', 'Tag', 'Stream']
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)

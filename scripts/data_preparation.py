@@ -1,25 +1,25 @@
 import pandas as pd
 import os
 
-# Ścieżki
+# sciezki
 grafik_path = 'DATA/grafik_2024.csv'
 nps_path = 'DATA/nps_2024.csv'
 prognoza_path = 'DATA/prognoza_streamow.csv'
 output_path = 'prepared_data/dane_treningowe.csv'
 
-# Wczytanie danych
+# wczytanie danych
 grafik = pd.read_csv(grafik_path)
 nps = pd.read_csv(nps_path)
 prognoza = pd.read_csv(prognoza_path)
 
-# --- 1. Obliczenie godzin i spraw ---
+# obliczanie godzin i spraw
 grafik['Roczna_liczba_godzin'] = grafik.iloc[:, 1:].sum(axis=1)
 total_godziny = grafik['Roczna_liczba_godzin'].sum()
 total_spraw = prognoza['Liczba_rekordow'].sum()
 sprawy_na_godzine = total_spraw / total_godziny
 grafik['Przypisane_sprawy'] = (grafik['Roczna_liczba_godzin'] * sprawy_na_godzine).round().astype(int)
 
-# --- 2. Obliczenie prawdziwego NPS ---
+# obliczanie nps
 def policz_nps(grupa):
     total = len(grupa)
     if total == 0:
@@ -30,12 +30,12 @@ def policz_nps(grupa):
 
 nps_roczny = nps.groupby('Imie_Nazwisko').apply(policz_nps).reset_index()
 
-# --- 3. Skille per doradca ---
+# skille per Doradca
 skille_doradcow = nps[['Imie_Nazwisko', 'Skill']].drop_duplicates()
 skille_zbiorcze = skille_doradcow.groupby('Imie_Nazwisko')['Skill'].apply(lambda x: ', '.join(sorted(x.unique()))).reset_index()
 skille_zbiorcze.columns = ['Imię nazwisko', 'Skille']
 
-# --- 4. Tagi per doradca ---
+# tagi per Doradca
 if 'Tag' in nps.columns:
     tagi_doradcow = nps[['Imie_Nazwisko', 'Tag']].dropna().drop_duplicates()
     tagi_zbiorcze = tagi_doradcow.groupby('Imie_Nazwisko')['Tag'].apply(lambda x: ', '.join(sorted(x.unique()))).reset_index()
@@ -43,7 +43,7 @@ if 'Tag' in nps.columns:
 else:
     tagi_zbiorcze = pd.DataFrame(columns=['Imię nazwisko', 'Tagi'])
 
-# --- 5. Połączenie wszystkich danych ---
+# polaczenie wszystskich danych
 dane_treningowe = pd.merge(
     grafik[['Imię nazwisko', 'Roczna_liczba_godzin', 'Przypisane_sprawy']],
     nps_roczny,
@@ -66,9 +66,9 @@ dane_treningowe = pd.merge(
     how='left'
 )
 
-# --- 6. Zapis do pliku ---
+# zapis do pliku
 if not os.path.exists('prepared_data'):
     os.makedirs('prepared_data')
 
 dane_treningowe.to_csv(output_path, index=False)
-print(f"✅ Zapisano dane do: {output_path}")
+print(f"Zapisano dane do: {output_path}")

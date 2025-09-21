@@ -6,13 +6,13 @@ from fpdf import FPDF
 from PIL import Image
 import base64
 
-# === Streamlit config ===
+# streamlit config
 st.set_page_config(
     page_title="Kluno NPS Prediction & Analytics Dashboard",
     initial_sidebar_state="expanded"
 )
 
-# === Nowoczesny styl CSS ===
+# styl css streamlita
 st.markdown("""
     <style>
         /* Tło i font */
@@ -71,7 +71,7 @@ st.markdown("""
 
 
 
-# === Logo i branding ===
+# logo
 logo_path = "dashboard/kluno_logo2.png"
 
 def load_logo_base64(path):
@@ -81,7 +81,7 @@ def load_logo_base64(path):
 
 logo_base64 = load_logo_base64(logo_path)
 
-# Wycentrowany nagłówek z logo i tytułem
+# logo z tytulem na srodku
 st.markdown(
     f"""
     <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 2.5rem;">
@@ -95,18 +95,18 @@ st.markdown(
 )
 
 
-# === Sidebar ===
+# sidebar
 st.sidebar.header("Wczytaj dane do analizy")
 uploaded_grafik = st.sidebar.file_uploader("Grafik doradców", type='csv')
 uploaded_prognoza = st.sidebar.file_uploader("Prognoza spraw", type='csv')
 
-# === Inicjalizacja session_state ===
+# inicjalizacja session_state
 if 'analiza_gotowa' not in st.session_state:
     st.session_state['analiza_gotowa'] = False
 if 'df_nps' not in st.session_state:
     st.session_state['df_nps'] = None
 
-# === Wczytanie danych historycznych, modelu i encoderów ===
+# wczytanie danych historycznych modelu i encoderow
 df_2024 = pd.read_csv('prepared_data/dane_treningowe.csv')[
     ['Imię nazwisko', 'Skille', 'Tagi', 'NPS', 'Przypisane_sprawy']
 ]
@@ -117,7 +117,7 @@ df_2024.rename(columns={
 model = joblib.load('models/model_nps.pkl')
 encoder = joblib.load('models/skille_encoder.pkl')
 
-# === Uruchomienie analizy ===
+# uruchomienie analizy
 if uploaded_grafik and uploaded_prognoza and st.sidebar.button("Rozpocznij analizę"):
     grafik = pd.read_csv(uploaded_grafik)
     prognoza = pd.read_csv(uploaded_prognoza)
@@ -148,7 +148,7 @@ if uploaded_grafik and uploaded_prognoza and st.sidebar.button("Rozpocznij anali
     st.session_state['analiza_gotowa'] = True
     st.session_state['df_nps'] = df.copy()
 
-# === Widok po analizie ===
+# widok po analizie
 if st.session_state['analiza_gotowa']:
     df = st.session_state['df_nps']
 
@@ -168,7 +168,7 @@ if st.session_state['analiza_gotowa']:
     wszystkie_tagi = sorted({t.strip() for tags in df['Tagi'].dropna() for t in tags.split(',')})
     wybrane_tagi = st.multiselect("Filtruj po tagach:", wszystkie_tagi)
 
-    # Filtracja danych
+    # filtry danych
     df_filtered = df.copy()
     if wybrani_doradcy:
         df_filtered = df_filtered[df_filtered['Imię nazwisko'].isin(wybrani_doradcy)]
@@ -177,7 +177,7 @@ if st.session_state['analiza_gotowa']:
     if wybrane_tagi:
         df_filtered = df_filtered[df_filtered['Tagi'].fillna('').apply(lambda x: any(tag in x for tag in wybrane_tagi))]
 
-    # Widok wykresów
+    # widok wykresow
     widok = st.radio("Wybierz widok:", ["2025", "2024", "Porównanie", "Zmiana NPS"], horizontal=True)
 
     if widok == "2025":
@@ -209,7 +209,7 @@ if st.session_state['analiza_gotowa']:
                      title='Zmiana NPS: 2025 - 2024')
         st.plotly_chart(fig, use_container_width=True)
 
-    # Metryka i tabela szczegółowa
+    # tabela szczegolowa
     if not df_filtered.empty:
         nps_filtrowany = (df_filtered['Prognozowany_NPS'] * df_filtered['Przypisane_sprawy']).sum() / df_filtered['Przypisane_sprawy'].sum()
         st.metric("NPS po filtrach", f"{round(nps_filtrowany, 2)}")
@@ -243,6 +243,6 @@ if st.session_state['analiza_gotowa']:
 else:
     st.info("Wgraj grafik i prognozę, aby rozpocząć analizę.")
 
-# === Wersja aplikacji na dole sidebaru ===
+# wersja apki na dole sidebar
 st.sidebar.markdown("---")
 st.sidebar.markdown("<p style='text-align:center; color: gray;'>Wersja 1.1.2</p>", unsafe_allow_html=True)

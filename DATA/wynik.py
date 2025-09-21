@@ -1,9 +1,9 @@
 import pandas as pd
 
-# Wczytaj dane
+# wczytanie danych
 df = pd.read_csv("DATA/nps_2024.csv")
 
-# Funkcja obliczająca szczegóły NPS
+# funkcja obliczajaca szczegoly nps
 def oblicz_nps(grupa):
     liczba = len(grupa)
     if liczba == 0:
@@ -32,24 +32,24 @@ def oblicz_nps(grupa):
         "NPS": nps_score
     })
 
-# NPS per Skill
+# nps per skill
 nps_per_skill = df.groupby("Skill").apply(oblicz_nps).reset_index()
 nps_per_skill["Poziom"] = "SKILL"
 nps_per_skill["Tag"] = ""
 nps_per_skill["Imie_Nazwisko"] = ""
 
-# NPS per Tag
+# nps per tag
 nps_per_tag = df.groupby(["Skill", "Tag"]).apply(oblicz_nps).reset_index()
 nps_per_tag["Poziom"] = "TAG"
 nps_per_tag["Imie_Nazwisko"] = ""
 
-# NPS per Agent
+# nps per doradca
 nps_per_agent = df.groupby("Imie_Nazwisko").apply(oblicz_nps).reset_index()
 nps_per_agent["Poziom"] = "DORADCA"
 nps_per_agent["Skill"] = ""
 nps_per_agent["Tag"] = ""
 
-# TOTAL – globalne podsumowanie
+# total
 total_nps = oblicz_nps(df)
 total_row = pd.DataFrame([{
     "Poziom": "TOTAL",
@@ -59,14 +59,14 @@ total_row = pd.DataFrame([{
     **total_nps
 }])
 
-# Łączymy wszystkie dane
+# laczenie wszystkich danych
 raport = pd.concat([nps_per_skill, nps_per_tag, nps_per_agent, total_row], ignore_index=True)
 
-# Kolejność kolumn
+# kolejnosc kolumn
 raport = raport[[ 
     "Poziom", "Skill", "Tag", "Imie_Nazwisko", 
     "Liczba", "Promotorzy_%", "Neutralni_%", "Krytycy_%", "NPS"
 ]]
 
-# Zapisz do pliku
+# zapisywanie do csv
 raport.to_csv("DATA/nps_wynik.csv", index=False)
