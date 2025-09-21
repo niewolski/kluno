@@ -1,6 +1,6 @@
 import pandas as pd
 
-# wczytywanie danych
+# wczytywanie danych nps
 df = pd.read_csv("DATA/nps_2024.csv")
 
 # liczenie liczby rekordow per stream

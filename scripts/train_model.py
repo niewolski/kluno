@@ -14,7 +14,7 @@ data['Skille_lista'] = data['Skille'].fillna('').apply(lambda x: x.split(', ') i
 mlb = MultiLabelBinarizer()
 X_skille_df = pd.DataFrame(mlb.fit_transform(data['Skille_lista']), columns=mlb.classes_)
 
-# przygotowanie zmiennych X i y 
+# przygotowanie zmiennych x i y 
 X = pd.concat([
     data[['Roczna_liczba_godzin', 'Przypisane_sprawy']].reset_index(drop=True),
     X_skille_df.reset_index(drop=True)

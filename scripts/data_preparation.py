@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-# sciezki plikow
+# sciezki
 grafik_path = 'DATA/grafik_2024.csv'
 nps_path = 'DATA/nps_2024.csv'
 prognoza_path = 'DATA/prognoza_streamow.csv'

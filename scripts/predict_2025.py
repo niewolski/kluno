@@ -50,7 +50,7 @@ print(f"Prognozowany NPS (total): {total_nps}")
 # dodanie kolumny z nps prognozowany
 dane_pred['Prognozowany_NPS_TOTAL'] = total_nps
 
-# zapis do csv
+# zapis predykcji do csv
 output_path = 'prepared_data/predykcja_2025.csv'
 dane_pred.to_csv(output_path, index=False)
 print(f"Prognoza zapisana do: {output_path}")

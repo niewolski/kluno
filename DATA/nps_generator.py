@@ -139,7 +139,7 @@ stream_osoby = {
     "Stream4": [o for o in imiona_nazwiska if any(s in ("Skill_G", "Skill_H") for s in osoba_skill_map[o])],
 }
 
-# generowanie danych
+# generowanie danych nps
 dane = []
 id_counter = 1
 for stream, target_count in stream_targets.items():

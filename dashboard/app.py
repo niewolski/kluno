@@ -71,7 +71,7 @@ st.markdown("""
 
 
 
-# logo
+# logo kluno
 logo_path = "dashboard/kluno_logo2.png"
 
 def load_logo_base64(path):

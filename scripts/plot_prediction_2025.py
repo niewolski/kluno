@@ -30,7 +30,7 @@ plt.grid(axis='y', linestyle='--', alpha=0.5)
 plt.tight_layout()
 plt.legend()
 
-# zapis do png wykres
+# zapis wykresu
 output_path = 'prepared_data/wykres_nps_2025.png'
 plt.savefig(output_path)
 plt.close()

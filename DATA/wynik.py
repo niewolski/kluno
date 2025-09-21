@@ -68,5 +68,5 @@ raport = raport[[
     "Liczba", "Promotorzy_%", "Neutralni_%", "Krytycy_%", "NPS"
 ]]
 
-# zapisywanie do csv
+# zapisywanie do csv wynikow
 raport.to_csv("DATA/nps_wynik.csv", index=False)
