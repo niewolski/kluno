@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Generated files
+prepared_data/raport_nps.pdf
+*.pdf
+!dashboard/fonts/*.pkl
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files (opcjonalnie - jeśli są duże, można je ignorować)
+# models/*.pkl
+
+# Data files (opcjonalnie - jeśli są wrażliwe)
+# DATA/
+# DATA_FUTURE/
+
+

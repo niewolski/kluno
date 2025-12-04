@@ -9,7 +9,7 @@ dla Linux/MacOS source venv/bin/activate
 pip install -r requirements.txt
 
 4. aktywacja streamlita
-streamlit run dashboard/app.py
+streamlit run app.py
 
 5. dezakttwacja srodowiska
 deactivate
